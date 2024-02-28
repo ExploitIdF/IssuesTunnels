@@ -28,19 +28,19 @@ marché batiment
 Dans le marché batiment, la prestation de la maintenance préventive d'une issue de secours est décrite comme une liste d'actions. De cette liste on a extrait les objets suivants:
 
 * portes coupe-feu
-      *serrurerie
-     * capteurs de position 
+    *serrurerie
+    * capteurs de position 
     *  panneaux et calfeutrements
-   *   parements inox des vantaux 
+    *   parements inox des vantaux 
     *  gonds
-     * serrures
+    * serrures
     *  parties métalliques en mouvement
     *  organes de commande sensibles aux manifestations d’incendie
-   *    pivot, 
+    *    pivot, 
     *  roulement, 
     *  ferme-porte
-   *   bras
-   *   sélecteurs de vantaux
+    *   bras
+    *   sélecteurs de vantaux
 * système de détection et de déclenchement 
 * liaisons électriques et détecteurs et des déclencheurs
 * surpression 
