@@ -7,7 +7,9 @@ Consistance des issues de secours
    12_cme
    11_reference
 
-On regroupe dans la notion d'issue de secours un ensemble de composants qu'il est nécessaire d'identifier et de décrire. Certains composants, comme la porte de séparation avec le tunnel, sont particulièrement importants pour la sécurité. Une hiérarchisation est donc nécessaire.
+On regroupe dans la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. Certaines composantes, comme la porte de séparation avec le tunnel, sont particulièrement importantes pour la sécurité. Une hiérarchisation est donc nécessaire.
+
+Les `conditions minimales d'exploitation (CME)<12_cme>` portent sur la vacuité, l'éclairage de sécurité et la porte.
 
 On a examiné comment le fascicule 40 de l'ITSEOA et les marchés de maintenance identifient les composantes des issues. 
 :doc:`Le détails est présenté ici<11_reference>`.
