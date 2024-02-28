@@ -4,6 +4,7 @@ Consistance des issues de secours
    :hidden:
    :maxdepth: 3
 
+   12_cme
    11_reference
 
 On regroupe dans la notion d'issue de secours un ensemble de composants qu'il est nécessaire d'identifier et de décrire. Certains composants, comme la porte de séparation avec le tunnel, sont particulièrement importants pour la sécurité. Une hiérarchisation est donc nécessaire.
