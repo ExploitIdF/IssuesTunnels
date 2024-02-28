@@ -8,10 +8,12 @@ Le bordereau de prix du marché Batiment comporte 3 numéros de prix pour :
 * la matinenance préventive de nuit d'une issue
 * la matinenance préventive de nuit d'une niche de sécurité
 
-En fait, ces prix n'ont pas vocations à être utilisés pour une issue particulière, mais pour l'ensemble des issues d'un tunnel.
-Implicitement, les commandes concernent aussi les niches de sécurité dont la maitnenance présente des synergies
+En fait, ces prix n'ont pas vocations à être utilisés isolement pour une issue particulière, 
+mais dans le cadre d'une prestation portant sur l'ensemble des issues d'un tunnel.
+Implicitement, les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
 évidentes avec celle des issues.
-Des modèles de rapport figurent en annexe du CCTP pour chacun des tunnels, avec l'identification de chacune des issues et niches du tunnel.
+Des modèles de rapport figurent en annexe du CCTP pour chacun des tunnels, 
+avec l'identification de chacune des issues et niches du tunnel.
 Il y aurait une une logique à définir un prix par tunnel, comme cela est fait dans les marchés propreté ou éclairage.
 
 Utilisation du marché
