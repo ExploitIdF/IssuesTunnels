@@ -1,6 +1,8 @@
 Conditions minimales d'exploitation
 ====================================
-La formulation des CME dans les PIS a été recemment revue. Dans les derniers PIS a été adoptée la formulation suivante :
+Formulation des CME
+"""""""""""""""""""""
+La formulation des CME dans les *plans d'intervention et de sécurité* **PIS** a été recemment revue. Dans les derniers PIS a été adoptée la formulation suivante :
 
             Le mode critique est atteint si 2 issues consécutives ne sont pas opérationnelles.
          
