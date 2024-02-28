@@ -70,4 +70,56 @@ On trouve dans le CCTP du marché propreté la liste suivante :
 * Hublot extérieur
 * Signalisation 
 
+L'annexe 1 sur le lavage mentionne :
+
+• Les pictogrammes auto-réfléchissant
+• Les chevrons
+• Le capotage lumineux vertical et les feux flashs
+• Le capotage lumineux horizontale
+• Les CE30
+• La sirène et les balises sonores
+
+
+
+L'annexe 2 sur l'inspection des issues de jour mentionne : 
+
+* Porte Tunnel 
+* Porte SAS 
+* Porte Haute 
+* Portail ou portillon Extérieure 
+* Eclairage permanent (LED) 
+* Eclairage renforcé (fluo) 
+* Eclairage extérieur 
+* Pictogramme CE30 
+* Accessibilité extérieure 
+* Signalisation extérieure de l’issue 
+* Vacuité dans l’issue 
+* Propreté de l’issue 
+* Visibilité de la statique (main courante et panneaux) 
+* Surpression (si issue équipée) 
+* Dégradation et accessibilité des PST 
+* Téléphone de SEcurité 
+* Caméra dans l’issue 
+* Détecteurs de présence 
+* GTC
+	* Remontée GTC Ouverture porte (Tunnel) 
+	* Remontée GTC Intrusion en issue (Haute) 
+	* Remontée GTC Détection de présence en IS 
+	* Remontée GTC Visualisation de la caméra en IS 
+	* Défaut(s) présent(s) à la GTC
+
+L'annexe 3 sur l'inspection des issues de nuit mentionne : 
+
+* Plots de jalonnement 
+* Chevrons 
+* Capotage + tri-flash 
+* CE30 
+* Présence et visibilité de la statique (DP2a/b, issue en face) 
+* Défaut(s) présent(s) à la GTC 
+* Sonorisation
+* Sirene 
+* Balises sonores 
+* PST en Tunnel Dégradation et accessibilité des PST
+
+
 
