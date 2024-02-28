@@ -30,19 +30,19 @@ Dans le marché batiment, la prestation de la maintenance préventive d'une issu
 
 * portes coupe-feu
 
-    *serrurerie
-    * capteurs de position 
-    *  panneaux et calfeutrements
-    *   parements inox des vantaux 
-    *  gonds
-    * serrures
-    *  parties métalliques en mouvement
-    *  organes de commande sensibles aux manifestations d’incendie
-    *    pivot, 
-    *  roulement, 
-    *  ferme-porte
-    *   bras
-    *   sélecteurs de vantaux
+	* serrurerie
+	* capteurs de position 
+	* panneaux et calfeutrements
+	* parements inox des vantaux 
+	* gonds
+	* serrures
+	* parties métalliques en mouvement
+	* organes de commande sensibles aux manifestations d’incendie
+	*  pivot, 
+	*  roulement, 
+	*  ferme-porte
+	*   bras
+	*   sélecteurs de vantaux
 
 * système de détection et de déclenchement 
 * liaisons électriques et détecteurs et des déclencheurs
