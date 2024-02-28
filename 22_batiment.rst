@@ -47,7 +47,7 @@ TERIDEAL alors que l'on est contraint par les nuits de fermeture.
 
 .. csv-table::
    :header: Service,Lieu,DateC,Libel,MontantHT
-   :widths: 20 ,20,10,30,10
+   :widths: 15 ,20,20,35,10
    :width: 100%
       
       PCTT Est,Boissy-Saint-Léger,2023-01-25,Préventif des Issues de Secours - Tunnel de BOISSY,1040
