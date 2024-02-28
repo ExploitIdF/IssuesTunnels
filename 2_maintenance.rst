@@ -5,8 +5,7 @@ Politique de maintenance
    :hidden:
 
    22_fonctionnel
-   34_upmm
-   36_comp_de
+
 
 On commence par faire un état des lieux des pratiques des 3 dernières années qui présentent des variations importantes selon le PCTT considéré.
 
@@ -16,7 +15,7 @@ La maintenance des issues de secours peut être décomposée en 3 parties :
 * Maintenance préventive
 * Maintenance curative
 
-Les moyens mobiliser peuvent être de 3 natures différentes :
+Les moyens mobilisés peuvent être de 3 natures différentes :
 
 * Régie : les TDM des PCTT
 * Marché Batiment (TERIDEAL 2020-2024)
