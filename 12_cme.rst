@@ -2,6 +2,8 @@ Conditions minimales d'exploitation
 ====================================
 La formulation des CME dans les PIS a été recemment revue. Dans les derniers PIS a été adoptée la formulation suivante :
 
+Le mode critique est atteint si 2 issues consécutives ne sont pas opérationnelles.
+
    Observation:
 
    Signalisation dynamique d’évacuation (chevron, feux flash)
@@ -22,9 +24,11 @@ Cette formulation mérite encore d'être clarifiée mais on peut en retenir que 
 * Eclairage de sécurité
 * Bon état de la porte sur le tunnel
 
+Contrôle des CME
+""""""""""""""""
+Les détecteurs et caméras permettent d'identifier des anomalies mais le contrôle de la CME demande une visite. C'est pour cette raison que des essais fonctionnels doivent être réalisés régulièrement.
 
-
-
+Quand on a connaissance d'une situation dégradée telle qu'une issue non  opérationnelle. Il faut renforcer le contrôle des issues adjacentes par des visites toutes les 2 semaines. Une signalisation de l'issue non opérationnelle doit être mise en place.
 
 
 
