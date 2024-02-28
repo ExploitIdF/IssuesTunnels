@@ -9,7 +9,7 @@ Consistance des issues de secours
 
 On vise au travers de la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. Certaines composantes, comme la porte de séparation avec le tunnel, sont particulièrement importantes pour la sécurité. D'autres éléments comme la surpression sont nécessaires mais non critiques. Une hiérarchisation est donc nécessaire.
 
-Les **:doc:`conditions minimales d'exploitation (CME)<12_cme>`** définies dans les dossiers de sécurité portent sur la vacuité, l'éclairage de sécurité et la porte.
+Les :doc:`**conditions minimales d'exploitation (CME)**<12_cme>` définies dans les dossiers de sécurité portent sur la vacuité, l'éclairage de sécurité et la porte.
 Ces trois éléments requièrent donc une attention particulière.
 
 
