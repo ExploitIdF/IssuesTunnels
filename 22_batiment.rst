@@ -30,8 +30,15 @@ Certains tunnels ne sont pas traités tous les ans, selon les enregistrements da
 Selon le PCTT Est, le principal facteur limitant les interventions est le manque de disponibilité de l'entreprise 
 TERIDEAL alors que l'on est contraint par les nuits de fermeture.
 
+.. csv-table::
+   :header: Service,21,22,23,Total
+   :widths: 30 ,7,7,7,7
+   :width: 100%
 
-
+  PCTT Est,20,32,20,72
+  PCTT Nord,30,18,3,51
+  PCTT Ouest,23,18,25,66
+  PCTT Sud,19,13,15,47
 
 
 
