@@ -12,6 +12,9 @@ Issues de secours
 
 Mise à jour : février 2024
 
-Ce document rassemble des informations sur la maintenance des issues de secours. 
-On considère ce qui constitue une :doc:`issue de secours<1_consistance>`.
-On explicite ensuite :doc:`la politique de maintenance actuelle<2_maintenance>`
+Ce document rassemble des informations sur la maintenance des issues de secours.
+
+On considère d'abord ce qui constitue une :doc:`issue de secours<1_consistance>`.
+
+On explicite ensuite :doc:`la politique de maintenance actuelle<2_maintenance>`.
+
