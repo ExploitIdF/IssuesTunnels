@@ -30,7 +30,7 @@ Certains tunnels ne sont pas traités tous les ans, selon les enregistrements da
 Selon le PCTT Est, le principal facteur limitant les interventions est le manque de disponibilité de l'entreprise 
 TERIDEAL alors que l'on est contraint par les nuits de fermeture.
 
-Montants (k€) engagés par PCTT et par an sur la maintenance préventive des issues avec le marché Batiment.
+**Montants (k€ HT) engagés par PCTT et par an sur la maintenance préventive des issues avec le marché Batiment.**
 
 .. csv-table::
    :header: Service,21,22,23,Total
@@ -41,6 +41,9 @@ Montants (k€) engagés par PCTT et par an sur la maintenance préventive des i
       PCTT Nord,23,0,7,30
       PCTT Ouest,21,17,24,62
       PCTT Sud,13,10,17,40
+
+
+**Détail des prestations prises en compte**
 
 .. csv-table::
    :header: Service,Lieu,DateC,Libel,MontantHT
