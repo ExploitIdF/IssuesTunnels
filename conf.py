@@ -1,4 +1,4 @@
-project = 'Signalisation dynamique'
+project = 'Issues de secours'
 copyright = '2024-02, on'
 author = 'on'
 release = ''
@@ -22,6 +22,6 @@ html_show_copyright = False
 html_show_sphinx = False
 html_theme_options = {
     "sidebar_hide_name": True,
-    "light_logo": "logo_SigDyn.jpg",
-    "dark_logo": "logo_SigDyn.jpg",
+    "light_logo": "logoIssuesSec.jpg",
+    "dark_logo": "logoIssuesSec.jpg",
 }
