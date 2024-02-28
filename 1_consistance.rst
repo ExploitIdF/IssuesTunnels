@@ -8,7 +8,8 @@ Consistance des issues de secours
 
 On regroupe dans la notion d'issue de secours un ensemble de composants qu'il est nécessaire d'identifier et de décrire. Certains composants, comme la porte de séparation avec le tunnel, sont particulièrement importants pour la sécurité. Une hiérarchisation est donc nécessaire.
 
-On a examiné comment le fascicule 40 de l'ITSEOA et les marchés de maintenance identifie les composantes des issues. :doc:`Le détails est présenté ici<11_reference>`.
+On a examiné comment le fascicule 40 de l'ITSEOA et les marchés de maintenance identifient les composantes des issues. 
+:doc:`Le détails est présenté ici<11_reference>`.
 
 On retient les grandes composantes suivantes : 
 
@@ -18,6 +19,8 @@ On retient les grandes composantes suivantes :
 * Surpression
 * Téléphone, sonorisation, détection
 * Camera de surveillance
+
+Chacune de ces composantes est détaillée ci-dessous.
 
 Porte dans le tunnel
 """"""""""""""""""""""""
