@@ -4,7 +4,9 @@ Politique de maintenance
 .. toctree::
    :hidden:
 
-   22_fonctionnel
+   22_batiment
+   23_propreté
+
 
 
 On commence par faire un état des lieux des pratiques des 3 dernières années qui présentent des variations importantes selon le PCTT considéré.
@@ -18,8 +20,8 @@ La maintenance des issues de secours peut être décomposée en 3 parties :
 Les moyens mobilisés peuvent être de 3 natures différentes :
 
 * Régie : les TDM des PCTT
-* Marché Batiment (TERIDEAL 2020-2024)
-* Marché Propreté (Mandataire : CIG, cotraitant : TERIDEAL, 2021-2025)
+* :doc:`Marché Batiment (TERIDEAL 2020-2024)<22_batiment>`
+* :doc:`Marché Propreté (Mandataire : CIG, cotraitant : TERIDEAL, 2021-2025)<23_propreté>`
 
 Quand les PCTT interviennent en régie, il s'agit de contrôles fonctionnels. Dans certains cas, les PCTT suivent le même protocole que celui prévu par un marché et produisent un rapport qui est enregistré dans CosWin. 
 
