@@ -1,5 +1,6 @@
-Les composante des issues selon le F40 et les marchés
+Les composantes des issues, selon le F40 et les marchés
 =====================================================
+Les 3 sources que l'on a identifiées permettent de comprendre le champ mais ne fournissent pas une structuration des objets à considérer.
 
 Fascicule 40
 """"""""""""""
@@ -28,6 +29,7 @@ marché batiment
 Dans le marché batiment, la prestation de la maintenance préventive d'une issue de secours est décrite comme une liste d'actions. De cette liste on a extrait les objets suivants:
 
 * portes coupe-feu
+
     *serrurerie
     * capteurs de position 
     *  panneaux et calfeutrements
@@ -41,6 +43,7 @@ Dans le marché batiment, la prestation de la maintenance préventive d'une issu
     *  ferme-porte
     *   bras
     *   sélecteurs de vantaux
+
 * système de détection et de déclenchement 
 * liaisons électriques et détecteurs et des déclencheurs
 * surpression 
@@ -52,8 +55,6 @@ Dans le marché batiment, la prestation de la maintenance préventive d'une issu
 * vacuité de l’issue ;
 * panneaux d’évacuation ;
 * capteurs de portes, fonctionnement surpression, présence, caméra, téléphone de sécurité
-
-
 
 Marché propreté
 """"""""""""""""
