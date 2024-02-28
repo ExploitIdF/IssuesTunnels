@@ -10,15 +10,62 @@ On regroupe dans la notion d'issue de secours un ensemble de composants qu'il es
 
 On a examiné comment le fascicule 40 de l'ITSEOA et les marchés de maintenance identifie les composantes des issues. :doc:`Le détails est présenté ici<11_reference>`.
 
-On retient les composantes suivantes : 
+On retient les grandes composantes suivantes : 
+
 * Porte dans le tunnel
 * Autres portes et cheminements
 * Eclairage et signalétique
 * Surpression
 * Téléphone, sonorisation, détection
+* Camera de surveillance
+
+Porte dans le tunnel
+""""""""""""""""""""""""
+On distingue cette porte car elle joue un rôle prééminant dans la mise en sécurité des usagers en cas d'incendie.
+La porte dans le tunnel comprend les éléments suivant :
+
+* Panneau de la porte qui ne soit pas être déformé et ne doit pas être limité dans son mouvement par un contact avec d'autres objets.
+* Serrurie qui doit assurer le bon niveau magnabilité
+* Bras de rappel qui doit assurer que la porte se referme à la bonne vitesse après ouverture.
+* Fusibles thermique
+* Feux flash de signalisation
+* Signalétique
+* détection de position
+
+Autres portes et cheminements
+""""""""""""""""""""""""""""""""
+
+* Panneaux de  porte
+* Serrurie 
+* Bras de rappel
+* Sas et cheminement qui doivent être dégagés et propres
+* Signalétique
+* détection de position
+
+Eclairage et signalétique
+""""""""""""""""""""""""""
+
+* Bloc d'éclairage de sécurité
+* Eclairage nominal qui se déclenche en cas de présence au moyen d'un détecteur
 
 
+Surpression
+"""""""""""""
 
+* Ventilateur
+* Commande par détecteur d'ouverture de porte ou de présence
+* Registres
+
+Téléphone, sonorisation, détection
+""""""""""""""""""""""""""""""""""""""
+
+* Téléphone de sécurité qui doit permettre un échange avec le PCTT
+* Cable rayonnant qui doit retransmettre les signaux de radio des servicese d'intervention
+
+Camera de surveillance
+""""""""""""""""""""""""
+
+* Camera dont les images sont enregistrées en cas de détection de mouvement
 
 
 
