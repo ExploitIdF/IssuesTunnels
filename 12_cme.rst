@@ -28,9 +28,9 @@ Cette formulation mérite encore d'être clarifiée mais on peut en retenir que 
 
 Contrôle des CME
 """"""""""""""""
-Les détecteurs et caméras permettent d'identifier des anomalies mais le contrôle de la CME demande une visite. C'est pour cette raison que des essais fonctionnels doivent être réalisés régulièrement.
+Les détecteurs d'événements et les caméras permettent d'identifier des anomalies dans les issues, mais le contrôle de la CME demande une visite sur place. C'est pour cette raison que des essais fonctionnels doivent être réalisés régulièrement.
 
-Quand on a connaissance d'une situation dégradée telle qu'une issue non  opérationnelle. Il faut renforcer le contrôle des issues adjacentes par des visites toutes les 2 semaines. Une signalisation de l'issue non opérationnelle doit être mise en place.
+Quand l'exploitant a connaissance d'une situation dégradée telle qu'une issue non  opérationnelle. Il doit renforcer le contrôle des issues adjacentes par des visites toutes les 2 semaines. Une signalisation de l'issue non opérationnelle doit également être mise en place.
 
 
 
