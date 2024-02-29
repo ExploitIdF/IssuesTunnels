@@ -3,7 +3,7 @@ Les composantes des issues, selon le F40 et les marchés
 Les 3 sources que l'on a identifiées permettent de comprendre le champ mais ne fournissent pas une structuration des objets à considérer.
 
 Fascicule 40
-""""""""""""""
+"""""""""""""
 
 L'annexe C du fascicule 40, sur la thème des issues, identifie les objets suivants :
 		
