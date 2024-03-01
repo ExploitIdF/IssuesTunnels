@@ -14,10 +14,11 @@ Par exemple :
   POI001 Inspection de toutes les IS dans les 2 sens de circulation du tunnel de Chennevières	
     volume estimé une inspection par an
 
-
 Utilisation du marché
 """""""""""""""""""""""
 Le prix POL023 *Lavage de jour d'Issue de Secours*	est peu utilisé, en dehors de quelques tunnels.
+
+Le tableau suivant présente les dépenses de lavages par tunnel et par an en k€ HT.
 
 .. csv-table::
    :header: PCTT,Tunnel,2021,2022,2023
@@ -40,8 +41,19 @@ Le prix POL023 *Lavage de jour d'Issue de Secours*	est peu utilisé, en dehors d
     PCTT Sud,Bicêtre,4,7,7
     PCTT Sud,Orly,1,1,1
 
+Les prix "POI" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
 
 
+.. csv-table::
+   :header: PCTT,Tunnel,2022,2023
+   :widths: 20, 30, 10,10
+   :width: 70%
+
+    PCTT Nord,Bobigny-Lumen-Norton,0,3780
+    PCTT Nord,La Courneuve,0,944
+    PCTT Nord,Landy,0,3780
+    PCTT Nord,Taverny,0,944
+    PCTT Ouest,Nanterre / La Défense,6824,20472
 
 
 
