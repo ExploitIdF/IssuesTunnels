@@ -2,11 +2,18 @@ Marché Batiment
 =================
 Conception du marché pour la maintenance des issues
 """"""""""""""""""""""""""""""""""""""""""""""""""""
-Le bordereau de prix du marché Batiment comporte 3 numéros de prix pour :
+Le bordereau de prix du marché Batiment comporte un numéro de prix pour la maintenance préventive des issues de secours	
 
-* la matinenance préventive de jour d'une issue
-* la matinenance préventive de nuit d'une issue
-* la matinenance préventive de nuit d'une niche de sécurité
+B2P001	Prestation de maintenance préventive d'une issue de secours	
+   	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une issue de secours et de toutes ses portes, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.
+
+Deux autres prix concernent la maintenance préventive :
+
+B2P002	Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours	 (%)
+	Ce prix rémunère la plus-value pour une intervention préventive effectuée sur une issue de secours dont les ouvertures vers l’extérieur se fait par une trappe. Ce prix rémunère l’entretien spécifique de ces matériels tel que défini dans les procédures en annexe du CCTP.	
+	
+B2P003	Prestation de maintenance préventive d’une niche de secours	Le forfait
+	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une niche de secours et de tous ses équipements, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.	
 
 En fait, ces prix n'ont pas vocations à être utilisés isolement pour une issue particulière, 
 mais dans le cadre d'une prestation portant sur l'ensemble des issues d'un tunnel.
@@ -14,7 +21,7 @@ Implicitement, les commandes concernent aussi les niches de sécurité dont la m
 évidentes avec celle des issues.
 Des modèles de rapport figurent en annexe du CCTP pour chacun des tunnels, 
 avec l'identification de chacune des issues et niches du tunnel.
-Il y aurait une une logique à définir un prix par tunnel, comme cela est fait dans les marchés propreté ou éclairage.
+Il y aurait une une logique à définir un prix par tunnel, pour l'ensemble des issues et des niches, comme cela est fait dans les marchés propreté ou éclairage.
 
 Utilisation du marché
 """""""""""""""""""""""
@@ -26,7 +33,8 @@ On lit par exemple dans Sucombe:
 * preventif issue de secours  bobigny 2eme visite
 
 Les constats montrent qu'il y a rarement plus de 2 interventions commandées par an et par tunnel. 
-Certains tunnels ne sont pas traités tous les ans, selon les enregistrements dans Sucombe.
+Certains tunnels ne sont pas traités tous les ans, selon les enregistrements présents dans Sucombe.
+
 Selon le PCTT Est, le principal facteur limitant les interventions est le manque de disponibilité de l'entreprise 
 TERIDEAL alors que l'on est contraint par les nuits de fermeture.
 
