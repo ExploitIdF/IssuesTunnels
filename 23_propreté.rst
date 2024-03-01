@@ -5,7 +5,8 @@ Conception du marché pour la maintenance des issues
 Le bordereau de prix du marché Propreté comporte pluseurs numéros de prix pour la maintenance préventive des issues de secours	
 
   POL023 Lavage de jour d'Issue de Secours	
-    volume estimé un lavage par issue et par an
+    volume estimé : un lavage par issue et par an (1160 pour 4 ans)
+    valeur : 297€ HT (2020)
 
 Pour chaque tunnel, un prix pour l'inspection de toutes les IS dans les 2 sens de circulation. 
 
@@ -16,7 +17,9 @@ Par exemple :
 
 Utilisation du marché
 """""""""""""""""""""""
-Le prix POL023 *Lavage de jour d'Issue de Secours*	est peu utilisé, en dehors de quelques tunnels.
+L'utilisation du marché pour les actions préventives est très en deçà des estimations.
+
+Le prix POL023 *Lavage de jour d'Issue de Secours*	est peu utilisé en préventif, en dehors de quelques tunnels.
 
 Le tableau suivant présente les dépenses de lavages par tunnel et par an en k€ HT.
 
@@ -43,6 +46,7 @@ Le tableau suivant présente les dépenses de lavages par tunnel et par an en k�
 
 Les prix "POI" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
 
+Le tableau suivant présente les montants par tunnel et par an.
 
 .. csv-table::
    :header: PCTT,Tunnel,2022,2023
