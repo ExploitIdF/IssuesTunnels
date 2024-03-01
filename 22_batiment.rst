@@ -15,6 +15,8 @@ B2P002	Plus-value à l’entretien d’une issue de secours pour entretien prév
 B2P003	Prestation de maintenance préventive d’une niche de secours
 	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une niche de secours et de tous ses équipements, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.	
 
+B2P001 & B2P003 valent chacun 130 €HT (2020)
+
 En fait, ces prix n'ont pas vocation à être utilisés isolement pour une issue particulière, 
 mais dans le cadre d'une prestation portant sur l'ensemble des issues d'un tunnel.
 Implicitement, les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
