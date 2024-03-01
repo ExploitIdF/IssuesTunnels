@@ -8,11 +8,13 @@ Consistance des issues de secours
    11_reference
    13_liste
 
-On vise au travers de la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. Certaines composantes, comme la porte de séparation avec le tunnel, sont particulièrement importantes pour la sécurité. D'autres éléments comme la surpression sont nécessaires mais non critiques. Une hiérarchisation est donc nécessaire.
+On vise au travers de la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. 
+Certaines composantes, comme la porte de séparation avec le tunnel, sont particulièrement importantes pour la sécurité. 
+D'autres éléments comme la surpression ou le cheminement extérieur sont nécessaires mais non critiques. Une hiérarchisation est donc nécessaire.
 
-Les :doc:`conditions minimales d'exploitation (CME)<12_cme>` définies dans les dossiers de sécurité portent sur la vacuité, l'éclairage de sécurité et la porte.
+Les :doc:`conditions minimales d'exploitation (CME)<12_cme>` définies dans les  plans d’intervention et de sécurité (PIS), pièce n°6 des dossiers de sécurité, 
+portent sur la vacuité, l'éclairage de sécurité et la porte.
 Ces trois éléments requièrent donc une attention particulière.
-
 
 On a examiné comment le fascicule 40 de l'ITSEOA et les marchés de maintenance identifient les composantes des issues. 
 :doc:`Le détails est présenté ici<11_reference>`.
@@ -74,7 +76,7 @@ Téléphone, sonorisation, détection
 Camera de surveillance
 """"""""""""""""""""""""
 
-* Camera dont les images sont enregistrées en cas de détection de mouvement
+* Cameras dont les images sont visibles depuis le PCTT et enregistrées en cas de détection de mouvement
 
 
 
