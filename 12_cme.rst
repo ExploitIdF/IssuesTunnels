@@ -34,7 +34,7 @@ C'est pour cette raison que des essais fonctionnels doivent être réalisés ré
 Quand l'exploitant a connaissance d'une situation dégradée telle qu'une issue non opérationnelle, il doit renforcer le contrôle des issues adjacentes par des visites toutes les 2 semaines. 
 Une signalisation de l'issue non opérationnelle doit également être mise en place.
 
-..:note: L'éclairage de sécurité auquel font référence les CME est-il partout bien identifié ? Son fonctionnement est-il remonté dans la GTC ? S'agit-il de l'éclairage secouru ? 
+.. note:: L'éclairage de sécurité auquel font référence les CME est-il partout bien identifié ? Son fonctionnement est-il remonté dans la GTC ? S'agit-il de l'éclairage secouru ? 
 A partir de quel seuil ou critère considère-on que l'éclairage n'est plus assuré ?
 
 
