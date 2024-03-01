@@ -12,15 +12,16 @@ Deux autres prix concernent la maintenance préventive :
 B2P002	Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours	 (%)
 	Ce prix rémunère la plus-value pour une intervention préventive effectuée sur une issue de secours dont les ouvertures vers l’extérieur se fait par une trappe. Ce prix rémunère l’entretien spécifique de ces matériels tel que défini dans les procédures en annexe du CCTP.	
 	
-B2P003	Prestation de maintenance préventive d’une niche de secours	Le forfait
+B2P003	Prestation de maintenance préventive d’une niche de secours
 	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une niche de secours et de tous ses équipements, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.	
 
-En fait, ces prix n'ont pas vocations à être utilisés isolement pour une issue particulière, 
+En fait, ces prix n'ont pas vocation à être utilisés isolement pour une issue particulière, 
 mais dans le cadre d'une prestation portant sur l'ensemble des issues d'un tunnel.
 Implicitement, les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
 évidentes avec celle des issues.
-Des modèles de rapport figurent en annexe du CCTP pour chacun des tunnels, 
-avec l'identification de chacune des issues et niches du tunnel.
+Des modèles de rapports figurent en annexe du CCTP pour chacun des tunnels, avec l'identification de chacune des issues et niches du tunnel.
+Très peu de rapports sont déposés sur CosWin.
+
 Il y aurait une une logique à définir un prix par tunnel, pour l'ensemble des issues et des niches, comme cela est fait dans les marchés propreté ou éclairage.
 
 Utilisation du marché
