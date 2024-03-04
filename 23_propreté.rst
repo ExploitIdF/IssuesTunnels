@@ -2,22 +2,29 @@ Marché Propreté
 =================
 Conception du marché pour la maintenance des issues
 """"""""""""""""""""""""""""""""""""""""""""""""""""
-Le bordereau de prix du marché Propreté comporte pluseurs numéros de prix pour la maintenance préventive des issues de secours	
+Le bordereau de prix du marché Propreté comporte plusieurs numéros de prix utilisables pour la maintenance préventive des issues de secours.
 
-  POL023 Lavage de jour d'Issue de Secours	
+
+  **POL023** Lavage de jour d'Issue de Secours	
     volume estimé : un lavage par issue et par an (1160 pour 4 ans)
+
     valeur : 297€ HT (2020)
 
-Pour chaque tunnel, un prix pour l'inspection de toutes les IS dans les 2 sens de circulation. 
+Ce prix de lavage d'une issue est principalement utilisé en curatif. Quand il intervient dans un bon de commande de préventif, cela peut être justifié par le fait que le TDM a identifié un besoin spécifique de nettoyer des issues particulières qui ont été occupées de manière illicite.
+
+
+Pour chaque tunnel, un prix pour l'inspection de toutes les IS, dans les 2 sens de circulation. 
 
 Par exemple :
 
-  POI001 Inspection de toutes les IS dans les 2 sens de circulation du tunnel de Chennevières	
-    volume estimé une inspection par an
+  **POI001** Inspection de toutes les IS dans les 2 sens de circulation du tunnel de Chennevières
+
+    volume estimé : une inspection par tunnel et par an
+
 
 Utilisation du marché
 """""""""""""""""""""""
-L'utilisation du marché pour les actions préventives est très en deçà des estimations.
+L'utilisation du marché pour les actions préventives est très en deçà des estimations initiales du marché.
 
 Le prix POL023 *Lavage de jour d'Issue de Secours*	est peu utilisé en préventif, en dehors de quelques tunnels.
 
@@ -44,7 +51,7 @@ Le tableau suivant présente les dépenses de lavages par tunnel et par an en k�
     PCTT Sud,Bicêtre,4,7,7
     PCTT Sud,Orly,1,1,1
 
-Les prix "POI" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
+Les prix "POINN" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
 
 Le tableau suivant présente les montants par tunnel et par an.
 
