@@ -2,14 +2,14 @@ Marché Batiment
 =================
 Conception du marché pour la maintenance des issues
 """"""""""""""""""""""""""""""""""""""""""""""""""""
-Le bordereau de prix du marché Batiment comporte un numéro de prix pour la maintenance préventive des issues de secours	
+Le bordereau de prix du marché Batiment comporte un numéro de prix pour la maintenance préventive des issues de secours.	
 
 B2P001	Prestation de maintenance préventive d'une issue de secours	
    	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une issue de secours et de toutes ses portes, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.
 
 Deux autres prix concernent la maintenance préventive :
 
-B2P002	Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours	 (%)
+B2P002	Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours
 	Ce prix rémunère la plus-value pour une intervention préventive effectuée sur une issue de secours dont les ouvertures vers l’extérieur se fait par une trappe. Ce prix rémunère l’entretien spécifique de ces matériels tel que défini dans les procédures en annexe du CCTP.	
 	
 B2P003	Prestation de maintenance préventive d’une niche de secours
@@ -17,10 +17,11 @@ B2P003	Prestation de maintenance préventive d’une niche de secours
 
 B2P001 & B2P003 valent chacun 130 €HT (2020)
 
-En fait, ces prix n'ont pas vocation à être utilisés isolement pour une issue particulière, 
+En fait, ces prix n'ont pas vocation à être utilisés isolément pour une issue particulière, 
 mais dans le cadre d'une prestation portant sur l'ensemble des issues d'un tunnel.
 Implicitement, les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
 évidentes avec celle des issues.
+
 Des modèles de rapports figurent en annexe du CCTP pour chacun des tunnels, avec l'identification de chacune des issues et niches du tunnel.
 Très peu de rapports sont déposés sur CosWin.
 
@@ -39,7 +40,7 @@ Les constats montrent qu'il y a rarement plus de 2 interventions commandées par
 Certains tunnels ne sont pas traités tous les ans, selon les enregistrements présents dans Sucombe.
 
 Selon le PCTT Est, le principal facteur limitant les interventions est le manque de disponibilité de l'entreprise 
-TERIDEAL alors que l'on est contraint par les nuits de fermeture.
+TERIDEAL, alors que l'on est contraint par les nuits de fermeture.
 
 **Montants (k€ HT) engagés par PCTT et par an sur la maintenance préventive des issues avec le marché Batiment.**
 
