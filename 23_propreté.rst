@@ -26,6 +26,8 @@ Utilisation du marché
 """""""""""""""""""""""
 L'utilisation du marché pour les actions préventives est très en deçà des estimations initiales du marché.
 
+**POL023** Lavage de jour d'Issue de Secours	
+"""""""""""""""""""""""""""""""""""""""""""""""
 Le prix POL023 *Lavage de jour d'Issue de Secours*	est peu utilisé en préventif, en dehors de quelques tunnels.
 
 Le tableau suivant présente les dépenses de lavages par tunnel et par an en k€ HT.
@@ -51,6 +53,9 @@ Le tableau suivant présente les dépenses de lavages par tunnel et par an en k�
     PCTT Sud,Bicêtre,4,7,7
     PCTT Sud,Orly,1,1,1
 
+
+POI001 Inspection de toutes les IS 
+"""""""""""""""""""""""""""""""""""""""
 Les prix "POINN" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
 
 Le tableau suivant présente les montants par tunnel et par an.
