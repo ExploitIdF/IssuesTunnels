@@ -2,7 +2,10 @@ Liste des issues par tunnel
 ==============================
 CosWin permet de faire l'énumération des issues de secours, pour chaque tunnel.
 
-298 issues sont identifiées dont COUV._BAGNOLET, 2 & COUV._BLANC-MESNIL, 6 (hors champ STT)
+298 issues sont identifiées dont 8 hors champ STT: 
+
+* COUV._BLANC-MESNIL, 6
+* COUV._BAGNOLET, 2 
 
 Pour chaque tunnel STT, la table suivante indique le nombre d'issues et les codes des issues.
 
@@ -37,4 +40,4 @@ Pour chaque tunnel STT, la table suivante indique le nombre d'issues et les code
       SEVINES,6,511; 512; 513; 514; 515; 516
       TAVERNY,6,471; 472; 473; 474; 475; 476
 
-On peut vérifier que la renumérotation des issues du tunnel de Bobigny a bien été pris en compte dans CosWin.
+On  vérifie que la renumérotation des issues du tunnel de Bobigny (2023) a bien été prise en compte dans CosWin.
