@@ -1,7 +1,7 @@
 Marché Propreté
-=================
+*******************
 Conception du marché pour la maintenance des issues
-""""""""""""""""""""""""""""""""""""""""""""""""""""
+====================================================
 Le bordereau de prix du marché Propreté comporte plusieurs numéros de prix utilisables pour la maintenance préventive des issues de secours.
 
 
@@ -23,7 +23,7 @@ Par exemple :
 
 
 Utilisation du marché
-"""""""""""""""""""""""
+=======================
 L'utilisation du marché pour les actions préventives est très en deçà des estimations initiales du marché.
 
 **POL023** Lavage de jour d'Issue de Secours	
@@ -55,7 +55,7 @@ Le tableau suivant présente les dépenses de lavages par tunnel et par an en k�
 
 
 POI001 Inspection de toutes les IS 
-"""""""""""""""""""""""""""""""""""""""
+------------------------------------
 Les prix "POINN" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
 
 Le tableau suivant présente les montants par tunnel et par an.
