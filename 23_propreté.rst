@@ -27,7 +27,7 @@ Utilisation du marché
 L'utilisation du marché pour les actions préventives est très en deçà des estimations initiales du marché.
 
 **POL023** Lavage de jour d'Issue de Secours	
-"""""""""""""""""""""""""""""""""""""""""""""""
+----------------------------------------------
 Le prix POL023 *Lavage de jour d'Issue de Secours*	est peu utilisé en préventif, en dehors de quelques tunnels.
 
 Le tableau suivant présente les dépenses de lavages par tunnel et par an en k€ HT.
