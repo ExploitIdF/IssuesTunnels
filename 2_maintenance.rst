@@ -23,7 +23,9 @@ Les moyens mobilisés peuvent être de 3 natures différentes :
 * :doc:`Marché Batiment (TERIDEAL 2020-2024)<22_batiment>`
 * :doc:`Marché Propreté (Mandataire : CIG, cotraitant : TERIDEAL, 2021-2025)<23_propreté>`
 
-Quand les PCTT interviennent en régie, il s'agit de contrôles fonctionnels. Dans certains cas, les PCTT suivent le même protocole que celui prévu par un marché et produisent un rapport qui est enregistré dans CosWin. 
+Quand les PCTT interviennent en régie, il s'agit de contrôles fonctionnels. 
+
+Dans certains cas, encore trop rares, les PCTT suivent le même protocole pour les contrôles fonctionnels que celui prévu par le marché Propreté et produisent un rapport qui est enregistré dans CosWin. 
 
 Plus fréquemment, les PCTT visitent les issues à l'occasion d'autres interventions et ne font que signaler les défauts observés pour déclencher une action curative.
 
