@@ -58,7 +58,7 @@ POI001 Inspection de toutes les IS
 ------------------------------------
 Les prix "POINN" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
 
-Le tableau suivant présente les montants par tunnel et par an.
+Le tableau suivant présente les montants par tunnel et par an. Aucun de ces prix n'a été utilisé en 2021 !
 
 .. csv-table::
    :header: PCTT,Tunnel,2022,2023
