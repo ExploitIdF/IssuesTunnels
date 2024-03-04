@@ -1,25 +1,44 @@
 Marché Batiment
-=================
+*******************
 Conception du marché pour la maintenance des issues
-""""""""""""""""""""""""""""""""""""""""""""""""""""
+=====================================================
 Le bordereau de prix du marché Batiment comporte un numéro de prix pour la maintenance préventive des issues de secours.	
 
-B2P001	Prestation de maintenance préventive d'une issue de secours	
+B2P001	Prestation de maintenance préventive d'une issue de secours
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
    	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une issue de secours et de toutes ses portes, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.
+
+	volume estimé  : une prestation par issue et par an (296 par an)
+
+	valeur : 130€ HT (2020)
 
 Deux autres prix concernent la maintenance préventive :
 
 B2P002	Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours
-	Ce prix rémunère la plus-value pour une intervention préventive effectuée sur une issue de secours dont les ouvertures vers l’extérieur se fait par une trappe. Ce prix rémunère l’entretien spécifique de ces matériels tel que défini dans les procédures en annexe du CCTP.	
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+	Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours
+	
+	Ce prix rémunère la plus-value pour une intervention préventive effectuée sur une issue de secours dont les ouvertures vers l’extérieur se fait par une trappe. Ce prix rémunère l’entretien spécifique de ces matériels tel que défini dans les procédures en annexe du CCTP.
+
+	volume estimé  : 0 ! 
+
+	valeur : 1200€ HT (2020)
 	
 B2P003	Prestation de maintenance préventive d’une niche de secours
-	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une niche de secours et de tous ses équipements, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.	
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+	Plus-value à l’entretien d’une issue de secours pour la maintenance préventive d’une niche de secours
 
-B2P001 & B2P003 valent chacun 130 €HT (2020)
+	Ce prix rémunère au forfait toutes les opérations d'entretien préventif décrites au CCTP d'une niche de secours et de tous ses équipements, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.
+
+	volume estimé  : 0 ! 
+
+	valeur : 130€ HT (2020)
+
+Il semble que les prix dont les volumes sont estimé à zéro sont plus élevés qu'ils ne l'auraient été avec une estimation positive.
 
 En fait, ces prix n'ont pas vocation à être utilisés isolément pour une issue particulière, 
 mais dans le cadre d'une prestation portant sur l'ensemble des issues d'un tunnel.
-Implicitement, les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
+Les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
 évidentes avec celle des issues.
 
 Des modèles de rapports figurent en annexe du CCTP pour chacun des tunnels, avec l'identification de chacune des issues et niches du tunnel.
@@ -28,8 +47,12 @@ Très peu de rapports sont déposés sur CosWin.
 Il y aurait une une logique à définir un prix par tunnel, pour l'ensemble des issues et des niches, comme cela est fait dans les marchés propreté ou éclairage.
 
 Utilisation du marché
-"""""""""""""""""""""""
-Les prestations commandées sont parfois formulées comme si étaient programmées 2 ou 4 actions par an. 
+==========================
+Selon le détail estimatif la dépense annuelle serait de 38 k€ HT (2020) correspondant à 296 fois le prix B2P001.
+
+On constate une dépense d'environ 50 k€/an sur le prix B2P001 et d'environ 25 k€/an sur le prix B2P003.
+
+Les prestations commandées sont parfois formulées comme si étaient programmées 2 ou 4 actions par an alors que le détail estimatif prévoit une prestation par an. 
 On lit par exemple dans Sucombe:
 
 * Préventif 1/2 des issues de secours du tunnel Guy Mocquet
