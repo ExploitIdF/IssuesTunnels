@@ -20,7 +20,7 @@ La formulation des CME sur les issues, dans les *plans d'intervention et de séc
          
             Le critère d’indisponibilité d’une porte d’issue de secours est basé sur une défaillance en termes d’étanchéité aux fumées, ainsi que l’impossibilité de pouvoir ouvrir celle ci.
 
-Cette formulation mérite encore d'être clarifiée mais on peut en retenir que les 3 éléments les plus importants sont : 
+Cette formulation mérite d'être encore clarifiée, mais on peut en retenir que les 3 éléments les plus importants sont : 
 
 * Vacuité
 * Eclairage de sécurité
@@ -31,11 +31,14 @@ Contrôle des CME
 Les détecteurs d'événements et les caméras permettent d'identifier des anomalies dans les issues, mais le contrôle de la CME demande une visite sur place. 
 C'est pour cette raison que des essais fonctionnels doivent être réalisés régulièrement.
 
-Quand l'exploitant a connaissance d'une situation dégradée telle qu'une issue non opérationnelle, il doit renforcer le contrôle des issues adjacentes par des visites toutes les 2 semaines. 
+Quand l'exploitant a connaissance d'une situation dégradée telle qu'une issue non opérationnelle, il devrait renforcer le contrôle des issues adjacentes par des visites toutes les 2 semaines. 
 Une signalisation de l'issue non opérationnelle doit également être mise en place.
 
 .. note:: 
-            L'éclairage de sécurité auquel font référence les CME est-il partout bien identifié ? Son fonctionnement est-il remonté dans la GTC ? S'agit-il de l'éclairage secouru ? 
+            L'éclairage de sécurité auquel font référence les CME est-il partout bien identifié ? Son fonctionnement est-il remonté dans la GTC ? 
+            
+            S'agit-il de l'éclairage secouru ? 
+            
             A partir de quel seuil ou critère considère-on que l'éclairage n'est plus assuré ?
 
 
