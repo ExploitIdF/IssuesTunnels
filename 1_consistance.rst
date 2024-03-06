@@ -6,7 +6,8 @@ Consistance des issues de secours
 
    12_cme
    11_reference
-   13_liste
+   15_besoins
+   17_liste
 
 On vise au travers de la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. 
 Certaines composantes, comme la porte de séparation avec le tunnel, sont particulièrement importantes pour la sécurité. 
