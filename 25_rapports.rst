@@ -18,3 +18,13 @@ En pratique, peu de rapports sont sur CosWin car l'entreprise dit ne pas avoir l
 
 Les premiers exemples de rapport consultés ne correspondent pas au template fourni par le DCE du marché (à compléter sur la base des retours attendus des PCTT).
 
+
+Nouveau support de saisi des marchés
+======================================
+Le sujet des rapports a été abordé avec les adjoints de maintenance lors d'un atelier du COMET du 5/3/2024.
+L'absence d'un outil nomade relié à CosWin est un sujet qui a déjà été maintes fois évoqué. Les TDM et les enrteprises voudraient un moyen de saisir directement les données sur le terrain.
+
+Il a été envisagé que l'on utilise un formulaire *Google Form* sur smartphone, pour la saisie des données. Il semble en effet que le template du marché se prête bien à ce que peut faire un formulaire Google Form.
+L'outil Google Form présente des limites par rapport à ce que l'on pourrait souhaiter mais il a l'avantage de ne pas demander de compétence spécialisée pour effectuer les évolutions qui seront nécessaires avec le retour d'expérience.
+
+On pourrait envisager d'expérimenter le formulaire pour les inspections réalisées en régie par les PCTT.
