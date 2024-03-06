@@ -32,11 +32,11 @@ Chacune de ces composantes est détaillée ci-dessous.
 
 Porte dans le tunnel
 """"""""""""""""""""""""
-On distingue cette porte car elle joue un rôle prééminant dans la mise en sécurité des usagers en cas d'incendie.
+On distingue cette porte car elle joue un rôle prééminent dans la mise en sécurité des usagers en cas d'incendie.
 La porte dans le tunnel comprend les éléments suivant :
 
 * Panneau de la porte qui ne soit pas être déformé et ne doit pas être limité dans son mouvement par un contact avec d'autres objets.
-* Serrurie qui doit assurer le bon niveau magnabilité
+* Serrurerie qui doit assurer le bon niveau maniabilité
 * Bras de rappel qui doit assurer que la porte se referme à la bonne vitesse après ouverture.
 * Fusibles thermique
 * Feux flash de signalisation
@@ -47,7 +47,7 @@ Autres portes et cheminements
 """"""""""""""""""""""""""""""""
 
 * Panneaux de  porte
-* Serrurie 
+* Serrurerie 
 * Bras de rappel
 * Sas et cheminement qui doivent être dégagés et propres
 * Signalétique
@@ -71,7 +71,7 @@ Téléphone, sonorisation, détection
 """"""""""""""""""""""""""""""""""""""
 
 * Téléphone de sécurité qui doit permettre un échange avec le PCTT
-* Cable rayonnant qui doit retransmettre les signaux de radio des servicese d'intervention
+* Cable rayonnant qui doit retransmettre les signaux de radio des services d'intervention
 
 Camera de surveillance
 """"""""""""""""""""""""
