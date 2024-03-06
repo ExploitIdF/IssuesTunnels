@@ -10,9 +10,11 @@ L'entreprise doit renseigner dans un classeur OpenOffice, pour chaque issue, 32 
 
 .. image:: _static/rapPrevIssues.jpg
    :scale: 150%
-   :align: center
+   :align: right
 
 Dans le cas du marché Bâtiment, le DCE contient un template de rapport par tunnel avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
 
+En pratique, peu de rapports sont sur CosWin car l'entreprise dit ne pas avoir les moyens d'accéder à CosWin.
 
+Les premiers exemples de rapport consultés ne correspondent pas au template fourni par le DCE du marché (à compléter sur la base des retours attendus des PCTT).
 
