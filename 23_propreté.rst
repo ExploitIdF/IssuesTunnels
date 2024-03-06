@@ -22,7 +22,7 @@ Par exemple :
 
     valeur : il y a 22 prix dont la somme est de 23 300 € HT (2020)
 
-La prestation d'inspection du marché Propreté vaut un peu moins que la moitié que la prestation de maintenance préventive du marché Bâtiment. Plutot que faire 2 préventifs, les PCTT devraient programmer 1 préventif et deux inspections.
+La prestation d'inspection du marché Propreté vaut un peu moins que la moitié que la prestation de maintenance préventive du marché Bâtiment. Plutot que faire 2 préventifs, comme certains le font, les PCTT devraient programmer 1 préventif et deux inspections.
 
 
 Utilisation du marché
@@ -59,7 +59,7 @@ Le tableau suivant présente les dépenses de lavages par tunnel et par an en k�
 
 POI001 Inspection de toutes les IS 
 ------------------------------------
-Les prix "POINN" visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
+Les prix "POI0NN" (NN<23) visant les inspections des tunnels sont très peu utilisés en dehors du complexe A14/A86.
 
 Le tableau suivant présente les montants par tunnel et par an. Aucun de ces prix n'a été utilisé en 2021 !
 
