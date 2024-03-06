@@ -7,6 +7,9 @@ On distinguera quatre types de besoins différents :
 * le besoin de réparations suite aux incidents ou à des défaillances d'équipements qui n'ont pas pu être prévenues par les actions préventives.
 * le besoin de régénération des équipements des issues qui relève de l'investissement
 
+Les types de besoins ne sont pas indépendants et la DIRIF devrait optimiser la répartition des moyens entre les diférents niveaux de maintenance pour obtenir le meilleur rapport qualité prix en termes de niveau de service. On se heure pour ce faire à un manque de connaissance sur l'état des composantes des issues et sur la nature précise des actions menées dans ce domaine.
+
+
 Connaissance de l'état des issues
 =================================
 L'opérationnalité des issues constitue :doc:`une CME des tunnels<12_cme>`. L'exploitant doit donc avoir une bonne connaissance de l'état des issues.
@@ -43,6 +46,14 @@ Cela signifie que les besoins curatifs, sur le périmètre du marché Bâtiment,
 
 Besoin de régénération 
 ==========================
+L'éclairage et les équipements électriques ont une durée de vie d'environ 10 ans. Les bandeau de LED et les tubes lumineux doivent être remplacés plus fréquemment.
+
+Les portes coupe-feux des tunnels présentent également des signes de vétusté et leur régénération doit être envisagée. Il faut déterminer si cela signifie un remplacement complet ou le seul renouvellement des éléments de serrurerie.
+
+
+
+
+
 
 
 
