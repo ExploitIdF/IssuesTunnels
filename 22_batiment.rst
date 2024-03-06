@@ -1,4 +1,4 @@
-Marché Batiment
+Marché Bâtiment
 *******************
 Conception du marché pour la maintenance des issues
 =====================================================
@@ -48,12 +48,12 @@ Il y aurait une une logique à définir un prix par tunnel, pour l'ensemble des 
 
 Utilisation du marché
 ==========================
-Selon le détail estimatif la dépense annuelle serait de 38 k€ HT (2020) correspondant à 296 fois le prix B2P001.
+Selon le détail estimatif la dépense annuelle serait de 38 k€ HT (2020) correspondant à 296 fois le prix B2P001. Le DE comporte des volumes nuls pour les prix B2P002 et B2P003.
 
 On constate une dépense d'environ 50 k€/an sur le prix B2P001 et d'environ 25 k€/an sur le prix B2P003.
 
 Les prestations commandées sont parfois formulées comme si étaient programmées 2 ou 4 actions par an alors que le détail estimatif prévoit une prestation par an. 
-On lit par exemple dans Sucombe:
+On lit par exemple dans Sucombe les libellés de prestations suivants :
 
 * Préventif 1/2 des issues de secours du tunnel Guy Mocquet
 * Préventif 2/4 des issues de secours du tunnel de Nogent
@@ -64,6 +64,8 @@ Certains tunnels ne sont pas traités tous les ans, selon les enregistrements pr
 
 Selon le PCTT Est, le principal facteur limitant les interventions est le manque de disponibilité de l'entreprise 
 TERIDEAL, alors que l'on est contraint par les nuits de fermeture.
+
+On observe que le prox B2P001 est aussi utilisé pour des maintenances préventives des portes des locaux techniques des tunnels ou de SIRIUS. Le marché Bâtiment ne comporte pas de prix pour des actions préventives sur ces portes.
 
 **Montants (k€ HT) engagés par PCTT et par an sur la maintenance préventive des issues avec le marché Batiment.**
 
