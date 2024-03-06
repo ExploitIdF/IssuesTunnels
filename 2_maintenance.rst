@@ -6,6 +6,7 @@ Politique de maintenance
 
    22_batiment
    23_propreté
+   25_rapports
 
 
 
@@ -28,4 +29,6 @@ Quand les PCTT interviennent en régie, il s'agit de contrôles fonctionnels.
 Dans certains cas, encore trop rares, les PCTT suivent le même protocole pour les contrôles fonctionnels que celui prévu par le marché Propreté et produisent un rapport qui est enregistré dans CosWin. 
 
 Plus fréquemment, les PCTT visitent les issues à l'occasion d'autres interventions et ne font que signaler les défauts observés pour déclencher une action curative.
+
+Le :doc:`reporting et la traçabilité<25_rapports>` sont des points faibles de la maitnenance des issues sur lesquels il est prioritaire de progresser.
 
