@@ -9,7 +9,7 @@ Pour la prestation de maintenance préventive du marché Bâtiment et la prestat
 L'entreprise doit renseigner dans un classeur OpenOffice, pour chaque issue, 32 champs, 23 *de jour* et 9 *de nuit*.
 
 .. image:: _static/rapPrevIssues.jpg
-   :scale: 150%
+   :scale: 110%
    :align: right
 
 Dans le cas du marché Bâtiment, le DCE contient un template de rapport par tunnel avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
