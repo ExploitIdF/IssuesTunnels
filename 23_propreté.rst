@@ -4,7 +4,6 @@ Conception du marché pour la maintenance des issues
 ====================================================
 Le bordereau de prix du marché Propreté comporte plusieurs numéros de prix utilisables pour la maintenance préventive des issues de secours.
 
-
   **POL023** Lavage de jour d'Issue de Secours	
     volume estimé : un lavage par issue et par an (1160 pour 4 ans)
 
@@ -20,6 +19,10 @@ Par exemple :
   **POI001** Inspection de toutes les IS dans les 2 sens de circulation du tunnel de Chennevières
 
     volume estimé : une inspection par tunnel et par an
+
+    valeur : il y a 22 prix dont la somme est de 23 300 € HT (2020)
+
+La prestation d'inspection du marché Propreté vaut un peu moins que la moitié que la prestation de maintenance préventive du marché Bâtiment. Plutot que faire 2 préventifs, les PCTT devraient programmer 1 préventif et deux inspections.
 
 
 Utilisation du marché
