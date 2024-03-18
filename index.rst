@@ -22,8 +22,8 @@ Les issues doivent être aussi visibles que possible, même quand l'atmosphère 
 Les portes doivent pouvoir être ouvertes par des usagers en état de panique dans le tunnel.
 Le cheminement dans l’issue doit être dégagé et éclairé.
 
-La mise à jour des DS de l’A13 a donné lieu à une observation de l’expert sur le manque de suivi de l’état des issues par la DiRIF. Les essais fonctionnels sont insuffisants et, quand ils sont réalisés, ils ne sont pas toujours bien documentés. 
-
+La mise à jour des DS de l’A13 a donné lieu à une observation de l’expert sur le manque de suivi de l’état des issues par la DiRIF. 
+Les essais fonctionnels sont insuffisants et, quand ils sont réalisés, ils ne sont pas toujours bien documentés. 
 Dans le rapport du maître d’ouvrage, la DIRIF s’est engagée à progresser. Le présent document participe de cette démarche.
 
 Les prestations de suivi et de maintenance des issues sont incluses dans les marchés *Batiments* et *Propreté* dont le renouvellement doit intervenir en 2024 (Bâtiments) et 2025 (Propreté). 
