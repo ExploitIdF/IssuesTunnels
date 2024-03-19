@@ -21,3 +21,17 @@ On a trouvé 5 événements qui sont intervenus plus de 2000 fois:
 * IS150 Défaut téléphone de sécurité HS
 * IS460 Défaut téléphone de sécurité HS
 * E73.809T détection de fumée impossible	
+
+Le champ *Variable* de la GTC se décompose en 5 partie séparées par des points (**.**).
+La dernière partie du champ *Variable*, que l'on a notée *var4*, prend 80 valeurs sur l'échantillon récolté qui constituent une typologie des événements.
+
+
+
+Quels événements sont enregistrés dans la GTC.
+===============================================
+Ouverture de portes
+"""""""""""""""""""
+
+
+
+
