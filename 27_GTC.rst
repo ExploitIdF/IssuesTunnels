@@ -14,6 +14,7 @@ Les requettes avec une période de plus d'une semaine ont échoué 3 fois sur 4 
 Il n'est donc pas possible par ce moyen de faire des analyses systématiques pour une période de plusieurs mois.
 
 La table ci-dessous présente, pour chacun des 6 tunnels :
+
 * le nombre de jours pour lesquelles des données ont été recueillies
 * le nombre d'issues qui apparaissent dans les données
 
@@ -23,6 +24,7 @@ Par exemple, pour le Landy, avec un seul jour de donnée, moins de la moitié de
    :header: Tunnel ,Nombre de jours, Nombre d'issues
    :widths: 30, 40,40
    :width: 60%
+
     BAP,4,15
     BDR,1,19
     DEF,4,29
