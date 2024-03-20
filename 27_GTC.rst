@@ -54,7 +54,18 @@ Quels événements sont enregistrés dans la GTC.
 ===============================================
 Ouverture de portes en tunnel
 """""""""""""""""""""""""""""
+Les ouvertures de portes en tunnel sont détectées par 2 capteurs. Les valeurs correspondantes de va4 sont :
 
+* 'ETA_C1_PTUN_OUV',
+* 'ETA_C2_PTUN_OUV'
+* 'ETA_ACCES_TUN',
+* 'DEF_BGT_C2_PTUN',
+* 'DEF_DISC_PTUN',
 
+'ETA_C1_PTUN_OUV' & 'ETA_C2_PTUN_OUV' sont les évènements émis par chaque détecteur 1 & 2.
+
+'ETA_ACCES_TUN' est l'évènement de synthèse calculé.
+
+'DEF_DISC_PTUN' & 'DEF_BGT_C2_PTUN' signalent des anomalies telles que le fait que les deux détecteurs ne remontent pas la même donnée.
 
 
