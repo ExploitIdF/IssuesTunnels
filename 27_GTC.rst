@@ -68,10 +68,13 @@ Les ouvertures de portes en tunnel sont détectées par 2 capteurs. Les valeurs 
 
 'DEF_DISC_PTUN' & 'DEF_BGT_C2_PTUN' signalent des anomalies telles que le fait que les deux détecteurs ne remontent pas la même donnée.
 
+La table suivante indique pour chaque issue, le nombre d'ouverture observées, l'heure pour laquelle le plus grand nombre d'ouvertures ont été observées 
+et les 2ème,5ème et 9ème déciles du temps d'ouverture de la porte.
+
 .. csv-table::
    :header: Tunnels ,Issues, Nombre d'ouvertures,Heure la plus fréquente,secondes (2ème décile),secondes (5ème décile),secondes (9ème décile)
    :widths: 10, 10,15,15,15,15,15
-   :width: 60%
+   :width: 90%
 
       BAP,IS431,32,22,6,9,28
       BAP,IS432,10,0,6,9,95
