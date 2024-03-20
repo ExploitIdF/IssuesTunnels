@@ -10,8 +10,14 @@ Il faut choisir dans une requette sur le *"journal des ocnsignations"* :
 * un tunnel et 
 * le métier *Autoévacuation*.
 
-Les requettes avec une période de plus d'une semaine ont échoué 3 fois sur 4 lors des essais réalisés. En une heure et demi, on est parvenu à extraire quelques jours de données sur 7 tunnels, soit 50 000 *évènements*.
+Les requettes avec une période de plus d'une semaine ont échoué 3 fois sur 4 lors des essais réalisés. En une heure et demi, on est parvenu à extraire quelques jours de données sur 6 tunnels, soit 50 000 *évènements*.
 Il n'est donc pas possible par ce moyen de faire des analyses systématiques pour une période de plusieurs mois.
+
+La table ci-dessous présente, pour chacun des 6 tunnels :
+* le nombre de jours pour lesquelles des données ont été recueillies
+* le nombre d'issues qui apparaissent dans les données
+
+Par exemple, pour le Landy, avec un seul jour de donnée, moins de la moitié des issues ont été à l'origine d'évènements enregistrés par la GTC.
 
 .. csv-table::
    :header: Tunnel ,Nombre de jours, Nombre d'issues
