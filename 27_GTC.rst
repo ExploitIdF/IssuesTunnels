@@ -73,13 +73,13 @@ Activation de la surpression
 """"""""""""""""""""""""""""""
 La mise en marche et l'arrêt de la surpression sont détectés par la GTC.
 
-L'analyse des données permet de détecter les situations suivantes :
+L'analyse des données permet de détecter les situations suivantes sur une issue :
 
 * un nombre d'activations anormalement élevé, 
-* un temps d'activation anormal anormal,
-* une absence d'activation prolongée (à consition de disposer de données sur une longue période)
+* un temps d'activation anormal,
+* une absence d'activation prolongée (à condition de disposer de données sur une longue période)
 
-Il faudrait également vérifier la cohrence entre les activations de la GTC et les autres événements tels qu'ouvertures de portes.
+Il faudrait également vérifier la cohérence entre les activations de la GTC et les autres événements tels que les ouvertures de portes.
 
 
 
