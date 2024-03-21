@@ -61,6 +61,8 @@ Les ouvertures de portes en tunnel sont détectées par 2 capteurs. La GTC fait 
 
 Sur l'échantillon analysé on observe 500 évènements d'ouvertures de portes en tunnels.
 
+La plus grande partie des ouvertures de portes interviennent entre 22h et 2h ce qui sugère qu'elles sont liées à la maintenance de nuit des tunnels.
+
 L'analyse des données permet de détecter les situations suivantes :
 
 * un nombre d'ouvertures anormalement élevé, 
@@ -93,7 +95,8 @@ Concomitance des événements d'ouvertures de portes et de surpression
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 On a observé pour tous les triplets (issue, jour,  heure) la survenance d'un événement, ouverture ou surpression.
 
-Sur 121 triplet comportant au moins une ouverture de porte en tunnel, on a 117 activations de la surpression mais seulement 11 ouvertures de porte extérieure.
+Sur 121 triplets comportant au moins une ouverture de porte en tunnel, on a 117 activations de la surpression mais seulement 11 ouvertures de porte extérieure. 
+Cela peut s'expliquer par l'utilisation des portes par les mainteneurs pour accéder à des locaux techniques.
 
 Cela signifie que la surpression est presque systématique en cas d'ouverture de porte en tunnels, mais que les ouvertures de portes en tunnel ne sont qu'une fois du 10 associées à une ouverture de porte extérieure.
 
