@@ -67,7 +67,7 @@ L'analyse des données permet de détecter les situations suivantes :
 
 De manière globale, il serait interessant d'observer la distribution des fréquences d'ouvertures et d'identifier une typologie des issues selon cete distribution.
 
-:doc:`Lien vers d'analyse détaillée<271_porteT>`
+:doc:`Lien vers l'analyse détaillée des données d'ouvertures de portes en tunnels<271_porteT>`
 
 Activation de la surpression
 """"""""""""""""""""""""""""""
