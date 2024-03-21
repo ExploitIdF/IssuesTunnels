@@ -59,6 +59,8 @@ Ouverture de portes en tunnel
 """""""""""""""""""""""""""""
 Les ouvertures de portes en tunnel sont détectées par 2 capteurs. La GTC fait un contrôle de cohérence.
 
+Sur l'échantillon analysé on observe 500 évènements d'ouvertures de portes en tunnels.
+
 L'analyse des données permet de détecter les situations suivantes :
 
 * un nombre d'ouvertures anormalement élevé, 
@@ -68,6 +70,12 @@ L'analyse des données permet de détecter les situations suivantes :
 De manière globale, il serait interessant d'observer la distribution des fréquences d'ouvertures et d'identifier une typologie des issues selon cete distribution.
 
 :doc:`Lien vers l'analyse détaillée des données d'ouvertures de portes en tunnels<271_porteT>`
+
+Ouverture de portes extérieures
+""""""""""""""""""""""""""""""""
+Les ouvertures de portes extérieures sont détectées par 2 capteurs. La GTC fait un contrôle de cohérence.
+
+Sur l'échantillon analysé on observe 280 évènements d'ouvertures de portes extérieures. Environ moitié moins que les ouvertures de portes en tunnels.
 
 Activation de la surpression
 """"""""""""""""""""""""""""""
@@ -80,6 +88,19 @@ L'analyse des données permet de détecter les situations suivantes sur une issu
 * une absence d'activation prolongée (à condition de disposer de données sur une longue période)
 
 Il faudrait également vérifier la cohérence entre les activations de la GTC et les autres événements tels que les ouvertures de portes.
+
+Concomitance des événements d'ouvertures de portes et de surpression
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+On a observé pour tous les triplets (issue, jour,  heure) la survenance d'un événement, ouverture ou surpression.
+
+Sur 121 triplet comportant au moins une ouverture de porte en tunnel, on a 117 activations de la surpression mais seulement 11 ouvertures de porte extérieure.
+
+Cela signifie que la surpression est presque systématique en cas d'ouverture de porte en tunnels, mais que les ouvertures de portes en tunnel ne sont qu'une fois du 10 associées à une ouverture de porte extérieure.
+
+Les 139 cas d'ouvertures de porte extérieures qui n'ont pas été associées à une ouverture de porte en tunnel ne sont pas associées à un démarrage de la surpression.
+
+La GTC remonte par ailleurs 113 occurrences de démarrages de la surpression sans qu'il y ait ouverture de la porte en tunnel. On peut s'interroger sur la cause de ces démarrages.
+
 
 
 
