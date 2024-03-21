@@ -20,9 +20,9 @@ Des inspections régulières sont également nécessaires. Le fascicule 40 recom
 En pratique, les contrôles sont principalement réalisés par les TDM en régie, à l'occasion d'interventions sur d'autres sujets. Il n'y a pas beaucoup de traçabilité de ces inspections.
 Il n'est donc pas possible de faire des estimations statistiques sur la fréquence des inspections et sur l'importance des défauts constatés.
 
-Les seules prestations qui font l'objet d'un reporting systématique sont les prestations de maintenance préventive des issues (B2P001) qui interviennent le plus souvent une seule fois par an. Cependant les rapports ne sont pas mis sur CosWin et leur enregistrement au format PDF ne permettrait pas leur exploitation pour faire des statistiques.
+Les seules prestations qui font l'objet d'un reporting systématique sont les prestations de maintenance préventive des issues (marché bâtiment, prix : B2P001) qui interviennent le plus souvent une seule fois par an. Cependant les rapports ne sont pas mis sur CosWin et leur enregistrement au format PDF ne permettrait pas leur exploitation pour faire des statistiques.
 
-Le besoin de connaissance est particulièrement mal satisfait, en termes de fréquence et de traçabilité.
+Le besoin de connaissance  de l'état des issues est particulièrement mal satisfait, en termes de fréquence et de traçabilité.
 
 Besoin de maintenance préventive
 ===================================
@@ -49,11 +49,11 @@ Cela signifie que les besoins curatifs, sur le périmètre du marché Bâtiment,
 
 Besoin de régénération 
 ==========================
-L'éclairage et les équipements électriques ont une durée de vie d'environ 10 ans. Les bandeaux de LED et les tubes lumineux doivent être remplacés plus fréquemment.
+L'éclairage et les équipements électriques ont une durée de vie d'environ 10 à 20 ans. Les bandeaux de LED et les tubes lumineux doivent être remplacés plus fréquemment.
 
 Les portes coupe-feux des tunnels présentent également des signes de vétusté et leur régénération doit être envisagée. Il faut déterminer si cela signifie un remplacement complet ou le seul renouvellement des éléments de serrurerie.
 
-Comme dans d'autres domaines du patrimoine géré par le DETT, un plannification de cette régénération serait nécessaire.
+Comme dans d'autres domaines du patrimoine géré par le DETT, une plannification de cette régénération serait nécessaire.
 
 
 
