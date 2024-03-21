@@ -12,7 +12,7 @@ Accès aux données
 =================
 La GTC des tunnels enregistre des événements liés au issues. Les données sont accessibles par l'application JASPER disponible sur le réseau technique du STT.
 
-Il faut choisir dans une requette sur le *"journal des ocnsignations"* :
+Il faut choisir dans une requette sur le *"journal des consignations"* :
 
 * une période, 
 * un tunnel et 
