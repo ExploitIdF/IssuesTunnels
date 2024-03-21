@@ -79,6 +79,9 @@ Les ouvertures de portes extérieures sont détectées par 2 capteurs. La GTC fa
 
 Sur l'échantillon analysé on observe 280 évènements d'ouvertures de portes extérieures. Environ moitié moins que les ouvertures de portes en tunnels.
 
+Un nombre important d'ouvertures des portes extérieures sont liées à quelques issues du secteur de Coeur Défense, en journée.
+
+
 Activation de la surpression
 """"""""""""""""""""""""""""""
 La mise en marche et l'arrêt de la surpression sont détectés par la GTC.
