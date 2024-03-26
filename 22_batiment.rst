@@ -34,17 +34,49 @@ B2P003	Prestation de maintenance préventive d’une niche de secours
 
 	valeur : 130€ HT (2020)
 
-Il semble que les prix dont les volumes sont estimé à zéro sont plus élevés qu'ils ne l'auraient été avec une estimation positive.
+Il semble que les prix dont les volumes sont estimés à zéro sont plus élevés qu'ils ne l'auraient été avec une estimation positive.
 
 En fait, ces prix n'ont pas vocation à être utilisés isolément pour une issue particulière, 
 mais dans le cadre d'une prestation portant sur l'ensemble des issues d'un tunnel.
 Les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
 évidentes avec celle des issues.
+Lors du renouvellement du marché, il conviendra de créer des prix pour les préventifs globaux de chaque tunnel, comme cela est fait dans les marchés propreté ou éclairage.
+Il faudra fournir dans le DCE une description des locaux et équipements concernés dans chaque tunnel.
 
+Il y aurait une une logique à définir un prix par tunnel, pour l'ensemble des issues et des niches, 
+
+
+Rapports sur les interventions
+""""""""""""""""""""""""""""""""""
 Des modèles de rapports figurent en annexe du CCTP pour chacun des tunnels, avec l'identification de chacune des issues et niches du tunnel.
 Très peu de rapports sont déposés sur CosWin.
 
-Il y aurait une une logique à définir un prix par tunnel, pour l'ensemble des issues et des niches, comme cela est fait dans les marchés propreté ou éclairage.
+Les modèles de rapports ne sont pas cohérents avec la liste des actions qui décrivent la gamme de maintenance dans CosWin :
+
+.. csv-table::
+   :header: Description de l'action (CosWin)
+   :width: 40%
+
+	API: Sauvegarde du programme automate puis dépose de celle-ci sur la GMAO ou un support dédié 
+	Vérifier Documentation fournisseur - Spécifications et réglages
+	Vérifier Documentation client - Niveau de sécurisation
+	Vérifier Documentation client - G.M.A.O.
+	Analyser Compte rendu d'activité du correctif
+	Analyser Compte rendu du précédent préventif de la gamme
+	Mettre à jour Les spécifications, gammes et bibliothèques
+	Contrôle de l'éclairage normal et sécurité
+	Contrôle fonctionnement porte et/ou trappe, serrurerie et capteur position
+	Contrôle fonctionnement de la surpression
+	Contrôle du fonctionnement du capteur de présence
+	Contrôle du fonctionnent de la caméra
+	Contrôle de l'état extérieur des armoires électriques
+	Contrôle et essai du téléphone de sécurité
+	Vérification de la vacuité de l'issue
+	Contrôle main courante
+	Vérification des remontées d'information vers PCTT
+	Mettre à jour La G.M.A.O.
+	Déclencher Les opérations correctives si nécessaire et si possible
+
 
 Utilisation du marché
 ==========================
@@ -65,7 +97,8 @@ Certains tunnels ne sont pas traités tous les ans, selon les enregistrements pr
 Selon le PCTT Est, le principal facteur limitant les interventions est le manque de disponibilité de l'entreprise 
 TERIDEAL, alors que l'on est contraint par les nuits de fermeture.
 
-On observe que le prox B2P001 est aussi utilisé pour des maintenances préventives des portes des locaux techniques des tunnels ou de SIRIUS. Le marché Bâtiment ne comporte pas de prix pour des actions préventives sur ces portes.
+On observe que le prix B2P001 est aussi utilisé pour des maintenances préventives des portes des locaux techniques des tunnels ou de SIRIUS. 
+Le marché Bâtiment ne comporte pas de prix pour des actions préventives sur les portes de ces locaux ce qui peut expliquer le détournement du prix prévu pour les issues.
 
 **Montants (k€ HT) engagés par PCTT et par an sur la maintenance préventive des issues avec le marché Batiment.**
 
