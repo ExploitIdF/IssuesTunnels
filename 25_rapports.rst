@@ -12,11 +12,15 @@ L'entreprise doit renseigner dans un classeur OpenOffice, pour chaque issue, 32 
    :scale: 110%
    :align: right
 
-Dans le cas du marché Bâtiment, le DCE contient un template de rapport par tunnel avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
+Dans le cas du marché Bâtiment, le DCE contient un modèle de rapport par tunnel avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
 
 En pratique, peu de rapports sont sur CosWin car l'entreprise dit ne pas avoir les moyens d'accéder à CosWin.
 
-Les premiers exemples de rapport consultés ne correspondent pas au template fourni par le DCE du marché (à compléter sur la base des retours attendus des PCTT).
+Les premiers exemples de rapport consultés ne correspondent pas strictement au modèle fourni par le DCE du marché (à compléter sur la base des retours attendus des PCTT).
+
+Les rapports sont saisis à la main sans contrôle automatique de format et ils sont enregistrés au format PDF ou XLSX. 
+
+Dans ces conditions les rapports ne peuvent pas être lus par un programme pour faire des statistiques.  
 
 
 Nouveau support de saisie des rapports d'interventions
