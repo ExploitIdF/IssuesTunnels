@@ -63,9 +63,9 @@ Les modèles de rapports ne sont pas cohérents avec la liste des actions qui d�
 	Vérifier Documentation client - G.M.A.O.
 	Analyser Compte rendu d'activité du correctif
 	Analyser Compte rendu du précédent préventif de la gamme
-	Mettre à jour Les spécifications, gammes et bibliothèques
+	Mettre à jour Les spécifications - gammes et bibliothèques
 	Contrôle de l'éclairage normal et sécurité
-	Contrôle fonctionnement porte et/ou trappe, serrurerie et capteur position
+	Contrôle fonctionnement porte et/ou trappe - serrurerie et capteur position
 	Contrôle fonctionnement de la surpression
 	Contrôle du fonctionnement du capteur de présence
 	Contrôle du fonctionnent de la caméra
