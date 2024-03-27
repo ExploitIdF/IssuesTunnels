@@ -14,9 +14,16 @@ L'entreprise doit renseigner dans un classeur OpenOffice, pour chaque issue, 32 
 
 Dans le cas du marché Bâtiment, le DCE contient un modèle de rapport par tunnel avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
 
-En pratique, peu de rapports sont sur CosWin car l'entreprise dit ne pas avoir les moyens d'accéder à CosWin.
+En pratique, les rapports sont pas sur CosWin car l'entreprise dit ne pas avoir les moyens d'accéder à CosWin. Ils seulement sont envoyés au PCTTs qui les archivent.
 
-Les premiers exemples de rapport consultés ne correspondent pas strictement au modèle fourni par le DCE du marché (à compléter sur la base des retours attendus des PCTT).
+Les premiers exemples de rapport consultés ne correspondent pas exactement au modèle fourni par le DCE du marché.
+Les formats ont été modifiés avec des différences selon les PCTT. 
+
+Une moitié des rapports prévus par le CCTP est absente de tous les rapports remontés par les PCTT.
+
+(à compléter sur la base des échanges avec les PCTT).
+
+
 
 Les rapports sont saisis à la main sans contrôle automatique de format et ils sont enregistrés au format PDF ou XLSX. 
 
@@ -29,8 +36,11 @@ Le sujet des rapports a été abordé avec les adjoints de maintenance lors d'un
 
 L'absence d'un outil nomade relié à CosWin est un sujet qui a déjà été maintes fois évoqué. Les TDM et les entreprises voudraient un moyen de saisir directement les données sur le terrain.
 
-Il a été envisagé que l'on utilise un formulaire *Google Form* sur smartphone, pour la saisie des données. Il semble en effet que le template du marché se prête bien à ce que peut faire un formulaire Google Form. Les données saisies pourraient ensuite être traitées de manière automatisée pour produire des rapports de synthèse et des listes d'actions curatives à programmer.
+Il a été envisagé que l'on utilise un formulaire *Google Form* sur smartphone, pour la saisie des données. Il semble en effet que le modèle du marché se prête bien à ce que peut faire un formulaire Google Form. Les données saisies pourraient ensuite être traitées de manière automatisée pour produire des rapports de synthèse et des listes d'actions curatives à programmer.
 
 L'outil Google Form présente des limites par rapport à ce que l'on pourrait souhaiter faire, mais il a l'avantage de ne pas demander de compétence spécialisée pour effectuer les évolutions qui seront nécessaires avec le retour d'expérience.
 
 On pourrait envisager d'expérimenter le formulaire pour les inspections réalisées en régie par les PCTT.
+
+Pour les rapports saisis par le prestataire, on pourrait lui proposer de choisir l'outil qu'il veut utiliser et lui demander de fournir une table au format CSV, avec toutes les informations demandées dans le CCTP.
+
