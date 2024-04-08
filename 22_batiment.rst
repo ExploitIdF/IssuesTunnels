@@ -55,7 +55,7 @@ Les modèles de rapports ne sont pas cohérents avec la liste des actions qui d�
 
 .. csv-table::
    :header: Description de l'action (CosWin)
-   :width: 40%
+   :width: 90%
 
 	API: Sauvegarde du programme automate puis dépose de celle-ci sur la GMAO ou un support dédié 
 	Vérifier Documentation fournisseur - Spécifications et réglages
@@ -80,11 +80,13 @@ Les modèles de rapports ne sont pas cohérents avec la liste des actions qui d�
 
 Utilisation du marché
 ==========================
-Selon le détail estimatif la dépense annuelle serait de 38 k€ HT (2020) correspondant à 296 fois le prix B2P001. Le DE comporte des volumes nuls pour les prix B2P002 et B2P003.
+Selon le détail estimatif (DE), la dépense annuelle serait de 38 k€ HT (2020) correspondant à 296 fois le prix B2P001. 
+Le DE comporte des volumes nuls pour les prix B2P002 et B2P003.
 
 On constate une dépense d'environ 50 k€/an sur le prix B2P001 et d'environ 25 k€/an sur le prix B2P003.
 
-Les prestations commandées sont parfois formulées comme si étaient programmées 2 ou 4 actions par an alors que le détail estimatif prévoit une prestation par an. 
+Les prestations commandées sont parfois formulées comme si étaient programmées 2 ou 4 actions par an 
+alors que le détail estimatif prévoit seulement une prestation par an. 
 On lit par exemple dans Sucombe les libellés de prestations suivants :
 
 * Préventif 1/2 des issues de secours du tunnel Guy Mocquet
@@ -98,7 +100,8 @@ Selon le PCTT Est, le principal facteur limitant les interventions est le manque
 TERIDEAL, alors que l'on est contraint par les nuits de fermeture.
 
 On observe que le prix B2P001 est aussi utilisé pour des maintenances préventives des portes des locaux techniques des tunnels ou de SIRIUS. 
-Le marché Bâtiment ne comporte pas de prix pour des actions préventives sur les portes de ces locaux ce qui peut expliquer le détournement du prix prévu pour les issues.
+Le marché Bâtiment ne comporte pas de prix pour des actions préventives sur les portes de ces locaux 
+ce qui peut expliquer le détournement du prix prévu pour les issues.
 
 **Montants (k€ HT) engagés par PCTT et par an sur la maintenance préventive des issues avec le marché Batiment.**
 
