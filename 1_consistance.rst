@@ -1,5 +1,5 @@
-Consistance des issues de secours
-==================================  
+Les issues de secours, c'est quoi ?
+====================================  
 .. toctree::
    :hidden:
    :maxdepth: 3
@@ -8,7 +8,7 @@ Consistance des issues de secours
    11_reference
    15_besoins
    17_liste
-
+   18_GTC
 On vise au travers de la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. 
 Certaines composantes, comme la porte de séparation avec le tunnel, sont particulièrement importantes pour la sécurité. 
 D'autres éléments comme la surpression ou le cheminement extérieur sont nécessaires mais non critiques. Une hiérarchisation est donc nécessaire.
