@@ -12,7 +12,7 @@ Le bordereau de prix du marché Propreté comporte plusieurs numéros de prix ut
 Ce prix de lavage d'une issue est principalement utilisé en curatif. Quand il intervient dans un bon de commande de préventif, cela peut être justifié par le fait que le TDM a identifié un besoin spécifique de nettoyer des issues particulières qui ont été occupées de manière illicite.
 
 
-Pour chaque tunnel, un prix pour l'inspection de toutes les IS, dans les 2 sens de circulation. 
+Pour chaque tunnel, il y a un prix pour l'inspection de toutes les IS du tunnel, dans les 2 sens de circulation. 
 
 Par exemple :
 
@@ -73,6 +73,11 @@ Le tableau suivant présente les montants par tunnel et par an. Aucun de ces pri
     PCTT Nord,Landy,0,3780
     PCTT Nord,Taverny,0,944
     PCTT Ouest,Nanterre / La Défense,6824,20472
+
+Proposition pour le renouvellement des marchés
+==================================================    
+La prestation d'inspection est très peu utilisée et elle est proche de la mission de maintenance préventive du marché Batiment.
+On recommande donc de transférer la prestation dans le marché Bâtiment dès sont renouvellement en 2024.
 
 
 
