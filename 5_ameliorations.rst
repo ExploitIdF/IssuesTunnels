@@ -21,10 +21,10 @@ Les TDM et les prestataires se rendent dans les issues pour d'autres raisons que
 Il serait interessant de valoriser ces visites en permettant d'enregistrer les passages et 
 les observations faites à cette occasion sur l'état des issues.
 
-Permettre un partage entre prestations et régie qui soit propre à chaque tunnel.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Permettre un partage, entre prestations externalisées et régie, qui soit propre à chaque tunnel.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Les essais fonctionnels de la porte coupe feu, le contrôle de la vacuité et de l'éclairage, sont des actions qu'il est possible de réaliser en régie. Cela dépend de la disponibilité des TDM qui n'est pas la même pour tous les PCTT et 
-qui fluctue selon les départs et les arrivées des agents.
+qui fluctue, au sein d'un même PCTT, selon les départs et les arrivées des agents.
 
 Le marché doit donc permettre plusieurs modalités de partage des missions entre le travail en régie et les tâches externalisées.
 
@@ -47,7 +47,7 @@ Produire des données sous un format adapté à la valorisation de l'information
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Les rapports suivent des modèles différents et sont souvent au format PDF.
 Les données sont dispersées dans les PCTT qui n'ont pas les moyens de faire des synthèses.
-CosWin n'est pas utilisé par tous les PCTT.
+CosWin n'est pas utilisé par tous les PCTT et les données qui y sont enregistrées ne sont pas toujours exploitables.
 
 Il faudrait une base de données centralisée qui permette de vérifier facilement les réalisations dans chaque tunnel et de faire des statistiques sur les contrôle et les défauts constatés.
 
@@ -77,6 +77,11 @@ Que veut dire par exemple vérifier le bon fonctionnement de la surpression ?
   * C)  B) & la pression sur la porte de la rend pas trop difficule à ouvrir.
   * D) on mesure par une procédure déterminée le niveau de la surpression pour vérifier qu'il est conforme à une fourchette de valeurs acceptables.
 
+Il faudrait faire une description exhaustive des tâches pour la maintenance annuelle et pour les essais fonctionnels. En parallèle, il faut concevoir les modalités de reporting associées. Le résultat de ce travail figurera dans le CCTP du marché.
+
+Les documents produit devront être soumis aux TDM concernés pourqu'ils s'assurent qu'ils comprennent tous la même chose et qu'ils sont en mesure de faire appliquer et de contrôler la réalisation des spécifications ainsi définies.
+
+
 Etablir un format de fichiers pour importer le réporting du prestataire dans une base CosWin
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Pour que les données des rapports soient rassemblées dans une base unique, il faut que les prerstataires
@@ -84,9 +89,13 @@ disposent d'une application sur le terrain pour enregistrer ce qu'ils ont consta
 Il faut ensuite que des fichiers exploitables soient transmis à la DIRIF.
 
 Les entreprises compétentes disposent d'outils de saisie des données qu'elles connaissent et 
-leurs personnel est équipé de terminaux.
-Elle peuvent concevoir les modules de collecte de données et les convertions de fichiers pour communiquer 
+leur personnel est équipé de terminaux compatibles.
+Les entreprises peuvent concevoir les modules de collecte de données et les convertions de fichiers pour communiquer 
 les rapports à la DIRIF dans un format imposé.
+
+Il faut donc définir une liste de champs et pour chaque champ le type de données attendues. 
+Pour certains champ, la liste des choix possibles fera partie de la spécification.
+
 
 Exploiter les données de la GTC sur les ouvertures de portes et les détections d'événements dans les issues.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -99,6 +108,20 @@ Pour faire cette exploitation, il faut extraire globalement les données corresp
 L'outil Jasper n'est pas adpaté à ce type de requête.
 
 A terme, il faudrait que les données utiles de la GTC soient mises à disposition sur une base accessible à l'extérieur du réseau technique. En attendant, on pourrait demander à Actémium de faire une extraction particulière.
+
+Mettre à disposition des TDM une application pour le reporting des visites en régie
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Le reporting des actions faites en régie est également nécessaire. 
+Dans ce cas, c'est au DETT de fournir la solution aux TDM.
+
+Cette application pourrait dans un premier temps ne porter que sur les 3 éléments des CME des issues :
+  * ouverture de la porte du tunnel
+  * cheminement aisé dans l'issue
+  * éclairage de sécurité
+
+
+
+
 
 
 
