@@ -28,8 +28,15 @@ Cette formulation mérite d'être encore clarifiée, mais on peut en retenir que
 
 Contrôle des CME
 """"""""""""""""
-Les détecteurs d'événements et les caméras permettent d'identifier des anomalies dans les issues, mais le contrôle de la CME demande une visite sur place. 
-C'est pour cette raison que des essais fonctionnels doivent être réalisés régulièrement.
+Les CME des issues de secours ne sont pas contrôlée par la GTC et il n'y a pas de procédure établissant la manière dont le PCTT doit contrôler ces CME. 
+
+Le fascicule 40 envisage un *contrôle visuel* hebdomadaire et des essais fonctionnels tous les 15 jours, mais la DIRIF n'est pas en mesure de réaliser ces actions.
+
+Les détecteurs d'événements et les caméras permettent d'identifier des anomalies dans les issues. Les personnes chargées de la maintenance utilise les issues et  font remonter à l'OST les anomalies dont ils ont connaissance. Le traitement de ces informations n'est cependant pas encadré par une règle.
+
+A l'occasion de l'instruction des DS de l'A13, la DIRIF s'est engagée à améliorer le contrôle et en particulier à réaliser des essais fonctionnels bimestriels.
+
+Une reflexion est en cours sur l'utilisation de la GTC qui permet de savoir quand une porte d'issue est ouverte. On pourrait détecter les issues qui n'ont pas été visitées depuis plus de 30 jours.
 
 Quand l'exploitant a connaissance d'une situation dégradée telle qu'une issue non opérationnelle, il devrait renforcer le contrôle des issues adjacentes par des visites toutes les 2 semaines. 
 Une signalisation de l'issue non opérationnelle doit également être mise en place.
