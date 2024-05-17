@@ -36,13 +36,13 @@ Porte dans le tunnel
 On distingue cette porte car elle joue un rôle prééminent dans la mise en sécurité des usagers en cas d'incendie.
 La porte dans le tunnel comprend les éléments suivant :
 
-* Panneau de la porte qui ne soit pas être déformé et ne doit pas être limité dans son mouvement par un contact avec d'autres objets.
+* Panneau de la porte qui ne doit pas être déformé et ne doit pas être limité dans son mouvement par un contact avec un autre objet
 * Serrurerie qui doit assurer le bon niveau maniabilité
-* Bras de rappel qui doit assurer que la porte se referme à la bonne vitesse après ouverture.
-* Fusibles thermique
+* Bras de rappel qui doit assurer que la porte se referme à la bonne vitesse après ouverture
+* Fusibles thermiques
 * Feux flash de signalisation
 * Signalétique
-* détection de position
+* Détection de position (ouvert/fermé)
 
 Autres portes et cheminements
 """"""""""""""""""""""""""""""""
@@ -50,9 +50,8 @@ Autres portes et cheminements
 * Panneaux de  porte
 * Serrurerie 
 * Bras de rappel
+* Détection de position (ouvert/fermé)
 * Sas et cheminement qui doivent être dégagés et propres
-* Signalétique
-* détection de position
 
 Eclairage et signalétique
 """"""""""""""""""""""""""
