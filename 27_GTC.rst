@@ -96,20 +96,14 @@ Il faudrait également vérifier la cohérence entre les activations de la GTC e
 
 Concomitance des événements d'ouvertures de portes et de surpression
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-On a observé pour tous les triplets (issue, jour,  heure) la survenance d'un événement, ouverture ou surpression.
+On a observé tous les triplets (issue, jour,  heure) associés à la survenance d'au moins un événement de type ouverture ou surpression.
 
 Sur 121 triplets comportant au moins une ouverture de porte en tunnel, on a 117 activations de la surpression mais seulement 11 ouvertures de porte extérieure. 
 Cela peut s'expliquer par l'utilisation des portes par les mainteneurs pour accéder à des locaux techniques.
 
-Cela signifie que la surpression est presque systématique en cas d'ouverture de porte en tunnels, mais que les ouvertures de portes en tunnel ne sont qu'une fois du 10 associées à une ouverture de porte extérieure.
+Cela signifie que la surpression est presque systématique en cas d'ouverture de porte en tunnels, mais que les ouvertures de portes en tunnel ne sont qu'une fois sur 10 associées à une ouverture de porte extérieure.
 
 Les 139 cas d'ouvertures de porte extérieures qui n'ont pas été associées à une ouverture de porte en tunnel ne sont pas associées à un démarrage de la surpression.
 
 La GTC remonte par ailleurs 113 occurrences de démarrages de la surpression sans qu'il y ait ouverture de la porte en tunnel. On peut s'interroger sur la cause de ces démarrages.
-
-
-
-
-
-
 
