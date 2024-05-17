@@ -9,8 +9,6 @@ Politique de maintenance
    25_rapports
    27_GTC
 
-
-
 On commence par faire un état des lieux des pratiques des 3 dernières années qui présentent des variations importantes selon le PCTT considéré.
 
 La maintenance des issues de secours peut être décomposée en 3 parties : 
@@ -31,5 +29,8 @@ Dans certains cas, encore trop rares, les PCTT suivent le même protocole pour l
 
 Plus fréquemment, les PCTT visitent les issues à l'occasion d'autres interventions et ne font que signaler les défauts observés pour déclencher une action curative.
 
-Le :doc:`reporting et la traçabilité<25_rapports>` sont des points faibles de la maitnenance des issues sur lesquels il est prioritaire de progresser.
+Le :doc:`reporting et la traçabilité<25_rapports>` sont des points faibles de la maintnenance des issues sur lesquels il est prioritaire de progresser.
+
+La `GTC<27_GTC>` enregistre certains énènements qui interviennent dans les issues. Elle fournit ainsi des données utile à la maintenance.
+
 
