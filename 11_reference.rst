@@ -1,6 +1,6 @@
 Les composantes des issues, selon le F40 et les marchés
 ========================================================
-Les 3 sources que l'on a identifiées permettent de comprendre le champ, mais ne fournissent pas une structuration des objets à considérer.
+Les 3 sources que l'on a identifiées permettent de décrire comment le sujet des issues est pris en compte dans les documents existants. Cela aide à comprendre le champ et le niveau de formalisation actuel. On constate une potentielle marge de progrès sur une structuration des objets à considérer.
 
 Fascicule 40
 """""""""""""
@@ -22,8 +22,8 @@ L'annexe C du fascicule 40, sur la thème des issues, identifie les objets suiva
 * Filtres
 * Sonorisation par hauts parleurs	
 
-marché batiment
-"""""""""""""""
+Marché Bâtiment (2020)
+"""""""""""""""""""""""""
 Dans le marché batiment, la prestation de la maintenance préventive d'une issue de secours est décrite comme une liste d'actions. De cette liste on a extrait les objets suivants:
 
 * portes coupe-feu
@@ -47,21 +47,26 @@ Dans le marché batiment, la prestation de la maintenance préventive d'une issu
 * surpression 
 * éclairage normal et de sécurité
 * trappes
-* caméra
+* caméras
 * armoires électriques
 * téléphone de sécurité
 * vacuité de l’issue ;
 * panneaux d’évacuation ;
-* capteurs de portes, fonctionnement surpression, présence, caméra, téléphone de sécurité
+* capteurs/supervision 
+	* portes, 
+	* fonctionnement surpression, 
+	* présence, 
+	* caméra, 
+	* téléphone de sécurité
 
-Marché propreté
+Marché Propreté
 """"""""""""""""
 On trouve dans le CCTP du marché propreté la liste suivante :
 
 * Caméra
 * Téléphone de Sécurité
 * Capteurs de portes côté tunnel et extérieure
-* Éclairage Normal
+* Éclairage normal
 * Éclairage secours
 * Capteur volumétrique
 * Surpression (pour certaines IS)
@@ -82,7 +87,7 @@ L'annexe 2 sur l'inspection des issues de jour mentionne :
 * Porte Tunnel 
 * Porte SAS 
 * Porte Haute 
-* Portail ou portillon Extérieure 
+* Portail ou portillon Extérieur
 * Eclairage permanent (LED) 
 * Eclairage renforcé (fluo) 
 * Eclairage extérieur 
@@ -94,7 +99,7 @@ L'annexe 2 sur l'inspection des issues de jour mentionne :
 * Visibilité de la statique (main courante et panneaux) 
 * Surpression (si issue équipée) 
 * Dégradation et accessibilité des PST 
-* Téléphone de SEcurité 
+* Téléphone de Sécurité 
 * Caméra dans l’issue 
 * Détecteurs de présence 
 * GTC
