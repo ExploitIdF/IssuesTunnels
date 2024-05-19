@@ -12,8 +12,8 @@ Le fichier contient les variables suivantes :
 Les variables exploitées sont les suivantes :
 'type', 'dt',  'description',    'equipement',   'evenement'
 
-type
-^^^^^^
+Variable type
+"""""^"""""""""
 On construit la variable **type** en décomposant la variable **name** en 5 parties séparées par des point ".". Par exemple :
 name : **A6B_TU.AE001.AE600007.TS.ETA_MA_SURP** -> type : **ETA_MA_SURP**.
 
@@ -31,25 +31,25 @@ On peut classer les valeurs de la variable type selon ses 3 premières lettres :
 
 Dans la suite, on s'interessera aux 4 premiers groupes.
 
-equipement
-^^^^^^^^^^
+Variable equipement
+""""""""""""""""""""""
 Le champ **equipement** prend 35 valeurs que l'on peut classer en 4 groupes :
 
 Champ :'Auto Evacuation A6b'
-"""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 une seule valeur.
 
 Niches de sécurité NS1 à NS22
-"""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 'SENS W NS01 / NS03 / NS05 / NS07','SENS W NS09 / NS11', 'SENS W NS13', 'SENS W NS15','SENS W NS17 / NS19 / NS21', 
 'SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12', 'SENS Y NS14','SENS Y NS16', 'SENS Y NS18 / NS20 / NS22',
 
 Niches de sécurité SB00A à SB00E et SB00X
-"""""""""""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 'SENS W SB00X','SENS Y SB00A / SB00B','SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E',
 
 PAU et TSE avec leur adresse IP
-"""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 'PAU niche NS1 - IP=\t30.8.36.34','PAU niche NS2 - IP=\t30.8.36.35', 'PAU niche NS3 - IP=\t30.8.36.36',
 'PAU niche NS4 - IP=\t30.8.36.37', 'PAU niche NS5 - IP=\t30.8.36.38','PAU niche NS6 IP=\t30.8.36.39',
 
@@ -57,9 +57,6 @@ PAU et TSE avec leur adresse IP
 'TSE issue 405 IP=30.8.36.12', 'TSE issue 406 IP=30.8.36.13','TSE issue 407 IP=30.8.36.14', 'TSE issue 408 IP=30.8.36.15',
 'TSE issue 409 IP=30.8.36.20', 'TSE issue 410 IP=30.8.36.19','TSE issue 411 IP=30.8.36.18', 'TSE issue 412 IP=30.8.36.17',
 'TSE issue 413 IP=30.8.36.16'
-
-
-
 
 
 **'Auto Evacuation A6b'** : valeur utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
