@@ -59,7 +59,7 @@ PAU et TSE avec leur adresse IP
 'TSE issue 413 IP=30.8.36.16'
 
 
-**'Auto Evacuation A6b'** : valeur utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
+La  valeur**'Auto Evacuation A6b'**  est utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
 
 A chaque fois que cette valeur apparait, on observe également des événements de type **ETA_MA_SURPVENT** 
 pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS09 / NS11', 'SENS W NS13', 
@@ -67,10 +67,8 @@ pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS
 'SENS W SB00X','SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12','SENS Y NS14', 'SENS Y NS16', 
 'SENS Y NS18 / NS20 / NS22', 'SENS Y SB00A / SB00B', 'SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E'
 
-
-
-
-
+On observe également des événements de type **DEF_DISC_SURP, ETA_MA_SURP & 12	ETA_RM_SURP** pour les équipements suivants :	
+'SENS W NS15', 'SENS Y NS16',  'SENS Y SB00C'
 
 
 
