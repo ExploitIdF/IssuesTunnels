@@ -37,17 +37,7 @@ Le champ **equipement** prend 35 valeurs que l'on peut classer en 4 groupes :
 
 Champ :'Auto Evacuation A6b'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-La  valeur **'Auto Evacuation A6b'**  est utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
-
-A chaque fois que cette valeur apparait, on observe également des événements de type **ETA_MA_SURPVENT** 
-pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS09 / NS11', 'SENS W NS13', 
-'SENS W NS15', 'SENS W NS17 / NS19 / NS21',
-'SENS W SB00X','SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12','SENS Y NS14', 'SENS Y NS16', 
-'SENS Y NS18 / NS20 / NS22', 'SENS Y SB00A / SB00B', 'SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E'
-
-On observe également des événements de type **DEF_DISC_SURP, ETA_MA_SURP & 12	ETA_RM_SURP** pour les équipements suivants :	
-'SENS W NS15', 'SENS Y NS16',  'SENS Y SB00C'
-
+Une seule valeur
 
 Niches de sécurité NS1 à NS22
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -68,7 +58,18 @@ PAU et TSE avec leur adresse IP
 'TSE issue 409 IP=30.8.36.20', 'TSE issue 410 IP=30.8.36.19','TSE issue 411 IP=30.8.36.18', 'TSE issue 412 IP=30.8.36.17',
 'TSE issue 413 IP=30.8.36.16'
 
+Champ :'Auto Evacuation A6b'
+""""""""""""""""""""""""""""""
+La  valeur **'Auto Evacuation A6b'**  est utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
 
+A chaque fois que cette valeur apparait, on observe également des événements de type **ETA_MA_SURPVENT** 
+pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS09 / NS11', 'SENS W NS13', 
+'SENS W NS15', 'SENS W NS17 / NS19 / NS21',
+'SENS W SB00X','SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12','SENS Y NS14', 'SENS Y NS16', 
+'SENS Y NS18 / NS20 / NS22', 'SENS Y SB00A / SB00B', 'SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E'
+
+On observe également des événements de type **DEF_DISC_SURP, ETA_MA_SURP & 12	ETA_RM_SURP** pour les équipements suivants :	
+'SENS W NS15', 'SENS Y NS16',  'SENS Y SB00C'
 
 
 
