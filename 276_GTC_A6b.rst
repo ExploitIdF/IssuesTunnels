@@ -13,7 +13,7 @@ Les variables exploitées sont les suivantes :
 'type', 'dt',  'description',    'equipement',   'evenement'
 
 Variable type
-"""""^"""""""""
+""""""""""""""
 On construit la variable **type** en décomposant la variable **name** en 5 parties séparées par des point ".". Par exemple :
 name : **A6B_TU.AE001.AE600007.TS.ETA_MA_SURP** -> type : **ETA_MA_SURP**.
 
@@ -37,7 +37,17 @@ Le champ **equipement** prend 35 valeurs que l'on peut classer en 4 groupes :
 
 Champ :'Auto Evacuation A6b'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-une seule valeur.
+La  valeur **'Auto Evacuation A6b'**  est utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
+
+A chaque fois que cette valeur apparait, on observe également des événements de type **ETA_MA_SURPVENT** 
+pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS09 / NS11', 'SENS W NS13', 
+'SENS W NS15', 'SENS W NS17 / NS19 / NS21',
+'SENS W SB00X','SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12','SENS Y NS14', 'SENS Y NS16', 
+'SENS Y NS18 / NS20 / NS22', 'SENS Y SB00A / SB00B', 'SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E'
+
+On observe également des événements de type **DEF_DISC_SURP, ETA_MA_SURP & 12	ETA_RM_SURP** pour les équipements suivants :	
+'SENS W NS15', 'SENS Y NS16',  'SENS Y SB00C'
+
 
 Niches de sécurité NS1 à NS22
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -59,16 +69,7 @@ PAU et TSE avec leur adresse IP
 'TSE issue 413 IP=30.8.36.16'
 
 
-La  valeur**'Auto Evacuation A6b'**  est utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
 
-A chaque fois que cette valeur apparait, on observe également des événements de type **ETA_MA_SURPVENT** 
-pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS09 / NS11', 'SENS W NS13', 
-'SENS W NS15', 'SENS W NS17 / NS19 / NS21',
-'SENS W SB00X','SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12','SENS Y NS14', 'SENS Y NS16', 
-'SENS Y NS18 / NS20 / NS22', 'SENS Y SB00A / SB00B', 'SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E'
-
-On observe également des événements de type **DEF_DISC_SURP, ETA_MA_SURP & 12	ETA_RM_SURP** pour les équipements suivants :	
-'SENS W NS15', 'SENS Y NS16',  'SENS Y SB00C'
 
 
 
