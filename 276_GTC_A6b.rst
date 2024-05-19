@@ -37,12 +37,14 @@ Le champ **equipement** prend 35 valeurs que l'on peut classer en 3 groupes :
 
 **'Auto Evacuation A6b'** : valeur utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
 
-A chaque fois que cette valeur apparait, on observe également des événements de type pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',
-       'SENS W NS09 / NS11', 'SENS W NS13', 'SENS W NS15',
-       'SENS W NS17 / NS19 / NS21', 'SENS W SB00X',
-       'SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12', 'SENS Y NS14',
-       'SENS Y NS16', 'SENS Y NS18 / NS20 / NS22', 'SENS Y SB00A / SB00B',
-       'SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E'
+A chaque fois que cette valeur apparait, on observe également des événements de type **ETA_MA_SURPVENT** 
+pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS09 / NS11', 'SENS W NS13', 
+'SENS W NS15', 'SENS W NS17 / NS19 / NS21',
+'SENS W SB00X','SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12','SENS Y NS14', 'SENS Y NS16', 
+'SENS Y NS18 / NS20 / NS22', 'SENS Y SB00A / SB00B', 'SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E'
+
+
+
 
 'PAU niche NS1 - IP=\t30.8.36.34','PAU niche NS2 - IP=\t30.8.36.35', 'PAU niche NS3 - IP=\t30.8.36.36',
 'PAU niche NS4 - IP=\t30.8.36.37', 'PAU niche NS5 - IP=\t30.8.36.38','PAU niche NS6 IP=\t30.8.36.39', 
