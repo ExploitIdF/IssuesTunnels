@@ -104,20 +104,20 @@ Les données GTC correspondantes sont disponibles  :doc:`ICI :<2762_GTC240217>`
 
 Les observations suivantes montrent des anomalies sur la détection de la mise en marche de la surpression des issues et de l'éclairage renforcé.
 
-Dans l'issues IS401, l' *accès tunnel* et la *détection de présence* sont enregistrés à 9h55.
-Il y a par la suite 38 enregistrements de *détection de présence* mais aucun autre accès.
-
-Dans l'issues IS402, l'*accès tunnel* et la *détection de présence* sont enregistrés une première fois à 10h15.
-Il y a par la suite  4 enregistrements d'*accès tunnel* mais pas d'autre *détection de présence*. 
-
-Dans cette issue, à la différence de l'issue IS401 sont enregistrées en outre 2 *Alarme Intrusion en issue*. 
-La  *Marche surpression ventilation* est enregistrée mais pas la *Marche éclairage renforcé*.
-
-Dans l'issues IS403, l'accès tunnel et la détection de présence sont enregistrés une première fois à 10h17.
-Il y a par la suite  2 enregistrements d'accès tunnel mais pas d'autre détection de présence. 
-
-Dans cette issue, comme dans l'issue IS401 il n'y a pas d'*Alarme Intrusion en issue*. 
-La *Marche éclairage renforcé* est enregistrée simultanément mais pas la *Marche surpression ventilation*.
+     Dans l'issues IS401, l' *accès tunnel* et la *détection de présence* sont enregistrés à 9h55.
+     Il y a par la suite 38 enregistrements de *détection de présence* mais aucun autre accès.
+     
+     Dans l'issues IS402, l'*accès tunnel* et la *détection de présence* sont enregistrés une première fois à 10h15.
+     Il y a par la suite  4 enregistrements d'*accès tunnel* mais pas d'autre *détection de présence*. 
+     
+     Dans cette issue, à la différence de l'issue IS401 sont enregistrées en outre 2 *Alarme Intrusion en issue*. 
+     La  *Marche surpression ventilation* est enregistrée mais pas la *Marche éclairage renforcé*.
+     
+     Dans l'issues IS403, l'accès tunnel et la détection de présence sont enregistrés une première fois à 10h17.
+     Il y a par la suite  2 enregistrements d'accès tunnel mais pas d'autre détection de présence. 
+     
+     Dans cette issue, comme dans l'issue IS401 il n'y a pas d'*Alarme Intrusion en issue*. 
+     La *Marche éclairage renforcé* est enregistrée simultanément mais pas la *Marche surpression ventilation*.
 
 
 
