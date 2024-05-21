@@ -26,7 +26,9 @@ name : **A6B_TU.AE001.AE600007.TS.ETA_MA_SURP** -> type : **ETA_MA_SURP**.
 La variable type prend 151 valeurs.
 On a supprimé les enregistrements dont la variable type a moins de 20 occurences (39 valeurs).
 
-On peut classer les valeurs de la variable type selon ses 3 premières lettres, nombre d'occurences des 6 groupes ainsi définis :  
+On peut classer les valeurs de la variable type selon ses 3 premières lettres
+
+On indique les nombres d'occurences des 6 groupes ainsi définis :  
 
       * ETA    140721  
       * DEF     30598  
@@ -93,6 +95,32 @@ Les codes NS1-NS6 semblent faire référence à des niches, mais ils ne correspo
 'TSE issue 405 IP=30.8.36.12', 'TSE issue 406 IP=30.8.36.13','TSE issue 407 IP=30.8.36.14', 'TSE issue 408 IP=30.8.36.15',
 'TSE issue 409 IP=30.8.36.20', 'TSE issue 410 IP=30.8.36.19','TSE issue 411 IP=30.8.36.18', 'TSE issue 412 IP=30.8.36.17',
 'TSE issue 413 IP=30.8.36.16'
+
+Déclenchement périodique de la surpression des issues
+========================================================
+Toutes les 3 heures, sont enregistrés l'activation des surpressions dans les issues et 15 minutes plus tard la désactivation de ces surpressions.
+
+Pour toutes les issues figure un enregistrement de la forme :
+          type : ETA_MA_SURPVENT	
+          equipement : SENS Y SB00
+          description : IS403 Marche surpression ventilation
+
+Pour les issues IS402 et IS407 s'ajoute un enregistrement de la forme :
+          type : ETA_RM_SURP
+          equipement : SENS Y SB00C	
+          description : IS402 Retour marche surpression
+
+et
+
+          type : ETA_MA_SURP
+          equipement : SENS Y SB00C	
+          description : IS402 Marche surpression	5339
+	
+
+
+
+
+
 
 
 
