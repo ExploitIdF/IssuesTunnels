@@ -98,7 +98,25 @@ Les codes NS1-NS6 semblent faire référence à des niches, mais ils ne correspo
 
 Incendie du 17 février 2024 dans le tunnel Italie Y
 =====================================================
-Un incendie est survenu dans le début du tube nord e 17/ février 2024 à 9h38. La fiche CETU rapporte une interuption du trafic de 140 minutes, soit jusqu'à 12h. Les données GTC correspondantes sont disponibles ici : :doc:`<2762_GTC240217>`
+Un incendie est survenu dans le début du tube nord e 17/ février 2024 à 9h38. La fiche CETU rapporte une interuption du trafic de 140 minutes, soit jusqu'à 12h. Les données GTC correspondantes sont disponibles  :doc:`ici :<2762_GTC240217>`
+
+Dans l'issues IS401, l'accès tunnel et la détection de présence sont enregistrés à 9h55.
+Il y a par la suite 38 enregistrements de détection de présence mais aucun autre accès.
+
+
+Dans l'issues IS402, l'accès tunnel et la détection de présence sont enregistrés une première fois à 10h15.
+Il y a par la suite  4 enregistrements d'accès tunnel mais pas d'autre détection de présence. 
+
+Dans cette issue, à la différence de l'issue IS401 sont enregistrées en outre 2 *Alarme Intrusion en issue*. 
+La  *Marche surpression ventilation* est enregistrée mais pas la *Marche éclairage renforcé*.
+
+Dans l'issues IS403, l'accès tunnel et la détection de présence sont enregistrés une première fois à 10h17.
+Il y a par la suite  2 enregistrements d'accès tunnel mais pas d'autre détection de présence. 
+
+Dans cette issue, comme dans l'issue IS401 il n'y a pas d'*Alarme Intrusion en issue*. 
+La *Marche éclairage renforcé* est enregistrée simultanément mais pas la *Marche surpression ventilation*.
+
+
 
 
 
