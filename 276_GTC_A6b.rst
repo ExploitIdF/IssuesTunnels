@@ -70,7 +70,7 @@ Les valeurs de la variable, pour ce groupe, font référence aux niches du tunne
 'SENS W NS01 / NS03 / NS05 / NS07','SENS W NS09 / NS11', 'SENS W NS13', 'SENS W NS15','SENS W NS17 / NS19 / NS21', 
 'SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12', 'SENS Y NS14','SENS Y NS16', 'SENS Y NS18 / NS20 / NS22'
 
-Certains enregistrements qui contiennent ces valeurs font plus réfgérence à l'issue qu'aux niches. L'information sur l'issue est comprise dans la variable **description**.
+De nombreux enregistrements qui contiennent ces valeurs font référence à l'issue et non aux niches (Surpression, détection de présence, ouvertures de portes ...). L'information sur l'issue est par ailleurs comprise dans la variable **description**.
 
 
 Groupe : Niches de sécurité SB00A à SB00E et SB00X
