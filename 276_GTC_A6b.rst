@@ -47,9 +47,6 @@ Groupe :'Auto Evacuation A6b'
 
 Une seule valeur : **Auto Evacuation A6b**
 
-Valeur :'Auto Evacuation A6b'
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 La  valeur **'Auto Evacuation A6b'**  est utilisée uniquement pour le déclenchement de la surpression dans les issues, toutes les 3 heures pendant 15 minutes. 
 
 A chaque fois que cette valeur apparait, on observe également des événements de type **ETA_MA_SURPVENT** 
@@ -78,14 +75,16 @@ Groupe : Niches de sécurité SB00A à SB00E et SB00X
 
 Les valeurs de la variable, pour ce groupe, font référence aux niches du tunnel Italie, regroupées en fonction de l'issue à laquelle elles sont associées. 
 
-Le cas de 'SENS Y SB00E','SENS Y SB00X' reste à identifier.
-
 'SENS W SB00X','SENS Y SB00A / SB00B','SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E',
+
+Les cas des valeurs 'SENS Y SB00E','SENS Y SB00X' sont spécifiques. Les codes SB00X & SB00X prennent la place des codes IS40N dans la variable déscription. Ils sont alors associés au PAU NS5 et NS6 ...
 
 Groupe : PAU et TSE avec leur adresse IP
 """"""""""""""""""""""""""""""""""""""""""""""""""
 
-Il s'agit ici des PAU et TSE. les codes NS1-NS6 semble faire référence à des niches mais ils ne correspondent pas aux codes NS01-NS22 rencontrés plus haut.
+Il s'agit ici des PAU et TSE. 
+
+Les codes NS1-NS6 semblent faire référence à des niches, mais ils ne correspondent pas aux codes NS01-NS22 rencontrés plus haut.
 
 'PAU niche NS1 - IP=\t30.8.36.34','PAU niche NS2 - IP=\t30.8.36.35', 'PAU niche NS3 - IP=\t30.8.36.36',
 'PAU niche NS4 - IP=\t30.8.36.37', 'PAU niche NS5 - IP=\t30.8.36.38','PAU niche NS6 IP=\t30.8.36.39',
