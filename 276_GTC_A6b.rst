@@ -140,7 +140,7 @@ A partir de cette sélection, sélection des jours pour lesquels la somme sur le
 Ce tri conduit à retenir les jours et heures suivants :
 
 .. csv-table::
-   :header:     Date,Heure,Nombre \nd'issues
+   :header:     Date,Heure,Nombre d'issues
    :widths: 60, 20,20
    :width: 50%
     		
@@ -192,10 +192,9 @@ Ce tri conduit à retenir les jours et heures suivants :
 		2024-03-15,2,6
 		2024-03-15,3,4
 
+On vérifie qu'il s'agit principalement de périodes de nuits de fermeture.
 
-
-
-
+Le 2023-07-30 correspond à un incendie dans le tunnel de Bicêtre.
 
 
 Incendie du 17 février 2024 dans le tunnel Italie Y
