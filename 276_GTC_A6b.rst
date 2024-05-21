@@ -98,23 +98,25 @@ Les codes NS1-NS6 semblent faire référence à des niches, mais ils ne correspo
 
 Déclenchement périodique de la surpression des issues
 ========================================================
-Toutes les 3 heures, sont enregistrés l'activation des surpressions dans les issues et 15 minutes plus tard la désactivation de ces surpressions.
+Toutes les 3 heures, sont enregistrés l'activation des surpressions dans les issues. 
+
+15 minutes plus tard, sont enregistrés les désactivations de ces surpressions.
 
 Pour toutes les issues figure un enregistrement de la forme :
-          type : ETA_MA_SURPVENT	
-          equipement : SENS Y SB00
-          description : IS403 Marche surpression ventilation
+         * type : ETA_MA_SURPVENT	
+         * equipement : SENS Y SB00
+         * description : IS403 Marche surpression ventilation
 
 Pour les issues IS402 et IS407 s'ajoute un enregistrement de la forme :
-          type : ETA_RM_SURP
-          equipement : SENS Y SB00C	
-          description : IS402 Retour marche surpression
+         * type : ETA_RM_SURP
+         * equipement : SENS Y SB00C	
+         * description : IS402 Retour marche surpression
 
 et
 
-          type : ETA_MA_SURP
-          equipement : SENS Y SB00C	
-          description : IS402 Marche surpression	5339
+         * type : ETA_MA_SURP
+         * equipement : SENS Y SB00C	
+         * description : IS402 Marche surpression*
 	
 
 
