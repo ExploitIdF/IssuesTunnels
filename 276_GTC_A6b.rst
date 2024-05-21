@@ -1,6 +1,8 @@
 Analyse des données GTC AEV A6b (Bicêtre & Italie)
 ****************************************************
-Pour explorer l'utiliter d'exploiter les données de la GTC AEV des tunnels, le cas A6b a été choisi comme exemple. 
+Mise à jour : mai 2024
+
+Pour explorer l'utilité d'exploiter les données de la GTC AEV des tunnels, le cas A6b a été choisi comme exemple. 
 Les données du journal des consignations ont été extraites sur la période mai/2023 - avril/2024 (180 000 lignes). 
 On rend compte ici des traitements réalisés.
 
@@ -10,8 +12,10 @@ Variables prises en compte
 Le fichier contient les variables suivantes :
 'name', 'value', 'ts', 'domain', 'nature', 'description', 'alarmlevel','equipement', 'utilisateur', 'evenement', 'etat'.
 
-Les variables exploitées sont les suivantes :
+Les variables identifiées comme utiles sont les suivantes :
 'type', 'dt',  'description',    'equipement',   'evenement'
+
+On décrit ci-dessous chacune de ces variables.
 
 Variable type
 --------------
@@ -22,7 +26,7 @@ name : **A6B_TU.AE001.AE600007.TS.ETA_MA_SURP** -> type : **ETA_MA_SURP**.
 La variable type prend 151 valeurs.
 On a supprimé les enregistrements dont la variable type a moins de 20 occurences (39 valeurs).
 
-On peut classer les valeurs de la variable type selon ses 3 premières lettres :  
+On peut classer les valeurs de la variable type selon ses 3 premières lettres, nombre d'occurences des 6 groupes ainsi définis :  
 
       * ETA    140721  
       * DEF     30598  
@@ -39,31 +43,9 @@ Variable equipement
 La variable **equipement** prend 35 valeurs que l'on peut classer en 4 groupes :
 
 Groupe :'Auto Evacuation A6b'
-""""""""""""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""
 
-Une seule valeur
-
-Groupe : Niches de sécurité NS1 à NS22
-""""""""""""""""""""""""""""""""""""""""""""""""""
-
-'SENS W NS01 / NS03 / NS05 / NS07','SENS W NS09 / NS11', 'SENS W NS13', 'SENS W NS15','SENS W NS17 / NS19 / NS21', 
-'SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12', 'SENS Y NS14','SENS Y NS16', 'SENS Y NS18 / NS20 / NS22',
-
-Groupe : Niches de sécurité SB00A à SB00E et SB00X
-""""""""""""""""""""""""""""""""""""""""""""""""""
-
-'SENS W SB00X','SENS Y SB00A / SB00B','SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E',
-
-Groupe : PAU et TSE avec leur adresse IP
-""""""""""""""""""""""""""""""""""""""""""""""""""
-
-'PAU niche NS1 - IP=\t30.8.36.34','PAU niche NS2 - IP=\t30.8.36.35', 'PAU niche NS3 - IP=\t30.8.36.36',
-'PAU niche NS4 - IP=\t30.8.36.37', 'PAU niche NS5 - IP=\t30.8.36.38','PAU niche NS6 IP=\t30.8.36.39',
-
-'TSE issue 401 IP=30.8.36.31', 'TSE issue 402 IP=30.8.36.32','TSE issue 403 IP=30.8.36.33', 'TSE issue 404 IP=30.8.36.11',
-'TSE issue 405 IP=30.8.36.12', 'TSE issue 406 IP=30.8.36.13','TSE issue 407 IP=30.8.36.14', 'TSE issue 408 IP=30.8.36.15',
-'TSE issue 409 IP=30.8.36.20', 'TSE issue 410 IP=30.8.36.19','TSE issue 411 IP=30.8.36.18', 'TSE issue 412 IP=30.8.36.17',
-'TSE issue 413 IP=30.8.36.16'
+Une seule valeur : **Auto Evacuation A6b**
 
 Valeur :'Auto Evacuation A6b'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -79,20 +61,41 @@ pour les équipements suivants : 'SENS W NS01 / NS03 / NS05 / NS07',  'SENS W NS
 On observe également des événements de type **DEF_DISC_SURP, ETA_MA_SURP & ETA_RM_SURP** pour les seuls équipements suivants :	
 'SENS W NS15', 'SENS Y NS16',  'SENS Y SB00C'
 
-Niches de sécurité NS1 à NS22
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Groupe : Niches de sécurité du tunnel de Bicêtre NS1 à NS22
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Dans certains cas l'équipement est un groupe de pluisieurs niches et dans d'autre d'une seule. 
-Chaque groupe de niches (1 à 22) correspond à une issue du tunnel de Bicêtre.
+Les valeurs de la variable, pour ce groupe, font référence aux niches du tunnel de Bicêtre, regroupées en fonction de l'issue à laquelle elles sont associées.
 
+10 valeurs prises :
 'SENS W NS01 / NS03 / NS05 / NS07','SENS W NS09 / NS11', 'SENS W NS13', 'SENS W NS15','SENS W NS17 / NS19 / NS21', 
-'SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12', 'SENS Y NS14','SENS Y NS16', 'SENS Y NS18 / NS20 / NS22',
+'SENS Y NS02 / NS04 / NS06 / NS08', 'SENS Y NS10 / NS12', 'SENS Y NS14','SENS Y NS16', 'SENS Y NS18 / NS20 / NS22'
+
+Certains enregistrements qui contiennent ces valeurs font plus réfgérence à l'issue qu'aux niches. L'information sur l'issue est comprise dans la variable **description**.
 
 
-Niches de sécurité SB00A à SB00E et SB00X 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Groupe : Niches de sécurité SB00A à SB00E et SB00X
+""""""""""""""""""""""""""""""""""""""""""""""""""
 
-A quoi correspondent ces codages ?
+Les valeurs de la variable, pour ce groupe, font référence aux niches du tunnel Italie, regroupées en fonction de l'issue à laquelle elles sont associées. 
+
+Le cas de 'SENS Y SB00E','SENS Y SB00X' reste à identifier.
+
+'SENS W SB00X','SENS Y SB00A / SB00B','SENS Y SB00C', 'SENS Y SB00D', 'SENS Y SB00E',
+
+Groupe : PAU et TSE avec leur adresse IP
+""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Il s'agit ici des PAU et TSE. les codes NS1-NS6 semble faire référence à des niches mais ils ne correspondent pas aux codes NS01-NS22 rencontrés plus haut.
+
+'PAU niche NS1 - IP=\t30.8.36.34','PAU niche NS2 - IP=\t30.8.36.35', 'PAU niche NS3 - IP=\t30.8.36.36',
+'PAU niche NS4 - IP=\t30.8.36.37', 'PAU niche NS5 - IP=\t30.8.36.38','PAU niche NS6 IP=\t30.8.36.39',
+
+'TSE issue 401 IP=30.8.36.31', 'TSE issue 402 IP=30.8.36.32','TSE issue 403 IP=30.8.36.33', 'TSE issue 404 IP=30.8.36.11',
+'TSE issue 405 IP=30.8.36.12', 'TSE issue 406 IP=30.8.36.13','TSE issue 407 IP=30.8.36.14', 'TSE issue 408 IP=30.8.36.15',
+'TSE issue 409 IP=30.8.36.20', 'TSE issue 410 IP=30.8.36.19','TSE issue 411 IP=30.8.36.18', 'TSE issue 412 IP=30.8.36.17',
+'TSE issue 413 IP=30.8.36.16'
+
+
 
 
 
