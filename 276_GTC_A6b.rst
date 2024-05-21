@@ -141,8 +141,8 @@ Ce tri conduit à retenir les jours et heures suivants :
 
 .. csv-table::
    :header:     Date,Heure,Nombre d'issues
-   :widths: 30, 30,30
-   :width: 100%
+   :widths: 60, 20,20
+   :width: 50%
     		
 		2023-05-10,23,5
 		2023-05-10,22,13
