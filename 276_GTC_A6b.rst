@@ -102,12 +102,14 @@ Toutes les 3 heures, sont enregistrés l'activation des surpressions dans les is
 
 15 minutes plus tard, sont enregistrés les désactivations de ces surpressions.
 
-Pour toutes les issues figure un enregistrement de la forme :
+Pour toutes les issues, figure un enregistrement de la forme :
+
          * type : ETA_MA_SURPVENT	
          * equipement : SENS Y SB00
          * description : IS403 Marche surpression ventilation
 
 Pour les issues IS402 et IS407 s'ajoute un enregistrement de la forme :
+
          * type : ETA_RM_SURP
          * equipement : SENS Y SB00C	
          * description : IS402 Retour marche surpression
@@ -117,8 +119,78 @@ et
          * type : ETA_MA_SURP
          * equipement : SENS Y SB00C	
          * description : IS402 Marche surpression*
-	
 
+
+Nuits de fermetures et autres jours exceptionnels
+==================================================
+Lors des nuits de fermeture, les équipes chargées de la maintenance sont amenées à pénétrer dans les issues et ainsi à déclencher les enregistrements d'ouverture de portes et de détection de présence.
+
+Pour détecter ces périodes, on a procédé en plusieurs étapes :
+
+Sélection des enregistrement de type :
+
+* Accès depuis tunnel       ETA_ACCES_TUN      3637
+* Détection de présence      ETA_CPT_MVT_ON     2452
+* Marche éclairage renforcé  ETA_MA_ECL_RENF    1236
+
+Sélection des heures pour lesquelles au moins 3 issues différentes font l'objet par un enregistrement sélectionné.
+
+A partir de cette sélection, sélection des jours pour lesquels la somme sur les heures des nombres d'issues visitées est supérieure à 8.
+
+Ce tri conduit à retenir les jours et heures suivants :
+
+.. csv-table::
+   :header:     Date,Heure,Nombre d'issues
+   :widths: 30, 30,30
+   :width: 100%
+    		
+		2023-05-10,23,5
+		2023-05-10,22,13
+		2023-05-10,21,4
+		2023-05-11,20,10
+		2023-05-11,0,3
+		2023-05-11,21,4
+		2023-05-11,23,5
+		2023-06-27,21,10
+		2023-06-27,22,7
+		2023-06-28,22,9
+		2023-06-28,21,7
+		2023-06-28,23,6
+		2023-07-12,0,8
+		2023-07-12,23,3
+		2023-07-12,1,3
+		2023-07-30,15,11
+		2023-07-30,16,4
+		2023-07-30,17,8
+		2023-08-22,22,4
+		2023-08-22,23,10
+		2023-09-20,22,6
+		2023-09-20,2,5
+		2023-09-20,23,5
+		2023-09-21,1,6
+		2023-09-21,2,5
+		2023-10-18,0,5
+		2023-10-18,2,13
+		2023-10-18,1,6
+		2024-01-16,23,10
+		2024-01-17,0,12
+		2024-01-17,1,4
+		2024-01-17,2,3
+		2024-02-14,0,4
+		2024-02-14,3,4
+		2024-02-14,23,7
+		2024-02-15,0,5
+		2024-02-15,2,6
+		2024-02-15,3,3
+		2024-03-14,1,7
+		2024-03-14,2,5
+		2024-03-14,22,3
+		2024-03-14,23,8
+		2024-03-14,0,11
+		2024-03-15,0,5
+		2024-03-15,1,8
+		2024-03-15,2,6
+		2024-03-15,3,4
 
 
 
