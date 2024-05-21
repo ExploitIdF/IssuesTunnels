@@ -140,7 +140,7 @@ A partir de cette sélection, sélection des jours pour lesquels la somme sur le
 Ce tri conduit à retenir les jours et heures suivants :
 
 .. csv-table::
-   :header:     Date,Heure,Nombre <br>d'issues
+   :header:     Date,Heure,Nombre \n <br>d'issues
    :widths: 60, 20,20
    :width: 50%
     		
