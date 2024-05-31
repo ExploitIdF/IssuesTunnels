@@ -7,6 +7,8 @@ CosWin permet de faire l'énumération des issues de secours, pour chaque tunnel
 * COUV._BLANC-MESNIL, 6
 * COUV._BAGNOLET, 2 
 
+`Lien vers un fichier CSV des issues de secours <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/issuesTunnelsDIRIF.csv>`_
+
 Pour chaque tunnel STT, la table suivante indique le nombre d'issues et les codes des issues.
 
 .. csv-table::
