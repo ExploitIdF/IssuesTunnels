@@ -44,3 +44,4 @@ On pourrait envisager d'expérimenter le formulaire pour les inspections réalis
 
 Pour les rapports saisis par le prestataire, on pourrait lui proposer de choisir l'outil qu'il veut utiliser et lui demander de fournir une table au format CSV, avec toutes les informations demandées dans le CCTP.
 
+:doc:`Spécification des rapports au format CSV<252_rapportCSV>`
