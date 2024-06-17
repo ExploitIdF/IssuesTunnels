@@ -53,7 +53,7 @@ Le fichier CSV de reporting comporte les champs suivants :
       Nom et prénom de la personne qui réalise l'observation ou l'acton, NomTech,Respect du format texte avec au moins 2 mots
 
 
-
+**Liste des champs figurant dans le modèle de rapport du marché Batiment 2020, avec les codes qui ont été associés pour identifier les champs dans le fichier CSV.**
 
 
 .. csv-table::
