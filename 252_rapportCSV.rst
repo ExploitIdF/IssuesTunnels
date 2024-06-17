@@ -21,11 +21,11 @@ Les évaluations prennent les valeurs :
    :widths: 30,10
    :width: 40%
 
-     OK		,          1
-     Défaut mineur,		0,5
-     Défaut majeur,		0
-     Non équipé		,  NE
-     Non verifié	,  	NV
+     OK,  1
+     Défaut mineur, 0.5
+     Défaut majeur,	0
+     Non équipé, NE
+     Non verifié, NV
 
 Les constats prennent les valeurs :
 
