@@ -29,9 +29,14 @@ Les évaluations prennent les valeurs :
 
 Les constats prennent les valeurs :
 
-* **A faire**	l’intervenant n’a pas encore effectué l’action d’entretien
-* **Pas fait**	l’intervenant n’a pas pu effectuer l’action d’entretien
-* **Fait**	l’intervenant a effectué l’action d’entretien
+.. csv-table::
+   :header: Valeur,Code
+   :widths: 30,10
+   :width: 40%
+
+      **A faire**,	l’intervenant n’a pas encore effectué l’action d’entretien
+      **Pas fait**,	l’intervenant n’a pas pu effectuer l’action d’entretien
+      **Fait**,	l’intervenant a effectué l’action d’entretien
 
 
 
