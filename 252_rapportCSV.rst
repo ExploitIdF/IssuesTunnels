@@ -6,7 +6,7 @@ cette hypothèse a été construite sur la base du modèle de rapport annexé au
 Les points qui auront été décidés viendront plus tard remplacer l'hypothèse utilisée ici.
 
 Le modèle de rapport prévoit que le prestataire renseigne 80 champs pour chaque issue, sans compter les 
-champs de commentaires que le prestataire devrait remplir quand l'évaluation est mauvaise.
+champs de commentaires que le prestataire devrait remplir quand l'évaluation est mauvaise. La liste de ces champs est fournie ci-dessous avec un code à 5 caractère.
 
 Le modèle comporte 3 types de champs :
 
@@ -37,6 +37,22 @@ Les constats prennent les 3 valeurs :
       L’intervenant n’a pas encore effectué l’action d’entretien,**A faire**	
       L’intervenant n’a pas pu effectuer l’action d’entretien,**Pas fait**
       L’intervenant a effectué l’action d’entretien,**Fait**
+
+Le fichier CSV de reporting comporte les champs suivants :
+
+.. csv-table::
+   :header: Valeur,Code,Contrôle
+   :widths: 40,10,20
+   :width: 60%
+
+      Code de l'issue (ISNNN | ISNNNA) , CodeIssue,Prend d'une des 290 valeurs possibles
+      Horodate de la saisie de l'information sur le terrain, Horodate,Respect du format "%Y/%M/%D %H:%M:%S"
+      Code du champ considéré,CodeChamp, Prend l'une des 79 valeurs possibles
+      Valeur du champ  considéré,Valeur,Prend l'une des 3 ou 5 valeurs possibles selon le champs
+      Commentaire en texte libre en cas d'anomlie,Commentaire,Texte libre compatible avec le format CSV
+      Nom et prénom de la personne qui réalise l'observation ou l'acton, NomTech,Respect du format texte avec au moins 2 mots
+
+
 
 
 
