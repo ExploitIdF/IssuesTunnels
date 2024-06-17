@@ -14,9 +14,9 @@ L'entreprise doit renseigner dans un classeur OpenOffice, pour chaque issue, 32 
 
 Dans le cas du marché Bâtiment, le DCE contient un modèle de rapport par tunnel avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
 
-En pratique, les rapports sont pas sur CosWin car l'entreprise dit ne pas avoir les moyens d'accéder à CosWin. Ils seulement sont envoyés au PCTTs qui les archivent.
+En pratique, les rapports ne sont pas déposés sur CosWin car l'entreprise dit ne pas avoir les moyens d'accéder à CosWin. Ils sont seulement envoyés aux PCTTs qui les archivent.
 
-Les premiers exemples de rapport consultés ne correspondent pas exactement au modèle fourni par le DCE du marché.
+Les premiers exemples de rapports consultés ne correspondent pas exactement au modèle fourni par le DCE du marché.
 Les formats ont été modifiés avec des différences selon les PCTT. 
 
 Une moitié des rapports prévus par le CCTP est absente de tous les rapports remontés par les PCTT.
