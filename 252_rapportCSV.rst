@@ -16,11 +16,11 @@ Le modèle comporte 3 types de champs :
 
 Les évaluations prennent les valeurs :
 
-* OK		1
+* OK		          1
 * Défaut mineur		0,5
 * Défaut majeur		0
-* Non équipé		NE
-* Non verifié		NV
+* Non équipé		  NE
+* Non verifié	  	NV
 
 Les constats prennent les valeurs :
 
