@@ -52,6 +52,16 @@ Le fichier CSV de reporting comporte les champs suivants :
       Commentaire en texte libre en cas d'anomlie,Commentaire,Texte libre compatible avec le format CSV
       Nom et prénom de la personne qui réalise l'observation ou l'acton, NomTech,Respect du format texte avec au moins 2 mots
 
+Pour montrer la faisabilité de l'exercice, on a produit par simulation un fichier dans lequel les rapports de visites des 290 issues sont établis pour les 79 champs. Les valeurs sont aléatoires  :
+
+* Modalité prise par la valeur du champ, 
+* Nuit des visites des issues d'un tunnel & 
+* Horaire de la visite de l'issue particulière. 
+* Le commentaire et le nom de la personne sont constants ! 
+
+`Le fichier comporte 22 000 lignes et pèse un peu plus de 1Mo`_
+
+
 
 **Liste des champs figurant dans le modèle de rapport du marché Batiment 2020, avec les codes qui ont été associés pour identifier les champs dans le fichier CSV.**
 
