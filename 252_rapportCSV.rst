@@ -16,11 +16,16 @@ Le modèle comporte 3 types de champs :
 
 Les évaluations prennent les valeurs :
 
-* OK		          1
-* Défaut mineur		0,5
-* Défaut majeur		0
-* Non équipé		  NE
-* Non verifié	  	NV
+.. csv-table::
+   :header: Valeur,Code
+   :widths: 30,10
+   :width: 40%
+
+     OK		,          1
+     Défaut mineur,		0,5
+     Défaut majeur,		0
+     Non équipé		,  NE
+     Non verifié	,  	NV
 
 Les constats prennent les valeurs :
 
