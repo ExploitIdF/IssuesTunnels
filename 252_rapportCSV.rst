@@ -43,7 +43,7 @@ Le fichier CSV de reporting comporte les champs suivants :
 .. csv-table::
    :header: Valeur,Code,Contrôle
    :widths: 40,10,20
-   :width: 60%
+   :width: 90%
 
       Code de l'issue (ISNNN | ISNNNA) , CodeIssue,Prend d'une des 290 valeurs possibles
       Horodate de la saisie de l'information sur le terrain, Horodate,Respect du format "%Y/%M/%D %H:%M:%S"
