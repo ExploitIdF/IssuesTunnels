@@ -34,9 +34,9 @@ Les constats prennent les valeurs :
    :widths: 30,10
    :width: 40%
 
-      **A faire**,	l’intervenant n’a pas encore effectué l’action d’entretien
-      **Pas fait**,	l’intervenant n’a pas pu effectuer l’action d’entretien
-      **Fait**,	l’intervenant a effectué l’action d’entretien
+      l’intervenant n’a pas encore effectué l’action d’entretien,**A faire**	
+      l’intervenant n’a pas pu effectuer l’action d’entretien,**Pas fait**
+      l’intervenant a effectué l’action d’entretien,**Fait**
 
 
 
