@@ -2,14 +2,14 @@ Principaux besoins à satisfaire
 =================================
 Connaissance de l'opérationnalité des issues
 """""""""""""""""""""""""""""""""""""""""""""
-Le fascicule 40 recommande des essais fonctionnels toutes les 2 semaines pour les portes coupe-feux et un "contrôle visuel" hebdomadaire.
+Le fascicule 40 recommande des essais fonctionnels toutes les 2 semaines pour les portes coupe-feu et un "contrôle visuel" hebdomadaire.
 Il ne s'agit pas d'une exigence mais cela traduit une bonne pratique dont la DIRIF est très éloignée.
 
-On peut supposer que la plus grande partie des issues est visitée plusieurs fois par an mais il n'y a pas de traçabilité de ces visites ou de l'enregistrement des défaut constatés lors de ces visites. Il faut donc reconnaitre une lacune majeure à ce sujet. Dans le rapport du MOA des DS de Saint Cloud et A. Paré, la DIRIF s'est engagée à organiser des essais fonctionnels à une fréquence bimestrielle.
+On peut supposer que la plus grande partie des issues est visitée plusieurs fois par an mais il n'y a pas de traçabilité de ces visites ou de l'enregistrement des défauts constatés lors de ces visites. Il faut donc reconnaitre une lacune majeure à ce sujet. Dans le rapport du MOA des DS de Saint Cloud et A. Paré, la DIRIF s'est engagée à organiser des essais fonctionnels à une fréquence bimestrielle.
 
 Les TDM et les prestataires se rendent dans les issues pour d'autres raisons que leur inspection. 
 Il serait interessant de valoriser ces visites en permettant d'enregistrer les passages et 
-les observations faites à cette occasion sur l'état des issues.
+les observations faites à ces occasions sur l'état des issues.
 
 Permettre un partage, entre prestations externalisées et régie, qui soit propre à chaque tunnel.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
