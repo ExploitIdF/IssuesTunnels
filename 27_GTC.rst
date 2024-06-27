@@ -5,6 +5,7 @@ Données de la GTC
    :maxdepth: 3
 
    271_porteT
+   272_tempsOuverture
    273_surpression
    276_GTC_A6b
 
