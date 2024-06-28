@@ -44,6 +44,30 @@ et en particulier la valeur médiane de ces temps :
 
 Par ailleurs les issues du tunnels de Champigny (IS383 & IS387) remontent des informations incohérentes qui ne permettent pas de connaitre leurs temps de fermeture.
 
+Potentiel pour l'exploitation
+*******************************
+Etat des lieux mensuel
+"""""""""""""""""""""""""
+Le DETT pourrait mettre en place au niveau d'UPMM une exploitation mensuelle des données d'ouvertures de portes.
+
+Plus de 3 valeurs du temps de fermeture suppérieures à 20 secondes signalerait une anomalie.
+
+L'absence d'ouverture pendant plus de 2 mois serait aussi une anomalie, alors que des visites bimestrielles auront été mise en place.
+
+La présence d'une ouverture non suivi d'une fermeture ou d'une fermeture sans ouverture préalable sera une anomalie.
+
+Ces analyses pourraient être automatisées si les données étaient présentes dans le Cloud.
+
+Vue temps réel
+""""""""""""""""""
+Dans l'hypothèse ou la table serait alimentée toutes les minutes par les dernières données remontées dans la GTC,
+on pourrait donner accès aux exploitants à une vision détaillée de toutes les ouvertures 
+des dernière 3h,12h ou 24h, sur un périmètre paramétrable (Tunnel,PCTT, DIRIF).
+
+Cela serait utile pour  suivre l'activité de nos agents et de nos prestataires qui interviennent dans les issues.
+
+De telles applications sont simples à construire avec les outils des Clouds tels que celui de Google.
+
 Détail par issue
 *******************
 Pour terminer,on fournit dans le tableau ci-dessous la liste des 160 issues du  périmètre mentionné ci-dessus.
