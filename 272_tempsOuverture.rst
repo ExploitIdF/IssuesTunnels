@@ -37,9 +37,10 @@ et en particulier la valeur médiane des temps de fermeture :
 
 Par ailleurs les issues du tunnels de Champigny (IS383 & IS387) remontent des informations incohérentes qui ne permettent pas de connaitre leurs temps de fermeture.
 
-
+.. csv-table::
+   :header: PC,Tunnel,Issue,Nombre \nOuvertures,déc2,déc5,déc8
+   :width: 80%
     
-    PC,Tunnel,Issue,Nombre Ouvertures,déc2,déc5,déc8
     PCE,BOISSY,IS521,74,6,6,12
     PCE,BOISSY,IS522,47,4,6,8
     PCE,BOISSY,IS523,58,6,8,15
