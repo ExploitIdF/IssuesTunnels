@@ -2,6 +2,8 @@ Temps de fermeture d'une porte tunnel
 ##########################################
 mise à jour 28/06/2024
 
+Présentation des données utilisées
+***********************************
 Une extraction des données GTC pour le métier **Autoévacuation** a été réalisée sur la période de 5/2023 à 5/2024, 
 pour tous les tunnels sauf 3  (A14, Echangeur A14/A86 et Fontenay le F.).  
 
@@ -16,6 +18,8 @@ Les 16 tunnels pour lesquelles un horodatage à la seconde est disponible sont :
 
 Ces 16 tunnels représentent 160 issues sur 290. Ils constituent le périmètre des traitements que l'on présente ci-dessous.
 
+Nombres d'ouverture des portes tunnels
+**************************************
 On peut calculer le nombre d'ouvertures détectées dans l'année :
 
 * 90% des issues ont été ouverte plus de  37 fois dans l'année.
@@ -26,8 +30,11 @@ On peut calculer le nombre d'ouvertures détectées dans l'année :
 
 5 issues remontent des valeurs suppérieures à 500 ouvertures dans l'année. Ces valeurs extrêmes sont liées à des pics qui ne durent que quelques jours. Il s'agit en fait de "bagotements" qu'il faut traiter comme tels. Il ne sont pas neutralisés dans la présente analyse car ils ne concerne qu'un petit nombre d'issues.
 
+
+Temps de fermeture des portes tunnels
+**************************************
 Pour chaque issue, on peut calculer la distribution des temps de fermeture 
-et en particulier la valeur médiane des temps de fermeture :
+et en particulier la valeur médiane de ces temps :
 
 * Pour 30% des issues cette valeur médiane est de 6 secondes. Deux issues ont une valeurs médiane inférieure (4 secondes).
 * 50% des issues ont une valeur médiane des temps de fermeture inférieure à 8 secondes.
@@ -37,10 +44,11 @@ et en particulier la valeur médiane des temps de fermeture :
 
 Par ailleurs les issues du tunnels de Champigny (IS383 & IS387) remontent des informations incohérentes qui ne permettent pas de connaitre leurs temps de fermeture.
 
+Détail par issue
+*******************
 Pour terminer,on fournit dans le tableau ci-dessous la liste des 160 issues du  périmètre mentionné ci-dessus.
 Pour chaque issue, le tableau fournit le nombre d'ouverture dans l'année et les deuxième, cinquième et huitième
 déciles du temps de fermeture de la porte tunnel de l'issue.
-
 
 .. csv-table::
    :header: PC,Tunnel,Issue,Nombre ,déc2,déc5,déc8
