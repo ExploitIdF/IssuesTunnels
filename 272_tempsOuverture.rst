@@ -1,6 +1,6 @@
 Temps de fermeture d'une porte tunnel
 ##########################################
-mise à jour 24/06/28
+mise à jour 28/06/2024
 
 Une extraction des données GTC pour le métier **Autoévacuation** a été réalisée sur la période de 5/2023 à 5/2024, 
 pour tous les tunnels sauf 3  (A14, Echangeur A14/A86 et Fontenay le F.).  
@@ -37,8 +37,13 @@ et en particulier la valeur médiane des temps de fermeture :
 
 Par ailleurs les issues du tunnels de Champigny (IS383 & IS387) remontent des informations incohérentes qui ne permettent pas de connaitre leurs temps de fermeture.
 
+Pour terminer,on fournit dans le tableau ci-dessous la liste des 160 issues du  périmètre mentionné ci-dessus.
+Pour chaque issue, le tableau fournit le nombre d'ouverture dans l'année et les deuxième, cinquième et huitième
+déciles du temps de fermeture de la porte tunnel de l'issue.
+
+
 .. csv-table::
-   :header: PC,Tunnel,Issue,Nombre <br>Ouvertures,déc2,déc5,déc8
+   :header: PC,Tunnel,Issue,Nombre ,déc2,déc5,déc8
    :width: 80%
     
     PCE,BOISSY,IS521,74,6,6,12
