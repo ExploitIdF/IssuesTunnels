@@ -1,5 +1,6 @@
 Camera dans les issues et les galeries
 ****************************************
+
 Dans CosWin, le champs **Type Famille**  comporte 2 valeurs qui peuvent correspondre aux caméras liées aux issues
 et aux galeries d'évacuation.
 
@@ -62,6 +63,9 @@ par la valeur  **CAMERA-IS** du champs **Type Famille**.
 
 CAMERA-VIDEO
 =============
+Comme on va le voir, le **Type Famille** qui prend la valeur **CAMERA-VIDEO** contient des caméras de nature très différentes.
+On explique ci-dessous comment on arrive par éliminiations successives aux 53 caméras en issues qui sont classées dans ce **Type Famille** .
+
 Il y a 926 équipements dont le champ **Type Famille** prend la valeur **CAMERA-VIDEO** et dont l'état est EXPLOITATION.
 
 Parmi ces équipements, 278 ont une valeur du champ **Tunnel** qui est l'un des 25 noms de tunnels exploités par le DETT.
