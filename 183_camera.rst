@@ -61,6 +61,14 @@ par la valeur  **CAMERA-IS** du champs **Type Famille**.
     TAVERNY,IS471
     TAVERNY,IS476
 
+Le fruit de ce traitement est la table des caméras en issue présente dans CosWin dans le **Type Famille**  **CAMERA-IS** : 
+
+`coswin-camera-is-issues.csv
+<https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/camera/coswin-camera-is-issues.csv>`_
+
+
+
+
 CAMERA-VIDEO
 =============
 Comme on va le voir, le **Type Famille** qui prend la valeur **CAMERA-VIDEO** contient des caméras de nature très différentes.
@@ -93,7 +101,8 @@ Pour les 7 autres cas, il s'agit :
 * soit d'un codage inhabituel (PARIS-1,PARIS-2,PARIS-3, ici le champ description indique l'issue IS451)
 * soit d'un codage qui fait référence à l'IS430 du  tunnel de Bobigny qui a été récemment rebaptisée (Il y aurait lieu de modifier dans CosWin le code exploitant de ces caméras).
 
-Le fruit de ce traitement est une table des caméras du **Type Famille**  **CAMERA-VIDEO** : 
+Le fruit de ce traitement est la table des caméras en issue présente dans CosWin dans le **Type Famille**  **CAMERA-VIDEO** : 
+
 `coswin-camera-video-issues.csv
 <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/camera/coswin-camera-video-issues.csv>`_
 
