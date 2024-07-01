@@ -8,7 +8,7 @@ Une extraction des données GTC pour le métier **Autoévacuation** a été réa
 pour tous les tunnels sauf 3  (A14, Echangeur A14/A86 et Fontenay le F.).  
 
 Les données ne sont pas absolument complètes, mais les données manquantes représentent moins de 10 jours par tunnel.
-On considèrera donc qu'on dispose de données pour une période d'une année entière.
+On considérera donc qu'on dispose de données pour une période d'une année entière.
 
 Pour 5 tunnels, (Nanterre, Neuilly, Belle-Rive, Saint-Cloud & Sévines) l'horodatage est arrondi à la minute 
 ce qui ne permet pas d'analyser le temps de fermeture des portes qui se compte en seconde.
@@ -28,7 +28,7 @@ On peut calculer le nombre d'ouvertures détectées dans l'année :
 * 20% des issues ont été ouverte plus de  195 fois  dans l'année.
 * 10% des issues ont été ouverte plus de  256 fois dans l'année.
 
-5 issues remontent des valeurs suppérieures à 500 ouvertures dans l'année. Ces valeurs extrêmes sont liées à des pics qui ne durent que quelques jours. Il s'agit en fait de "bagotements" qu'il faut traiter comme tels. Il ne sont pas neutralisés dans la présente analyse car ils ne concerne qu'un petit nombre d'issues.
+5 issues remontent des valeurs supérieures à 500 ouvertures dans l'année. Ces valeurs extrêmes sont liées à des pics qui ne durent que quelques jours. Il s'agit en fait de "bagotements" qu'il faut traiter comme tels. Il ne sont pas neutralisés dans la présente analyse car ils ne concerne qu'un petit nombre d'issues.
 
 
 Temps de fermeture des portes tunnels
@@ -36,42 +36,44 @@ Temps de fermeture des portes tunnels
 Pour chaque issue, on peut calculer la distribution des temps de fermeture 
 et en particulier la valeur médiane de ces temps :
 
-* Pour 30% des issues cette valeur médiane est de 6 secondes. Deux issues ont une valeurs médiane inférieure (4 secondes).
+* Pour 30% des issues, cette valeur médiane est de 6 secondes. Deux issues seulement ont une valeur médiane inférieure (égale à 4 secondes).
 * 50% des issues ont une valeur médiane des temps de fermeture inférieure à 8 secondes.
 * 80% des issues ont une valeur médiane des temps de fermeture inférieure à 11 secondes.
 * 90% des issues ont une valeur médiane des temps de fermeture inférieure à 14 secondes.
-* 5 issues ont une valeur médiane des temps de fermeturesuppérieure à 30 secondes.
+* 5 issues ont une valeur médiane des temps de fermeture supérieure à 30 secondes.
 
-Par ailleurs les issues du tunnels de Champigny (IS383 & IS387) remontent des informations incohérentes qui ne permettent pas de connaitre leurs temps de fermeture.
+Par ailleurs, les issues du tunnel de Champigny (IS383 & IS387) remontent des informations incohérentes qui ne permettent pas de connaître leurs temps de fermeture.
 
 Potentiel pour l'exploitation
 *******************************
 Etat des lieux mensuel
 """""""""""""""""""""""""
 Le DETT pourrait mettre en place au niveau d'UPMM une exploitation mensuelle des données d'ouvertures de portes.
+On propose ci-dessous des exemples des indicateurs qui pourraient être calculés.
 
-Plus de 3 valeurs du temps de fermeture suppérieures à 20 secondes signalerait une anomalie.
+Plus de 3 valeurs du temps de fermeture supérieures à 20 secondes signaleraient une anomalie.
 
-L'absence d'ouverture pendant plus de 2 mois serait aussi une anomalie, alors que des visites bimestrielles auront été mise en place.
+L'absence d'ouverture pour une issue particulière, pendant plus de 2 mois, serait une anomalie détectée, 
+alors que des visites bimestrielles auront été mises en place.
 
-La présence d'une ouverture non suivi d'une fermeture ou d'une fermeture sans ouverture préalable sera une anomalie.
+La présence d'une ouverture non suivie d'une fermeture ou d'une fermeture sans ouverture préalable serait une anomalie.
 
-Ces analyses pourraient être automatisées si les données étaient présentes dans le Cloud.
+Ces analyses pourraient être automatisées si les données de la GTC étaient présentes sous la forme d'une table dans le Cloud.
 
 Vue temps réel
 """"""""""""""""""
-Dans l'hypothèse ou la table serait alimentée toutes les minutes par les dernières données remontées dans la GTC,
-on pourrait donner accès aux exploitants à une vision détaillée de toutes les ouvertures 
-des dernière 3h,12h ou 24h, sur un périmètre paramétrable (Tunnel,PCTT, DIRIF).
+Dans l'hypothèse ou la table des données serait alimentée toutes les minutes par les dernières données remontées dans la GTC,
+on pourrait donner accès aux exploitants, en quasi temps réel, à une vision détaillée de toutes les ouvertures 
+des dernières 3h,12h ou 24h, sur un périmètre paramétrable (Tunnel,PCTT, DIRIF).
 
-Cela serait utile pour  suivre l'activité de nos agents et de nos prestataires qui interviennent dans les issues.
+Cela serait utile pour  suivre l'activité de nos agents et des prestataires qui interviennent pour la DIRIF dans les issues.
 
 De telles applications sont simples à construire avec les outils des Clouds tels que celui de Google.
 
 Détail par issue
 *******************
-Pour terminer,on fournit dans le tableau ci-dessous la liste des 160 issues du  périmètre mentionné ci-dessus.
-Pour chaque issue, le tableau fournit le nombre d'ouverture dans l'année et les deuxième, cinquième et huitième
+Pour terminer,on fournit, dans le tableau ci-dessous, la liste des 160 issues du  périmètre mentionné ci-dessus.
+Pour chaque issue, le tableau fournit le nombre d'ouvertures dans l'année et les deuxième, cinquième et huitième
 déciles du temps de fermeture de la porte tunnel de l'issue.
 
 .. csv-table::
