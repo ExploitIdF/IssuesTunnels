@@ -18,7 +18,7 @@ Pourquoi la supression de l'issue IS 157 est-elle codée SURP/IS157-2 et non plu
 
 En quoi consistent 'SURP/LTU_D-NORD',   'SURP/LTU_D-SUD' ? Pourquoi ces locaux sont-ils surpressés ?
 
-79 issues ne sont associées à aucun équipement de surpression. 
+79 issues, listées ci-dessous, ne sont associées à aucun équipement de surpression. 
 
 Peut-on affirmer que ces issues ne sont pas surpressées ou est-ce que leur surpression n'est pas renseignée dans CosWin comme pour les autres issues ?
 
