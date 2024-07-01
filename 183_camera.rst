@@ -62,16 +62,18 @@ par la valeur  **CAMERA-IS** du champs **Type Famille**.
 
 CAMERA-VIDEO
 =============
-Il y a 926 équipements dont le **Type Famille** est **CAMERA-VIDEO** et dont l'état est EXPLOITATION.
+Il y a 926 équipements dont le champ **Type Famille** prend la valeur **CAMERA-VIDEO** et dont l'état est EXPLOITATION.
 
-Parmi ces équipements, 278 ont une valeur du champ Tunnel qui est l'un des 25 nom de tunnels exploité par le DETT.
+Parmi ces équipements, 278 ont une valeur du champ **Tunnel** qui est l'un des 25 noms de tunnels exploités par le DETT.
 
-Parmi ces équipements 118 ont un champ **Local** qui est vide. 
-Ces caméras on une description de la forme : **Caméra DAI/Non DAI sur ANN**. 
-Elles sont semble-t-il orientées sur la route et n'ont pas de lien avec les issues.
+Parmi ces équipements 118 ont un champ **Local** qui est vide.
 
-Il reste 160 équipements qui sont identifiées par leur champs **Description** et leur champs ** Code Exploitant** comme
-des caméras **Anti intrustion**.
+Il s'agit de caméras qui ont une description de la forme : **Caméra DAI/Non DAI sur ANN**. 
+
+Elles sont semble-t-il orientées sur la route et n'ont pas de lien direct avec les issues.
+
+Il reste 160 équipements qui sont identifiées à la fois par leur champs **Description** et 
+leur champs **Code Exploitant** comme des caméras **Anti intrustion**.
 
 * 104 ont une description qui commence par : Caméra anti-intrusion du LTU
 * 46 ont une description qui commence par : Caméra anti-intrusion de l'Issue de secours n°
@@ -81,11 +83,11 @@ La dernière catégorie correspond à des caméras situées dans les galeries du
 
 On a identifié par ce moyen 53 caméras en issues (y.c. galeries). Pour 46 d'entre elle, l'issue correspondante peut être identifiées en supprimant les dix premiers caractères ("CAM-INTRU/") du champs "Code Exploitant".
 
-Pour les 7 autres cas, il s'agit, 
+Pour les 7 autres cas, il s'agit : 
 
 * soit d'issues avec plusieurs caméras (IS460-1,IS460-2), 
 * soit d'un codage inhabituel (PARIS-1,PARIS-2,PARIS-3, ici le champ description indique l'issue IS451)
-* soit d'un codage qui fait référence à l'IS430 du  tunnel de Bobigny qui a été rebaptisée (Il y aurait lieu de modifier le code exploitant des caméras).
+* soit d'un codage qui fait référence à l'IS430 du  tunnel de Bobigny qui a été récemment rebaptisée (Il y aurait lieu de modifier dans CosWin le code exploitant de ces caméras).
 
 
 
