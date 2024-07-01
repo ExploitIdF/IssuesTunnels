@@ -2,10 +2,18 @@ Liste des issues par tunnel
 ==============================
 CosWin permet de faire l'énumération des issues de secours, pour chaque tunnel.
 
-298 issues sont identifiées dont 8 hors champ STT: 
+298 issues sont identifiées dont 8 hors champ STT, elles sont liées aux 2 couvertures suivantes : 
 
 * COUV._BLANC-MESNIL, 6
 * COUV._BAGNOLET, 2 
+
+A toute fin utile, on a extrait de CosWin pour chqaue issue identifiée par son code, les variables suivantes :
+
+* Axe & Sens
+* PR
+* Tunnel
+* Tatouage
+* Coordonnées GPS
 
 `Lien vers un fichier CSV des issues de secours <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/issuesTunnelsDIRIF.csv>`_
 
