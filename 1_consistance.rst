@@ -10,7 +10,7 @@ Les issues de secours, c'est quoi ?
    17_liste
    18_surpression
    183_camera
-
+   191_niche
 
 
 On vise au travers de la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. 
