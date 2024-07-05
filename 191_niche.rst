@@ -32,8 +32,9 @@ CosWin associe exactement 2 extincteurs à 379 niches.
 
 50 niches n'ont pas d'extincteur identifié. Il s'agit le plus souvent des mêmes que celle identifiées sans pictogrammes.
 
+Le fichier ci-dessous indique pour toutes les niches identifiées dans CosWin les tatouages des pictogrammes et des extincteurs associés dans CosWin.
 
- `Table des pictogrammes et des extincteurs associées aux niches <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/camera/coswin-camera-is-issues.csv>`_ 
+`Table des pictogrammes et des extincteurs associées aux niches <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/camera/coswin-camera-is-issues.csv>`_ 
 
 
 
