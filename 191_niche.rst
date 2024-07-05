@@ -28,6 +28,11 @@ CosWin associe au moins un pictogramme à 377 niches.
 * SAINT-CLOUD            9
 
 
+CosWin associe exactement 2 extincteurs à 379 niches.
+
+50 niches n'ont pas d'extincteur identifié. Il s'agit le plus souvent des mêmes que celle identifiées sans pictogrammes.
+
+
   
 
 
