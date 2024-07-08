@@ -43,7 +43,7 @@ CosWin associe exactement 2 extincteurs à 379 niches.
 
 Le fichier ci-dessous indique, pour les 429 niches identifiées dans CosWin, les tatouages des pictogrammes et des extincteurs associés dans CosWin.
 
-`Table des pictogrammes et des extincteurs associées aux niches <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/camera/niches-picto-extincteur.csv>`_ 
+`Table des pictogrammes et des extincteurs associées aux niches <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/niches-picto-extincteur.csv>`_ 
 
 
 
