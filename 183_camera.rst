@@ -1,5 +1,6 @@
 Camera dans les issues et les galeries
 ****************************************
+juin 24, à mettre à jour pour tenir compte des modifications récentes de CosWin
 
 Dans CosWin, le champs **Type Famille**  comporte 2 valeurs qui peuvent correspondre aux caméras liées aux issues
 et aux galeries d'évacuation.
@@ -11,8 +12,10 @@ CAMERA-IS
 ===========
 Il y a 264 équipements dont le **Type Famille** est **CAMERA-IS**. 
 
-Leur Code exploitant est de la forme CAM/ISNNN pour la caméra de l'issue ISNNN,
-et toutes les caméras peuvent être associées à une issue existante de cette manière.
+Leur Code exploitant est de la forme CAM/ISNNN pour la caméra de l'issue ISNNN, ou CAM/ISNNNA pour la caméra de l'issue ISNNNA.
+Toutes les caméras peuvent être associées à une issue existante de cette manière.
+
+Il est aussi possible de faire le lien avec l'issue en utilisant le champ Local de la caméra avec une liaison sur le champ tatouage de l'issue.
 
 L'issue IS421 a 3 caméras dans CosWin : CAM/IS421, CAM/IS421a, CAM/IS421b
 
