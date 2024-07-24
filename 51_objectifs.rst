@@ -1,11 +1,14 @@
 Principaux besoins à satisfaire
 =================================
+mise à jour : juin 2024
+
 Connaissance de l'opérationnalité des issues
 """""""""""""""""""""""""""""""""""""""""""""
 Le fascicule 40 recommande des essais fonctionnels toutes les 2 semaines pour les portes coupe-feu et un "contrôle visuel" hebdomadaire.
-Il ne s'agit pas d'une exigence mais cela traduit une bonne pratique dont la DIRIF est très éloignée.
+Il ne s'agit pas d'une exigence règlementaire, mais cela traduit une bonne pratique dont la DIRIF est très éloignée.
 
-On peut supposer que la plus grande partie des issues est visitée plusieurs fois par an mais il n'y a pas de traçabilité de ces visites ou de l'enregistrement des défauts constatés lors de ces visites. Il faut donc reconnaitre une lacune majeure à ce sujet. Dans le rapport du MOA des DS de Saint Cloud et A. Paré, la DIRIF s'est engagée à organiser des essais fonctionnels à une fréquence bimestrielle.
+On peut supposer que la plus grande partie des issues est visitée plusieurs fois par an, mais il n'y a pas de traçabilité de ces visites ou de l'enregistrement des défauts constatés à cette occasion. 
+Il faut donc reconnaitre une lacune majeure à ce sujet. Dans le rapport du MOA des DS de Saint Cloud et A. Paré, la DIRIF s'est engagée à organiser des essais fonctionnels à une fréquence bimestrielle.
 
 Les TDM et les prestataires se rendent dans les issues pour d'autres raisons que leur inspection. 
 Il serait interessant de valoriser ces visites en permettant d'enregistrer les passages et 
@@ -13,15 +16,17 @@ les observations faites à ces occasions sur l'état des issues.
 
 Permettre un partage, entre prestations externalisées et régie, qui soit propre à chaque tunnel.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Les essais fonctionnels de la porte coupe feu, le contrôle de la vacuité et de l'éclairage, sont des actions qu'il est possible de réaliser en régie. Cela dépend de la disponibilité des TDM qui n'est pas la même pour tous les PCTT et 
+Les essais fonctionnels de la porte coupe feu, le contrôle de la vacuité et de l'éclairage, sont des actions qu'il est possible de réaliser en régie. 
+Cela dépend de la disponibilité des TDM qui n'est pas la même pour tous les PCTT et 
 qui fluctue, au sein d'un même PCTT, selon les départs et les arrivées des agents.
 
 Le marché doit donc permettre plusieurs modalités de partage des missions entre le travail en régie et les tâches externalisées.
 
 Définir des prestations cohérentes avec l'oganisation du travail
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Quand on fait les tests fonctionnels ou la maintenance préventive des issues d'un tube, sous fermeture nocturne, 
-c'est toute les issues que l'on traite. On a intérêt à maintenir les niches en même temps. 
+Quand on fait les tests fonctionnels ou la maintenance préventive des issues d'un tube, 
+sous fermeture nocturne, c'est toute les issues que l'on traite. 
+On a intérêt à maintenir les niches en même temps. 
 Il faut donc un prix global pour l'ensemble des issues et des niches d'un tube.
 
 Expliciter la consistance des tâches
