@@ -8,6 +8,7 @@ Politique de maintenance
    23_propreté
    25_rapports
    27_GTC
+   28_fermetures
 
 On commence par faire un état des lieux des pratiques des 3 dernières années qui présentent des variations importantes selon le PCTT considéré.
 
@@ -31,6 +32,6 @@ Plus fréquemment, les PCTT visitent les issues à l'occasion d'autres intervent
 
 Le :doc:`reporting et la traçabilité<25_rapports>` sont des points faibles de la maintnenance des issues sur lesquels il est prioritaire de progresser.
 
-La `GTC<27_GTC>` enregistre certains énènements qui interviennent dans les issues. Elle fournit ainsi des données utile à la maintenance.
+La :doc:`GTC<27_GTC>` enregistre certains énènements qui interviennent dans les issues. Elle fournit ainsi des données utile à la maintenance.
 
 
