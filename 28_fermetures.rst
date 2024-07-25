@@ -11,20 +11,21 @@ les entreprises doivent avoir quitté les lieux avant 5h, parfois même plus tot
 
 Programmation annuelle
 *************************
-Pour maximiser l'efficacité des fermetures et limiter la gênes subie par les usagers, la DIRIF programme les fermetures à l'avance et pour l'année entière. 
-Cela permet au entreprise de se préparer et à la DIRIF de coordonner les activités qui ne peuvent pas toujours être menées simultanément.
+Pour maximiser l'efficacité des fermetures et limiter la gêne subie par les usagers, la DIRIF programme les fermetures à l'avance et pour l'année entière. 
+Cela permet aux entreprises de se préparer et à la DIRIF de coordonner les activités qui ne peuvent pas toujours être menées simultanément.
 Les sections fermées doivent permettre aux usagers de trouver des itinéraires alternatifs et certaines fermetures sont donc incompatibles.
 
 Pour tenir compte des aléas, la programmation est révisée tout au long de l'année et le DETT diffuse chaque semaine un tableur mis à jour.
-Il s'agit d'un document rempli à la main et dont la codification n'est pas absolument stricte ce qui limite les exploitations que l'on peut en faire.
-On a néanmoins pu l'utiliser pour compter les nombres de jours de fermetures par tunnel et par sens.  
+Il s'agit d'un document rempli *à la main* et dont la codification n'est pas absolument stricte, ce qui limite les exploitations que l'on peut en faire.
+On a néanmoins pu l'utiliser pour compter le nombre de jours de fermetures par tunnel et par sens.  
 
 Combien de jours par tunnel ?
 *********************************
-La DIRIF essaie de programmer 2 jours par mois de fermetures par tunnel. 
+La DIRIF essaie de programmer 2 jours par mois de fermeture par tunnel. 
 Pour les tunnels bidirectionnels, il est souhaitable que les 2 sens soient fermés simultanément, mais cela n'est généralement pas le cas pour les tunnels à deux tubes. 
 
-En 2024, les **tunnels de l'autoroute A13** ont été fermés à cause de l'instabilité de la chaussée de l'autoroute à proximité. La programmation fait donc apparaitre plus de 80 nuits de fermetures.
+En 2024, les **tunnels de l'autoroute A13** ont été fermés à cause de l'instabilité de la chaussée de l'autoroute à proximité. 
+La programmation fait donc apparaitre plus de 80 nuits de fermetures.
 
 Le **tunnel du Landy** sur l'A1 sera fermé 63 et 67 nuits selon le sens.
 
@@ -36,27 +37,15 @@ Le **tunnel de la Défense** sur l'A14 sera fermé 27  nuits dans le sens Y et 1
 
 Le **tunnel de Champygny** sur l'A1 sera fermé 27 et 28 nuits selon le sens.
 
-Les tunnels de **Chennevières (N12), Guy Moquet et Moulin (A86)** seront fermés environ autour de 23 nuits par sens.
+Les tunnels de **Chennevières (N12), Guy Moquet et Moulin (A86)** seront fermés environ  23 nuits par sens.
 
-Les **tunnels de Boissy (N19), Belle Rive, Nanterre et Nogent (A86)** seront fermés environ autour de 18 nuits par sens.
+Les **tunnels de Boissy (N19), Belle Rive, Nanterre et Nogent (A86)** seront fermés environ 18 nuits par sens.
 
 Le **tunnel de Fontenay le Fleury** sur l'A12 sera fermé 23 nuits dans le sens Y mais seulement 8 nuits en W.
 
 Les **tunnels de Taverny et d'Orly** seront fermés 12 nuits dans chaque sens.
 
-C'est le **tunnels de Sévines** sur la N315 qui est le moins souvent fermé, 6 ou 7 nuits selon le sens.
-
-
-TAV-Y    12
-ORL-Y    12
-ORL-W    12
-FLF-W     8
-SEV-W     7
-DEF-Y     7
-SEV-I     6
-DEF-W     6
-NEU-Y     4
-
+C'est le **tunnel des Sévines**, sur la N315, qui est le moins souvent fermé, soit 6 ou 7 nuits selon le sens.
 
 
 
