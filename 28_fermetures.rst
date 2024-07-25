@@ -2,6 +2,7 @@ Fermetures nocturnes pour la maintenance des tunnels
 ######################################################
 La maintenance des tunnels, comme celle d'autres composantes du réseau routier, nécessite de fermer les voies à la circulation 
 pour que les entreprises puissent travailler en sécurité.
+Cette page apporte un éclairage sur la fréquence de ces fermetures sur la base de la programmation annuelle 2024.
 
 Heures de fermeture
 ************************
