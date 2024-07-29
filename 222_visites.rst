@@ -28,7 +28,7 @@ mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E
 
 On propose des regroupements d'issues que l'on désigne par le terme **Fermeture**, ils sont présentés dans le tableau suivant. 
 
-Chaque ligne représente une **fermeture**. La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. La seconde colonne cntient la liste des tunnels et sens associés avec le nombre d'issues qui est précisé entre parenthèses.
+Chaque ligne représente une **fermeture**. La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. La seconde colonne contient la liste des tunnels et sens avec le nombre d'issues  associées qui est précisé entre parenthèses.
 
 .. csv-table::
    :header: Fermeture, Tunnel-Sens_(Nombre d'issues)
