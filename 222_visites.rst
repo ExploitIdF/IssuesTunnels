@@ -7,8 +7,10 @@ Les visites des issues et des niches doivent se faire la nuit lorsque le tunnel 
 
 Dans les cas simples, par exemple pour le Landy, Nogent, Orly, Fontenay, le regroupement des issues et niches correspond à un sens du tunnel.
 
-Cependant, les fermetures de tunnels se font parfois de manière concomittante et il faut dans ce cas regrouper 
-les issues des sections fermées simultanément. Cette situation concerne :
+Cependant, les fermetures de certains tunnels se font de manière concomittante et il faut, dans ce cas, regrouper 
+les issues des sections fermées simultanément. 
+
+Cette situation concerne les groupes de tunnels suivants :
 
 * Bicêtre & Italie
 * Fresnes & Antony
@@ -24,7 +26,9 @@ Le cas des bretelles du complexe A14&A86 présente une situation singulière.
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
 mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E>W, A4E>Y, A5 - W>I, A8 - I>W) il faut faire un choix entre l'une ou l'autre des fermetures.
 
-On propose le regroupement des issues présenté dans le tableau suivant. Chaque ligne représente une fermeture avec la liste des tunnels et sens associés. Le nombre d'issues est précisé entre parenthèses.
+On propose des regroupements d'issues que l'on désigne par le terme **Fermeture**, ils sont présentés dans le tableau suivant. 
+
+Chaque ligne représente une **fermeture**. La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. La seconde colonne cntient la liste des tunnels et sens associés avec le nombre d'issues qui est précisé entre parenthèses.
 
 .. csv-table::
    :header: Fermeture, Tunnel-Sens_(Nombre d'issues)
