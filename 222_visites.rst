@@ -24,61 +24,42 @@ Le cas des bretelles du complexe A14&A86 présente une situation singulière.
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
 mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E>W, A4E>Y, A5 - W>I, A8 - I>W) il faut faire un choix entre l'une ou l'autre des fermetures.
 
+On propose le regroupement des issues présenté dans le tableau suivant. Chaque ligne représente une fermeture avec la liste des tunnels et sens associés. Le nombre d'issues est précisé entre parenthèses.
+
 .. csv-table::
-   :header: triCode,Sens,Pr,Ferm
+   :header: Fermeture, Tunnel-Sens_(Nombre d'issues)
    :width: 70%
 
-      A14,W,24,A14&NEU-W
-      A14,Y,22,A14&NEU-Y
-      ANT,E,5,FRE&ANT-E
-      ANT,I,5,FRE&ANT-I
-      BAP,W,8,BAP&SCL-W
-      BAP,Y,7,BAP&SCL-Y
-      BDR,E,12,BLN&CRN-E
-      BDR,I,13,BLN&CRN-I
-      BIC,W,5,BIC&ITA-W
-      BIC,Y,5,BIC&ITA-Y
-      BOI,W,4,BOI-W
-      BOI,Y,4,BOI-Y
-      CHA,W,6,CHA-W
-      CHA,Y,7,CHA-Y
-      CHE,W,1,CHE-W
-      CHE,Y,1,CHE-Y
-      CRN,E,2,BLN&CRN-E
-      CRN,I,2,BLN&CRN-I
-      ECH,E>W,4,A14&NEU-W
-      ECH,E>Y,2,A14&NEU-Y
-      ECH,I>W,2,NAN&RUE-I
-      ECH,W,1,???
-      ECH,W>I,2,NAN&RUE-I
-      ECH,Y>E,5,NAN&RUE-E
-      ECH,Y>I,1,NAN&RUE-I
-      FLF,W,4,FLF-W
-      FLF,Y,4,FLF-Y
-      FRE,E,1,FRE&ANT-E
-      FRE,I,1,FRE&ANT-I
-      GMO,E,5,GMO&MOU-E
-      GMO,I,5,GMO&MOU-I
-      ITA,Y,3,BIC&ITA-Y
-      LAN,W,10,LAN-W
-      LAN,Y,10,LAN-Y
-      LNO,E,2,BLN&CRN-E
-      LNO,I,2,BLN&CRN-I
-      MOU,E,10,GMO&MOU-E
-      MOU,I,6,GMO&MOU-I
-      NAN,E,6,NAN&RUE-E
-      NAN,I,6,NAN&RUE-I
-      NEU,W,3,A14&NEU-W
-      NEU,Y,1,A14&NEU-Y
-      NOG,E,9,NOG-E
-      NOG,I,10,NOG-I
-      ORL,W,1,ORL-W
-      ORL,Y,1,ORL-Y
-      RUE,E,8,NAN&RUE-E
-      RUE,I,7,NAN&RUE-I
-      SCL,W,7,BAP&SCL-W
-      SCL,Y,6,BAP&SCL-Y
-      SEV,W,3,SEV-W
-      SEV,Y,3,SEV-Y
-      TAV,W,3,TAV-W
-      TAV,Y,3,TAV-Y
+      ???,ECH-W_(1)
+      A14&NEU-W,A14-W_(24); ECH-E>W_(4); NEU-W_(3)
+      A14&NEU-Y,A14-Y_(22); ECH-E>Y_(2); NEU-Y_(1)
+      BAP&SCL-W,BAP-W_(8); SCL-W_(7)
+      BAP&SCL-Y,BAP-Y_(7); SCL-Y_(6)
+      BIC&ITA-W,BIC-W_(5)
+      BIC&ITA-Y,BIC-Y_(5); ITA-Y_(3)
+      BLN&CRN-E,BDR-E_(12); CRN-E_(2); LNO-E_(2)
+      BLN&CRN-I,BDR-I_(13); CRN-I_(2); LNO-I_(2)
+      BOI-W,BOI-W_(4)
+      BOI-Y,BOI-Y_(4)
+      CHA-W,CHA-W_(6)
+      CHA-Y,CHA-Y_(7)
+      CHE-W,CHE-W_(1)
+      CHE-Y,CHE-Y_(1)
+      FLF-W,FLF-W_(4)
+      FLF-Y,FLF-Y_(4)
+      FRE&ANT-E,ANT-E_(5); FRE-E_(1)
+      FRE&ANT-I,ANT-I_(5); FRE-I_(1)
+      GMO&MOU-E,GMO-E_(5); MOU-E_(10)
+      GMO&MOU-I,GMO-I_(5); MOU-I_(6)
+      LAN-W,LAN-W_(10)
+      LAN-Y,LAN-Y_(10)
+      NAN&RUE-E,ECH-Y>E_(5); NAN-E_(6); RUE-E_(8)
+      NAN&RUE-I,ECH-I>W_(2); ECH-W>I_(2); ECH-Y>I_(1); NAN-I_(6); RUE-I_(7)
+      NOG-E,NOG-E_(9)
+      NOG-I,NOG-I_(10)
+      ORL-W,ORL-W_(1)
+      ORL-Y,ORL-Y_(1)
+      SEV-W,SEV-W_(3)
+      SEV-Y,SEV-Y_(3)
+      TAV-W,TAV-W_(3)
+      TAV-Y,TAV-Y_(3)
