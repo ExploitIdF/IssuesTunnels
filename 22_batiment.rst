@@ -1,5 +1,11 @@
 Marché Bâtiment
 *******************
+
+.. toctree::
+   :hidden:
+
+   222_visites
+
 Conception du marché pour la maintenance des issues
 =====================================================
 Le bordereau de prix du marché Batiment comporte un numéro de prix pour la maintenance préventive des issues de secours.	
