@@ -18,7 +18,7 @@ les issues des sections fermées simultanément. Cette situation concerne :
 * Boulogne-Ambroise-Paré & Saint-Cloud
 * A14 & Neuilly(1)
 
-(1) L'association n'est pas systématique mais assez fréquente pour que l'on puisse se limiter à cette situation
+\(1) L'association n'est pas systématique mais assez fréquente pour que l'on puisse se limiter à cette situation
 
 Le cas des bretelles du complexe A14&A86 présente une situation singulière. 
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
