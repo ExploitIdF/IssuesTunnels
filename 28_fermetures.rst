@@ -4,6 +4,10 @@ La maintenance des tunnels, comme celle d'autres composantes du réseau routier,
 pour que les entreprises puissent travailler en sécurité.
 Cette page apporte un éclairage sur la fréquence de ces fermetures sur la base de la programmation annuelle 2024.
 
+Les fermetures programmées en 2024 (version 22/07/2024) sont visualisable par le lien suivant :
+
+`<https://fermeture-dirif-2024-dw5rdpwu3a-ew.a.run.app/>`_
+
 Heures de fermeture
 ************************
 Les fermetures sont principalement programmées la nuit entre 21h et 6h selon l'information qui est donnée au public. 
