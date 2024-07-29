@@ -24,9 +24,11 @@ Le cas des bretelles du complexe A14&A86 présente une situation singulière.
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
 mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E>W, A4E>Y, A5 - W>I, A8 - I>W) il faut faire un choix entre l'une ou l'autre des fermetures.
 
+.. csv-table::
+   :header: triCode,Sens,Pr,Ferm,
+   :width: 70%
 
-
-    triCode,Sens,Pr,Ferm,
+    
     A14,W,24,A14&NEU-W,
     A14,Y,22,A14&NEU-Y,
     ANT,E,5,FRE&ANT-E,
