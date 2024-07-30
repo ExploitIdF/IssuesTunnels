@@ -1,18 +1,11 @@
 Niches de sécurité
 ###########################
 
-On construit une liste des niches avec CosWin, en sélectionnant les 450 équipements dont le champ **Type Famille** prend la valeur **LOCAL-NICHE**.
+Définition et enjeu
+***************************
+Dans CosWin, il est donné le nom de niche à un *local* avec ou sans porte, mais aussi à un simple emplacement au sol, parfois en dehors du tunnel comme aux entrées et sorties, parfois dans une issue de secours.
 
-Exclusion de certains enregistrements
-***************************************
-12 niches ont un champ **Etat** dont la valeur est égale à **PROJET** (8 pour BOISSY, 4 pour ECHANGEUR_NANTERRE). 
-On ne les prend pas en compte dans la suite. 
-Que faut il comprendre sur l'existence de ces niches ?
-
-Deux locaux semblent avoir été identifiés à tort dans le type **NICHE** :
-
-* L11.733S	PST/DFP-W	 	Local PST/DFP entrée W - Tunnel de Boissy	BOISSY 
-* L11.743E	NY-DFP/CHA	Niche DFP Y - Tunnel Dreyer
+CosWin contient 437 équipements dont le champ **Type Famille** prend la valeur **LOCAL-NICHE** et qui sont liés à un tunnel géré par le STT.
 
 Niches *Sécurité* ou  niches *Incendie* ?
 ******************************************
@@ -20,10 +13,11 @@ Selon le champ **Description**, on a :
 
 * 374 Niche sécurité
 * 55 Niche incendie
+* 8 Niche Inspection
 
 On trouve des niches *Sécurité* dans tous les tunnels, mais seulement certains tunnels ont des niches *Incendie*.
 
-Quelle est la signification de cette distinction ?
+Les niches Inspection (Boissy) ne consernent pas la sécurité des tunnels et ne seront pas prises en compte dans la suite.
 
 CosWin associe au moins un pictogramme à 377 niches.
 
