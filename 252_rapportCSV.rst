@@ -1,5 +1,5 @@
-Spécification du format des rapports pour les visites bimestrielles et les interventions de maintenance annuelle dans les issues.
-**************************************************************************************************************************************
+Un format csv des rapports pour les visites et la maintenance annuelle des issues.
+************************************************************************************************
 La spécification des actions à mener et du contenu des rapports doit être réalisée par ailleurs. 
 Dans cette page, on utilisera une hypothèse sur la nature des informations demandées; 
 cette hypothèse a été construite sur la base du modèle de rapport annexé au CCTP de 2020.
