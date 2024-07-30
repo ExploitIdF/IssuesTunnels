@@ -21,13 +21,15 @@ Une niche *Sécurité* comporte un PAU, 2 extincteurs, un pictogrammes et une bo
 
 Une niche *Incendie* comporte généralement une borne incendie et parfois des extincteurs ou un pictogramme.
 
+CosWin référence 334 bornes incendie, ce qui n'est pas exhaustif. CosWin ne connait aucune borne pour le tunnel de Bicêtre et seulement 8 pour le tunnel de Champigny.
+
 Les niches Inspection (Boissy) ne consernent pas la sécurité des tunnels et ne seront pas prises en compte dans la suite.
 
 CosWin associe au moins un pictogramme à 377 niches.
 
-Le fichier ci-dessous indique, pour les 429 niches identifiées dans CosWin, les tatouages des pictogrammes et des extincteurs associés dans CosWin.
+Le fichier ci-dessous indique, pour les 437 niches identifiées dans CosWin, les nombres de bornes incendie, de pictogrammes et d'extincteurs associés dans CosWin.
 
-`Table des pictogrammes et des extincteurs associées aux niches <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/nichesBrExPc.csv>`_ 
+`Table des niches <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/nichesBrExPc.csv>`_ 
 
 
 
