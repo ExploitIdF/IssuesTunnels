@@ -11,7 +11,7 @@ Données de la GTC
 
 Accès aux données
 =================
-La GTC des tunnels enregistre des événements liés au issues. On rend compte ici des moyens d'accès aux données.
+La GTC des tunnels enregistre notamment des événements liés aux issues. On rend compte ici des moyens d'accès à ces données.
 
 Application JASPER
 """"""""""""""""""""""""
@@ -20,12 +20,12 @@ pour les agents du DETT.
 
 Il faut choisir dans une requêtes sur le *"journal des consignations"* :
 
-* une période, 
+* une période(plusieurs jours), 
 * un tunnel et 
 * le métier *Autoévacuation*.
 
 Lors d'une session d'extraction menée en mars 2024, les requêtes avec une période de plus d'une semaine ont échoué 3 fois sur 4. 
-En une heure et demi, on est parvenu à extraire quelques jours de données sur 6 tunnels, soit 50 000 *évènements*.
+En une heure et demi, on est parvenu à extraire quelques jours de données sur 6 tunnels, soit 50 000 *évènements GTC*.
 Il n'est donc pas possible par ce moyen de faire des analyses systématiques pour une période de plusieurs mois.
 
 La table ci-dessous présente, pour chacun des 6 tunnels :
@@ -33,7 +33,7 @@ La table ci-dessous présente, pour chacun des 6 tunnels :
 * le nombre de jours pour lesquelles des données ont été recueillies
 * le nombre d'issues qui apparaissent dans les données
 
-Par exemple, pour le Landy, avec un seul jour de donnée, moins de la moitié des issues ont été à l'origine d'évènements enregistrés par la GTC.
+Par exemple, pour le Landy, avec un seul jour de données, moins de la moitié des issues ont été à l'origine d'évènements enregistrés par la GTC.
 
 .. csv-table::
    :header: Tunnel ,Nombre de jours, Nombre d'issues
@@ -53,20 +53,20 @@ Constatant les limites de l'application JASPER pour l'extraction de volumes de d
 on a demandé en mars 2024 à ACTEMIUM de faire l'extraction directe sur la base de données du journal des consignations pour le métier Autoévacuation.
 Ce journal contient les données des 13 derniers mois.
 
-Pour une raison mystérieuse, Actemium a rencontré de grosses difficultés pour répondre à cette demande. 
+Pour des raisons mystérieuses, Actemium a rencontré de grosses difficultés pour répondre à cette demande. 
 Après 2 mois d'efforts, Actemium a communiqué les données, pour 21 tunnels sur 24. 
-En dépit de la demande expresse de disposer de l'horodatage à la seconde, les données reçues sont tronquées à la minute pour 5 des 21 tunnels renseignés.
+En dépit de la demande expresse de disposer de l'horodatage à la seconde, les données reçues sont arrondies à la minute, pour 5 des 21 tunnels renseignés.
 
-On ne dispose donc de données complètes que pour 160 issues sur 290. 
+On ne dispose donc de données complètes que pour 16 tunnels sur 24, soit 160 issues sur 290. 
 Cela constitue un échantillon suffisant pour tester la faisabilité de traitements utiles à l'exploitation, 
-mais pas pour  bénéficier de ces traitements de manière systématique.
+mais pas pour  bénéficier de ces traitements de manière systématique sur le périmètre des tunnels gérés par le DETT. 
 
 
 Définition de la variable var4
 ===================================
-Le champ du j ournal des consignations de la GTC dont le nom est **Variable** se décompose en 5 parties séparées par des points (**'.'**).
-La dernière partie du champ *Variable*, que l'on a notée *var4*, prend plus de 80 valeurs, pour le métiers Autoévacuation. 
- **var4** constitue une typologie des événements.
+Le champ du journal des consignations de la GTC dont le nom est **Variable** se décompose en 5 parties séparées par des points (**'.'**).
+La dernière partie du champ **Variable**, que l'on a notée **var4**, prend plus de 80 valeurs, pour le métiers Autoévacuation. 
+Le champ *calculé* **var4** constitue une typologie des événements.
 
 Quels événements sont enregistrés dans la GTC.
 ===============================================
@@ -84,7 +84,7 @@ L'analyse des données permet de détecter les situations suivantes :
 * un temps entre l'ouverture et la fermeture anormal,
 * une absence d'utilisation prolongée (à condition de disposer de données sur une longue période)
 
-De manière globale, il serait interessant d'observer la distribution des fréquences d'ouvertures et d'identifier une typologie des issues selon cete distribution.
+De manière globale, il serait interessant d'observer la distribution des fréquences d'ouvertures et d'identifier une typologie des issues selon cette distribution.
 
 :doc:`Lien vers l'analyse détaillée des données d'ouvertures de portes en tunnels<271_porteT>`
 
