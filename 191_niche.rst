@@ -11,9 +11,9 @@ Niches *Sécurité* ou  niches *Incendie* ?
 ******************************************
 Selon le champ **Description**, on a :
 
-* 374 Niches sécurité
-* 55 Niches incendie
-* 8 Niches Inspection
+* 374 niches Sécurité
+* 55 niches Incendie
+* 8 niches Inspection
 
 On trouve des niches *Sécurité* dans tous les tunnels, mais seulement certains tunnels ont des niches *Incendie*.
 
@@ -21,9 +21,12 @@ Une niche *Sécurité* comporte un PAU, 2 extincteurs, un pictogrammes et une bo
 
 Une niche *Incendie* comporte généralement une borne incendie et parfois des extincteurs ou un pictogramme.
 
-CosWin référence 334 bornes incendie, ce qui n'est pas exhaustif. CosWin ne connait aucune borne pour le tunnel de Bicêtre et seulement 8 pour le tunnel de Champigny.
+CosWin référence 334 bornes incendie en exploitation dans le périmètre du STT.
 
-Les niches Inspection (Boissy) ne consernent pas la sécurité des tunnels et ne seront pas prises en compte dans la suite.
+CosWin ne connait aucune borne pour le tunnel de Bicêtre et seulement 8 pour le tunnel de Champigny. 
+Ces tunnels sont équipés de colonnes sèches qui s'appuient sur des bornes gérées par des tiers.
+
+Les niches Inspection (Boissy) ne concernent pas la sécurité des tunnels et ne seront pas prises en compte dans la suite.
 
 CosWin associe au moins un pictogramme à 377 niches.
 
