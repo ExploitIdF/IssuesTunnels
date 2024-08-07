@@ -1,6 +1,11 @@
-Les composantes des issues, selon le F40 et les marchés
-========================================================
-Les 3 sources que l'on a identifiées permettent de décrire comment le sujet des issues est pris en compte dans les documents existants. Cela aide à comprendre le champ et le niveau de formalisation actuel. On constate une potentielle marge de progrès sur une structuration des objets à considérer.
+Les composantes des issues, selon la documentation
+*********************************************************
+Dans cette page, on examine comment les documents produits ou utilisés par la DiRIF représentent les issues et leurs composants. 
+On a en particulier consulté le fascicule 40 du CETU (F40) et les marchés Bâtiment et Propreté.
+
+Les 3 sources que l'on a identifiées permettent de décrire comment le sujet des issues est pris en compte dans les documents existants. 
+Cela fournit un éclairage sur le champ et le niveau de formalisation du sujet actuel. 
+On constate une potentielle marge de progrès sur une structuration des objets à considérer pour rendre compte de la consistance des issues.
 
 Fascicule 40
 """""""""""""
