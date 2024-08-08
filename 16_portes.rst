@@ -15,7 +15,7 @@ Le borderaux des prix du marché Batiment comporte un prix pour la fourniture d'
   
   Porte N2 – HCM 120, réf: B112T de marque LUTERMAX/NOVOFERM GESOP
 
-LUTERMAX/NOVOFERM et GESOP sont deux entreprises différentes qui utilisent la même référence pour une porte qui répond au besoin des tunnels de la DiRIF.
+`LUTERMAX/NOVOFERM <https://www.novoferm.fr/porte-coupe-feu/tunnel/b112t-b212t/>`_ et `GESOP<https://gesop.fr/solutions/porte-b112-t-1-vantail/>`_ sont deux entreprises différentes qui utilisent la même référence pour une porte qui répond au besoin des tunnels de la DiRIF.
 
 une explication se trouve sur le site de l'entreprise **GESOP** qui affirme que le modèle de porte a été développé conjointement 
 par les deux entreprises (   `<https://gesop.fr/testimonial/tunnel-de-belle-rives-a-paris-2014/>`_).
