@@ -9,13 +9,19 @@ Elles ne sont pas identifiées dans la base patrimoniale de la GMAO.
 On ne peut donc pas savoir simplement quel est le fabriquant et quelles sont les dimensions d'une porte tunnel. 
 On ne peut donc pas non plus apprécier la dispersion de ces caractéristiques, sur le parc des 290 portes Tunnel des issues de secours.
 
+Les interventions de maintenance réalisées dans le cadre des marchés Bâtiment et Propreté ne sont généralement pas enregistrées dans la GMAO. 
+Il existe quelques enregistrements d'ordres de travail (OT) mais cela relève de saisies isolées. 
+Aucun PCTT ne fait appliquer les exigences du marché sur l'utilisation de la GMAO. 
+Les entreprises n'ont pas même mis en place le VPN nécessaire pour avoir un accès à distance à la GMAO.
+
+
 Modèle spécifié dans le marché de maintenance Bâtiment
 *********************************************************
 Le borderaux des prix du marché Batiment comporte un prix pour la fourniture d'un bloc porte :
   
   Porte N2 – HCM 120, réf: B112T de marque LUTERMAX/NOVOFERM GESOP
 
-`LUTERMAX/NOVOFERM <https://www.novoferm.fr/porte-coupe-feu/tunnel/b112t-b212t/>`_ et `GESOP<https://gesop.fr/solutions/porte-b112-t-1-vantail/>`_ sont deux entreprises différentes qui utilisent la même référence pour une porte qui répond au besoin des tunnels de la DiRIF.
+`LUTERMAX/NOVOFERM <https://www.novoferm.fr/porte-coupe-feu/tunnel/b112t-b212t/>`_ et `GESOP <https://gesop.fr/solutions/porte-b112-t-1-vantail/>`_ sont deux entreprises différentes qui utilisent la même référence pour une porte qui répond aux besoins des tunnels de la DiRIF.
 
 une explication se trouve sur le site de l'entreprise **GESOP** qui affirme que le modèle de porte a été développé conjointement 
 par les deux entreprises (   `<https://gesop.fr/testimonial/tunnel-de-belle-rives-a-paris-2014/>`_).
