@@ -1,0 +1,438 @@
+Tatouage,CodeEx,Axe,Sens,Description,Tunnel,type,Bornes,Extincteur,Pictogramme
+L10.122A,DEF-NSW-701/DEF,N1013,W,Niche sécurité NSW-701 - PAU NM01R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.123C,DEF-NSW-702/DEF,N1013,W,Niche sécurité NSW-702 - PAU NM00R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.124D,DEF-NSW-601/DEF,N192,W,Niche sécurité NSW-601 - PAU NG01R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.125E,DEF-NSW-602/DEF,N192,W,Niche sécurité NSW-602 - PAU NG00S - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.126F,DEF-NSW-603/DEF,N192,W,Niche sécurité NSW-603 - PAU NG00R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.129J,DEF-NSY-001/DEF,A14,Y,Niche sécurité NSY-001 - PAU NR00A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.131L,DEF-NSY-002/DEF,A14,Y,Niche sécurité NSY-002 - PAU NR00B - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.132M,DEF-NSY-003/DEF,A14,Y,Niche sécurité NSY-003 - PAU NR00C - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.133N,DEF-NSY-004/DEF,A14,Y,Niche sécurité NSY-004 - PAU NR00D - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.134P,DEF-NSY-005/DEF,A14,Y,Niche sécurité NSY-005 - PAU NR00E - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.135R,DEF-NSY-006/DEF,A14,Y,Niche sécurité NSY-006 - PAU NR00F - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.136S,DEF-NSY-007/DEF,A14,Y,Niche sécurité NSY-007 - PAU NR01A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.137T,DEF-NSY-008/DEF,A14,Y,Niche sécurité NSY-008 - PAU NR01B - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.138U,DEF-NSY-009/DEF,A14,Y,Niche sécurité NSY-009 - PAU NR01C - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.139V,DEF-NSY-010/DEF,A14,Y,Niche sécurité NSY-010 - PAU NR01D - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.141X,DEF-NSY-011/DEF,A14,Y,Niche sécurité NSY-011 - PAU NR01E - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.142Y,DEF-NSY-012/DEF,A14,Y,Niche sécurité NSY-012 - PAU NR01F - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.143A,DEF-NSY-013/DEF,A14,Y,Niche sécurité NSY-013 - PAU NR02A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.144C,DEF-NSY-501/DEF,N314,Y,Niche sécurité NSY-501 (n°9) - PAU NR01G - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.145D,DEF-NSY-502/DEF,N314,Y,Niche sécurité NSY-502 (n°11) - PAU NR02B - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.146E,DEF-NSY-014/DEF,A14,Y,Niche sécurité NSY-014 - PAU NR02C - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.147F,DEF-NSY-015/DEF,A14,Y,Niche sécurité NSY-015 - PAU NR02D - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.148G,DEF-NSY-016/DEF,A14,Y,Niche sécurité NSY-016 - PAU NR02E - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.149H,DEF-NSY-017/DEF,A14,Y,Niche sécurité NSY-017 - PAU NR02F - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.151K,DEF-NSY-018/DEF,A14,Y,Niche sécurité NSY-018 - PAU NR03A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.152L,DEF-NSY-019/DEF,A14,Y,Niche sécurité NSY-019 - PAU NR03B - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.153M,DEF-NSY-020/DEF,A14,Y,Niche sécurité NSY-020 - PAU NR03C - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.154N,DEF-NSY-021/DEF,A14,Y,Niche sécurité NSY-021 - PAU NR03D - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.155P,DEF-NSY-022/DEF,A14,Y,Niche sécurité NSY-022 - PAU NR03E - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.156R,DEF-NSY-023/DEF,A14,Y,Niche sécurité NSY-023 - PAU NR03F - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,1
+L10.157S,DEF-NSY-024/DEF,A14,Y,Niche sécurité NSY-024 - PAU NR03G - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.158T,DEF-NSY-025/DEF,A14,Y,Niche sécurité NSY-025 - PAU NR04A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.159U,DEF-NSW-001/DEF,A14,W,Niche sécurité NSW-001 - PAU NR04R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.161W,DEF-NSW-002/DEF,A14,W,Niche sécurité NSW-002 - PAU NR03R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.162X,DEF-NSW-003/DEF,A14,W,Niche sécurité NSW-003 - PAU NR03S - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.163Y,DEF-NSW-004/DEF,A14,W,Niche sécurité NSW-004 - PAU NR03T - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.164A,DEF-NSW-005/DEF,A14,W,Niche sécurité NSW-005 - PAU NR03U - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.165C,DEF-NSW-006/DEF,A14,W,Niche sécurité NSW-006 - PAU NR03V - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.166D,DEF-NSW-007/DEF,A14,W,Niche sécurité NSW-007 - PAU NR02R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.167E,DEF-NSW-008/DEF,A14,W,Niche sécurité NSW-008 - PAU NR02S - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.168F,DEF-NSW-009/DEF,A14,W,Niche sécurité NSW-009 - PAU NR02T - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.169G,DEF-NSW-010/DEF,A14,W,Niche sécurité NSW-010 - PAU NR02U - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.171J,DEF-NSW-011/DEF,A14,W,Niche sécurité NSW-011 - PAU NR02V - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.172K,DEF-NSW-501/DEF,N314,W,Niche sécurité NSW-501 - PAU NR02X - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.173L,DEF-NSW-502/DEF,N314,W,Niche sécurité NSW-502 - PAU NR01X - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.174M,DEF-NSW-012/DEF,A14,W,Niche sécurité NSW-012 - PAU NR02W - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.175N,DEF-NSW-013/DEF,A14,W,Niche sécurité NSW-013 - PAU NR01R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.176P,DEF-NSW-014/DEF,A14,W,Niche sécurité NSW-014 - PAU NR01S - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.177R,DEF-NSW-015/DEF,A14,W,Niche sécurité NSW-015 - PAU NR01T - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.178S,DEF-NSW-016/DEF,A14,W,Niche sécurité NSW-016 - PAU NR01U - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.179T,DEF-NSW-017/DEF,A14,W,Niche sécurité NSW-017 - PAU NR01V - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.181V,DEF-NSW-018/DEF,A14,W,Niche sécurité NSW-018 - PAU NR00R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.182W,DEF-NSW-019/DEF,A14,W,Niche sécurité NSW-019 - PAU NR00S - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.183X,DEF-NSW-703/DEF,A14,W,Niche sécurité NSW-703 - PAU NM00S - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.184Y,DEF-NSW-020/DEF,A14,W,Niche sécurité NSW-020 - PAU NR00T - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,0,1
+L10.185A,DEF-NSW-021/DEF,A14,W,Niche sécurité NSW-021 - PAU NV00R - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.186C,DEF-NSW-022/DEF,A14,W,Niche sécurité NSW-022 - PAU NV00S - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.187D,DEF-NSW-023/DEF,A14,W,Niche sécurité NSW-023 - PAU NR00U - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.197P,DEF-NSW-901/DEF,N1014,W,Niche sécurité NSW-901 - PAU NV00T - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.198R,DEF-NSW-024/DEF,A14,W,Niche sécurité NSW-024 - PAU NR00V - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.199S,DEF-NSW-902/DEF,N1014,W,Niche sécurité NSW-902 - PAU - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,0,0,1
+L10.201U,DEF-NSY-901/DEF,N1014,Y,Niche sécurité NSY-901 - PAU NV00A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L10.208D,NSE-001/BEL,A86OUEST,E,Niche incendie NSE-001 (n°A07) - Tunnel de Belle-Rive,BELLE-RIVE,incendie,1,2,1
+L10.211G,NSE-003/BEL,A86OUEST,E,Niche sécurité NSE-003 (n°A03) - PAU RW76S - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.212H,NSI-006/BEL,A86OUEST,I,Niche sécurité NSI-004 (n°A06) - PAU RW76I - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.213J,NSE-002/BEL,A86OUEST,E,Niche sécurité NSE-002 (n°A05) - PAU RW76Q - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.214K,NSI-005/BEL,A86OUEST,I,Niche sécurité NSI-005 (n°A04) - PAU RW76G - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.215L,NSE-004/BEL,A86OUEST,E,Niche sécurité NSE-004 (n°A01) - PAU RW76U - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.216M,NSI-004/BEL,A86OUEST,I,Niche sécurité NSI-004 (n°A02) - PAU RW76E - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.217N,NSE-005/BEL,A86OUEST,E,Niche sécurité NSE-005 (n°P05) - PAU RW76W - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.218P,NSI-003/BEL,A86OUEST,I,Niche sécurité NSI-003 (n°P06) - PAU RW76C - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.219R,NSE-006/BEL,A86OUEST,E,Niche sécurité NSE-006 (n°P03) - PAU RW76Y - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.221T,NSI-002/BEL,A86OUEST,I,Niche sécurité NSI-002 (n°P04) - PAU RW76A - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.222U,NSE-007/BEL,A86OUEST,E,Niche sécurité NSE-007 (n°P01) - PAU RW75R - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L10.223V,NSI-001/BEL,A86OUEST,I,Niche sécurité NSI-001 (n°P02) - PAU RW75D - Tunnel de Belle-Rive,BELLE-RIVE,sécurité,1,2,1
+L11.055L,NSE-001/ANT,A86SUD,E,Niche sécurité NSE-001 - PAU RS52R - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.056M,NSE-002/ANT,A86SUD,E,Niche sécurité NSE-002 - PAU RS52S - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.057N,NSE-003/ANT,A86SUD,E,Niche sécurité NSE-003 - PAU RS52T - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.058P,NSE-004/ANT,A86SUD,E,Niche sécurité NSE-004 - PAU RS52U - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.059R,NSE-005/ANT,A86SUD,E,Niche sécurité NSE-005 - PAU RS52V - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.061T,NSI-001/ANT,A86SUD,I,Niche sécurité NSI-001 - PAU RS52A - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.062U,NSI-002/ANT,A86SUD,I,Niche sécurité NSI-002 - PAU RS52B - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.063V,NSI-003/ANT,A86SUD,I,Niche sécurité NSI-003 - PAU RS52C - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.064W,NSI-004/ANT,A86SUD,I,Niche sécurité NSI-004 - PAU RS52D - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.065X,NSI-005/ANT,A86SUD,I,Niche sécurité NSI-005 - PAU RS52E - Tunnel d'Antony,ANTONY,sécurité,1,2,1
+L11.066Y,NSE-001/BOB,A86NORD,E,Niche sécurité NSE-001 - PAU RN22S - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.067A,NSE-002/BOB,A86NORD,E,Niche sécurité NSE-002 - PAU RN22T - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.068C,NSE-003/BOB,A86NORD,E,Niche sécurité NSE-003 - PAU RN22U - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.069D,NSE-004/BOB,A86NORD,E,Niche sécurité NSE-004 - PAU RN21R - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.071F,NSE-005/BOB,A86NORD,E,Niche sécurité NSE-005 - PAU RN21S - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.072G,NSE-006/BOB,A86NORD,E,Niche sécurité NSE-006 - PAU RN21T - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.073H,NSE-008/BOB,A86NORD,E,Niche sécurité NSE-008 - PAU RN21U - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.074J,NSE-010/BOB,A86NORD,E,Niche sécurité NSE-010 - PAU RN20R - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.075K,NSE-012/BOB,A86NORD,E,Niche sécurité NSE-012 - PAU RN20S - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.076L,NSE-013/BOB,A86NORD,E,Niche sécurité NSE-013 - PAU RN20T - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.077M,NSE-014/BOB,A86NORD,E,Niche sécurité NSE-014 - PAU RN20U - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.078N,NSE-101/BOB,A86NORD,E,Niche sécurité NSE-101 - PAU RN20V - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.079P,NSI-001/BOB,A86NORD,I,Niche sécurité NSI-001 - PAU RN20A - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.081S,NSI-002/BOB,A86NORD,I,Niche sécurité NSI-002 - PAU RN20B - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.082T,NSI-003/BOB,A86NORD,I,Niche sécurité NSI-003 - PAU RN20C - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.083U,NSI-004/BOB,A86NORD,I,Niche sécurité NSI-004 - PAU RN20D - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.084V,NSI-006/BOB,A86NORD,I,Niche sécurité NSI-006 - PAU RN20E - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.085W,NSI-008/BOB,A86NORD,I,Niche sécurité NSI-008 - PAU RN21A - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.086X,NSI-010/BOB,A86NORD,I,Niche sécurité NSI-010 - PAU RN21B - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.087Y,NSI-011/BOB,A86NORD,I,Niche sécurité NSI-011 - PAU RN21C - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.088A,NSI-013/BOB,A86NORD,I,Niche sécurité NSI-013 - PAU RN21D - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.089C,NSI-014/BOB,A86NORD,I,Niche sécurité NSI-014 - PAU RN21E - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.091E,NSI-015/BOB,A86NORD,I,Niche sécurité NSI-015 - PAU RN22A - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.092F,NSI-016/BOB,A86NORD,I,Niche sécurité NSI-016 - PAU RN22B - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.093G,NSW-001/PAR,A13,W,Niche sécurité NSW-001 - PAU MR01S - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.094H,NSW-002/PAR,A13,W,Niche sécurité NSW-002 - PAU MR01T - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.095J,NSW-003/PAR,A13,W,Niche sécurité NSW-003 - PAU MR01U - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.096K,NSW-004/PAR,A13,W,Niche sécurité NSW-004 - PAU MR01V - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.097L,NSW-005/PAR,A13,W,Niche sécurité NSW-005 - PAU MR01W - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.098M,NSW-006/PAR,A13,W,Niche sécurité NSW-006 - PAU MR01X - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.099N,NSW-007/PAR,A13,W,Niche sécurité NSW-007 - PAU MR00R - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.102S,NSY-001/PAR,A13,Y,Niche sécurité NSY-001 - PAU MR00B - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.103T,NSY-002/PAR,A13,Y,Niche sécurité NSY-002 - PAU MR01A - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.104U,NSY-003/PAR,A13,Y,Niche sécurité NSY-003 - PAU MR01B - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.105V,NSY-004/PAR,A13,Y,Niche sécurité NSY-004 - PAU MR01C - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.106W,NSY-005/PAR,A13,Y,Niche sécurité NSY-005 - PAU MR01D - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.107X,NSY-006/PAR,A13,Y,Niche sécurité NSY-006 - PAU MR01E - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.108Y,NSY-007/PAR,A13,Y,Niche sécurité NSY-007 - PAU MR01F - Tunnel Ambroise Paré,AMBROISE_PARE,sécurité,0,2,1
+L11.111D,NSW-001/CHA,A4,W,Niche sécurité NSW-001 - PAU MZ10S - Tunnel de Champigny,CHAMPIGNY,sécurité,1,2,1
+L11.112E,NSW-002/CHA,A4,W,Niche sécurité NSW-002 - PAU MZ09R - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.113F,NSW-003/CHA,A4,W,Niche sécurité NSW-003 - PAU MZ09S - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.114G,NSW-004/CHA,A4,W,Niche sécurité NSW-004 - PAU MZ09T - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.115H,NSW-005/CHA,A4,W,Niche sécurité NSW-005 - PAU MZ09U - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.116J,NSW-006/CHA,A4,W,Niche sécurité NSW-006 - PAU MZ09V - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.117K,NSW-007/CHA,A4,W,Niche sécurité NSW-007 - PAU MZ09W - Tunnel de Champigny,CHAMPIGNY,sécurité,1,2,1
+L11.118L,NSW-008/CHA,A4,W,Niche sécurité NSW-008 - PAU MZ09X - Tunnel Dreyer,CHAMPIGNY,sécurité,1,2,1
+L11.119M,NSW-009/CHA,A4,W,Niche sécurité NSW-009 - PAU MZ08R - Tunnel Dreyer,CHAMPIGNY,sécurité,0,2,1
+L11.122R,NSY-002/CHA,A4,Y,Niche sécurité NSY-002 - PAU MZ09A - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.123S,NSY-003/CHA,A4,Y,Niche sécurité NSY-003 - PAU MZ09B - Tunnel de Champigny,CHAMPIGNY,sécurité,1,2,1
+L11.124T,NSY-004/CHA,A4,Y,Niche sécurité NSY-004 - PAU MZ09C - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.125U,NSY-005/CHA,A4,Y,Niche sécurité NSY-005 - PAU MZ09D - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.126V,NSY-006/CHA,A4,Y,Niche sécurité NSY-006 - PAU MZ09E - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.127W,NSY-007/CHA,A4,Y,Niche sécurité NSY-007 - PAU MZ09F - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.128X,NSY-008/CHA,A4,Y,Niche sécurité NSY-008 - PAU MZ09G - Tunnel de Champigny,CHAMPIGNY,sécurité,0,2,1
+L11.129Y,NSY-009/CHA,A4,Y,Niche sécurité NSY-009 - PAU MZ10A - Tunnel de Champigny,CHAMPIGNY,sécurité,1,2,1
+L11.131C,NSW-001/CLO,A13,W,Niche sécurité NSW-001 - PAU MR04S - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,0
+L11.132D,NSW-002/CLO,A13,W,Niche sécurité NSW-002 - PAU MR04T - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.133E,NSW-003/CLO,A13,W,Niche sécurité NSW-003 - PAU MR04U - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.134F,NSW-004/CLO,A13,W,Niche sécurité NSW-004 - PAU MR04V - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.135G,NSW-005/CLO,A13,W,Niche sécurité NSW-005 - PAU MR03R - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.136H,NSW-006/CLO,A13,W,Niche sécurité NSW-006 - PAU MR03S - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.137J,NSY-001/CLO,A13,Y,Niche sécurité NSY-001 - PAU MR03A - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,0
+L11.138K,NSY-002/CLO,A13,Y,Niche sécurité NSY-002 - PAU MR03B - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,0,2,1
+L11.139L,NSY-003/CLO,A13,Y,Niche sécurité NSY-003 - PAU MR03C - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,0,2,1
+L11.141N,NSY-004/CLO,A13,Y,Niche sécurité NSY-004 - PAU MR03D - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,0,2,1
+L11.142P,NSY-005/CLO,A13,Y,Niche sécurité NSY-005 - PAU MR04A - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,0,2,1
+L11.143R,NSY-006/CLO,A13,Y,Niche sécurité NSY-006 - PAU MR04B - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,0,2,1
+L11.144S,NSY-007/CLO,A13,Y,Niche sécurité NSY-007 - PAU MR04C - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,0,2,1
+L11.145T,NSE-001/COU,A86NORD,E,Niche sécurité NSE-001 - PAU RN15R - Tunnel de La Courneuve,LA_COURNEUVE,sécurité,1,2,1
+L11.146U,NSE-002/COU,A86NORD,E,Niche sécurité NSE-002 - PAU RN15S - Tunnel de La Courneuve,LA_COURNEUVE,sécurité,1,2,1
+L11.147V,NSI-001/COU,A86NORD,I,Niche sécurité NSI-001 - PAU RN15B - Tunnel de La Courneuve,LA_COURNEUVE,sécurité,1,2,1
+L11.148W,NSI-002/COU,A86NORD,I,Niche sécurité NSI-002 - PAU RN16A - Tunnel de La Courneuve,LA_COURNEUVE,sécurité,1,2,1
+L11.149X,DEF-NSY-601/DEF,N192,Y,Niche sécurité NSY-601 - PAU NG00A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L11.151A,DEF-NSY-602/DEF,N192,Y,Niche sécurité NSY-602 - PAU NG00B - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L11.152C,DEF-NSY-603/DEF,N192,Y,Niche sécurité NSY-603 - PAU NG00C - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L11.153D,DEF-NSY-701/DEF,N1013,Y,Niche sécurité NSY-701 - PAU NM00A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L11.154E,DEF-NSY-702/DEF,N1013,Y,Niche sécurité NSY-702 - PAU NM00B - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L11.155F,DEF-NSY-703/DEF,N1013,Y,Niche sécurité NSY-703 - PAU NM01A - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L11.156G,DEF-NSY-902/DEF,N1014,Y,Niche sécurité NSY-902 - PAU NV00B - Tunnel de Nanterre-La Défense,LA_DEFENSE,sécurité,1,2,1
+L11.157H,ECH-NSW-301/DEF,A14XA86,E>W,Niche incendie NSW-301 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,2,2
+L11.158J,ECH-NSW-302/DEF,A14XA86,E>W,Niche incendie NSW-302 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,2,2
+L11.159K,ECH-NSW-303/DEF,A14XA86,E>W,Niche incendie NSW-303 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,2,2
+L11.161M,ECH-NIW-304/DEF,A14XA86,E>W,Niche incendie NSW-304 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,2,2
+L11.162N,ECH-NSW-304/DEF,A14XA86,I>W,Niche sécurité NSW-304 - PAU NR03Z - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,1
+L11.163P,ECH-NSW-801/DEF,A14XA86,I>W,Niche sécurité NSW-801 - PAU NR03X - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,1
+L11.164R,ECH-NSY-101/DEF,A14XA86,Y>E,Niche sécurité NSY-101 - PAU NR03L - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,1
+L11.165S,ECH-NSY-102/DEF,A14XA86,Y>E,Niche sécurité NSY-102 - PAU NR03M - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,1
+L11.166T,ECH-NSY-103/DEF,A14XA86,Y>E,Niche sécurité NSY-103 - PAU NR03N - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,1
+L11.167U,ECH-NSY-104/DEF,A14XA86,Y>E,Niche incendie NY-104 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,0,1
+L11.168V,ECH-NSY-401/DEF,A14XA86,E,Niche sécurité NSY-401 - PAU NR04G - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,1
+L11.169W,ECH-NSY-402/DEF,A14XA86,E>Y,Niche incendie NSY-402 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,2,1
+L11.171Y,ECH-NSY-403/DEF,A14XA86,E>Y,Niche incendie NSY-403 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,2,1
+L11.172A,ECH-NSY-404/DEF,A14XA86,E>Y,Niche sécurité NSY-404 - PAU NR04B - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,1,2,2
+L11.173C,NSE-001/MOU,A86EST,E,Niche sécurité NSE-001 - PAU RE46S - Tunnel du Moulin,MOULIN,sécurité,1,2,1
+L11.174D,NSE-002/MOU,A86EST,E,Niche sécurité NSE-002 - PAU RE45R - Tunnel du Moulin,MOULIN,sécurité,1,2,1
+L11.175E,NSE-003/MOU,A86EST,E,Niche sécurité NSE-003 - PAU RE45S - Tunnel du Moulin,MOULIN,sécurité,1,2,1
+L11.176F,NSE-004/MOU,A86EST,E,Niche sécurité NSE-004 - PAU RE45T - Tunnel du Moulin,MOULIN,sécurité,1,2,1
+L11.177G,NSI-001/MOU,A86EST,I,Niche sécurité NSI-001 - PAU RE45B - Tunnel du Moulin,MOULIN,sécurité,1,2,1
+L11.178H,NSI-002/MOU,A86EST,I,Niche sécurité NSI-002 - PAU RE45C - Tunnel du Moulin,MOULIN,sécurité,1,2,1
+L11.179J,NSW-001/FON,A12,W,Niche sécurité NSW-001 - PAU LR05S - Tunnel de Fontenay,FONTENAY,sécurité,1,2,1
+L11.181L,NSW-004/FON,A12,W,Niche sécurité NSW-004 - PAU LR05V - Tunnel de Fontenay,FONTENAY,sécurité,1,2,1
+L11.182M,NSY-001/FON,A12,Y,Niche sécurité NSY-001 - PAU LR05B - Tunnel de Fontenay,FONTENAY,sécurité,1,2,1
+L11.183N,NSY-004/FON,A12,Y,Niche sécurité NSY-004 - PAU LR05E - Tunnel de Fontenay,FONTENAY,sécurité,1,2,1
+L11.184P,NSE-001/FRE,A86SUD,E,Niche sécurité NSE-001 - PAU RS51S - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.185R,NSE-002/FRE,A86SUD,E,Niche sécurité NSE-002 - PAU RS51T - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.186S,NSE-003/FRE,A86SUD,E,Niche sécurité NSE-003 - PAU RS51U - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.187T,NSE-004/FRE,A86SUD,E,Niche sécurité NSE-004 - PAU RS51V - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.188U,NSI-001/FRE,A86SUD,I,Niche sécurité NSI-001 - PAU RS50C - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.189V,NSI-002/FRE,A86SUD,I,Niche sécurité NSI-002 - PAU RS51A - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.191X,NSI-003/FRE,A86SUD,I,Niche sécurité NSI-003 - PAU RS51B - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.192Y,NSI-004/FRE,A86SUD,I,Niche sécurité NSI-004 - PAU RS51C - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.193A,NSI-005/FRE,A86SUD,I,Niche sécurité NSI-005 - PAU RS51D - Tunnel de Fresnes,FRESNES,sécurité,1,2,1
+L11.194C,NSW-001/LAN,A1,W,Niche sécurité NSW-001 - PAU AL01S - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.195D,NSW-003/LAN,A1,W,Niche sécurité NSW-003 - PAU AL01U - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.196E,NSW-005/LAN,A1,W,Niche sécurité NSW-005 - PAU AL01W - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.197F,NSW-007/LAN,A1,W,Niche sécurité NSW-007 - PAU AL01Y - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.198G,NSW-009/LAN,A1,W,Niche sécurité NSW-009 - PAU AL00S - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.199H,NSW-010/LAN,A1,W,Niche sécurité NSW-010 - PAU AL00T - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.201K,NSW-011/LAN,A1,W,Niche sécurité NSW-011 - PAU AL00U - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.202L,NSY-001/LAN,A1,Y,Niche sécurité NSY-001 - PAU AL00C - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.203M,NSY-002/LAN,A1,Y,Niche sécurité NSY-002 - PAU AL00D - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.204N,NSY-004/LAN,A1,Y,Niche sécurité NSY-004 - PAU AL01A - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.205P,NSY-006/LAN,A1,Y,Niche sécurité NSY-006 - PAU AL01C - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.206R,NSY-008/LAN,A1,Y,Niche sécurité NSY-008 - PAU AL01E - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.207S,NSY-010/LAN,A1,Y,Niche sécurité NSY-010 - PAU AL01G - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.208T,NSEY/LAN,A1,Y,Niche sécurité NSEY - PAU AL00B - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.209U,NSE-001/LUN,A86NORD,E,Niche sécurité NSE-001 - PAU RN19R - Tunnel Lumen,LUMEN_NORTON,sécurité,1,2,1
+L11.211W,NSE-002/LUN,A86NORD,E,Niche sécurité NSE-002 - PAU RN19S - Tunnel Lumen,LUMEN_NORTON,sécurité,1,2,1
+L11.212X,NSE-003/LUN,A86NORD,E,Niche sécurité NSE-003 - PAU RN19T - Tunnel Lumen,LUMEN_NORTON,sécurité,1,2,1
+L11.213Y,NSE-004/LUN,A86NORD,E,Niche sécurité NSE-004 - PAU RN19U - Tunnel Lumen,LUMEN_NORTON,sécurité,1,2,1
+L11.214A,NSE-005/LUN,A86NORD,E,Niche sécurité NSE-005 - PAU RN19V - Tunnel Lumen-Norton,LUMEN_NORTON,sécurité,0,0,1
+L11.215C,NSE-006/LUN,A86NORD,E,Niche sécurité NSE-006 - PAU RN19W - Tunnel Norton,LUMEN_NORTON,sécurité,1,2,1
+L11.216D,NSE-007/LUN,A86NORD,E,Niche sécurité NSE-007 - PAU RN18R - Tunnel Norton,LUMEN_NORTON,sécurité,1,2,1
+L11.217E,NSI-001/LUN,A86NORD,I,Niche sécurité NSI-001 - PAU RN18C - Tunnel Norton,LUMEN_NORTON,sécurité,1,2,1
+L11.218F,NSI-002/LUN,A86NORD,I,Niche sécurité NSI-002 - PAU RN19A - Tunnel Norton,LUMEN_NORTON,sécurité,1,2,1
+L11.219G,NSI-003/LUN,A86NORD,I,Niche sécurité NSI-003 - PAU RN19B - Tunnel Lumen-Norton,LUMEN_NORTON,sécurité,0,0,1
+L11.221J,NSI-004/LUN,A86NORD,I,Niche sécurité NSI-004 - PAU RN19C - Tunnel Lumen,LUMEN_NORTON,sécurité,1,2,1
+L11.222K,NSI-005/LUN,A86NORD,I,Niche sécurité NSI-005 - PAU RN19D - Tunnel Lumen,LUMEN_NORTON,sécurité,1,2,1
+L11.223L,NSI-006/LUN,A86NORD,I,Niche sécurité NSI-006 - PAU RN19E - Tunnel Lumen,LUMEN_NORTON,sécurité,1,2,1
+L11.224M,NSI-007/LUN,A86NORD,I,Niche sécurité NSI-007 - PAU RN19F - Tunnel Lumen,LUMEN_NORTON,sécurité,0,0,1
+L11.225N,NSE-001/MOQ,A86EST,E,Niche sécurité NSE-001 - PAU RE44T - Tunnel Guy Môquet,GUY-MOQUET,sécurité,1,2,1
+L11.226P,NSE-002/MOQ,A86EST,E,Niche sécurité NSE-002 - PAU RE44U - Tunnel Guy Môquet,GUY-MOQUET,sécurité,1,2,1
+L11.227R,NSE-003/MOQ,A86EST,E,Niche sécurité NSE-003 - PAU RE43R - Tunnel Guy Môquet,GUY-MOQUET,sécurité,1,2,1
+L11.228S,NSI-001/MOQ,A86EST,I,Niche sécurité NSI-001 - PAU RE43D - Tunnel Guy Môquet,GUY-MOQUET,sécurité,1,2,1
+L11.229T,NSI-002/MOQ,A86EST,I,Niche sécurité NSI-002 - PAU RE44A - Tunnel Guy Môquet,GUY-MOQUET,sécurité,1,2,1
+L11.231V,NSI-003/MOQ,A86EST,I,Niche sécurité NSI-003 - PAU RE44B - Tunnel Guy Môquet,GUY-MOQUET,sécurité,1,2,1
+L11.232W,NAN-NSE-001/DEF,A86OUEST,E,Niche sécurité NSE-001/NAN - PAU RW80S - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.233X,NAN-NSE-002/DEF,A86OUEST,E,Niche sécurité NSE-002/NAN - PAU RW79R - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.234Y,NAN-NSE-003/DEF,A86OUEST,E,Niche sécurité NSE-003/NAN - PAU RW79V - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.235A,NAN-NSE-004/DEF,A86OUEST,E,Niche sécurité NSE-004/NAN - PAU RW79U - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.236C,NAN-NSE-005/DEF,A86OUEST,E,Niche sécurité NSE-005/NAN - PAU RW79T - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.237D,NAN-NSE-006/DEF,A86OUEST,E,Niche sécurité NSE-006/NAN - PAU RW79S - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.238E,NAN-NSI-001/DEF,A86OUEST,I,Niche sécurité NSI-001/NAN - PAU RW79A - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.239F,NAN-NSI-002/DEF,A86OUEST,I,Niche sécurité NSI-002/NAN - PAU RW79B - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.241H,NAN-NSI-003/DEF,A86OUEST,I,Niche sécurité NSI-003/NAN - PAU RW79C - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.242J,NAN-NSI-004/DEF,A86OUEST,I,Niche sécurité NSI-004/NAN - PAU RW79D - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.243K,NAN-NSI-005/DEF,A86OUEST,I,Niche sécurité NSI-005/NAN - PAU RW79E - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.244L,NAN-NSI-006/DEF,A86OUEST,I,Niche sécurité NSI-006/NAN - PAU RW80A - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,1,2,1
+L11.245M,NSW-001/NEU,N13,W,Niche sécurité NSW-001 - PAU SR01R - Tunnel de Neuilly,NEUILLY,sécurité,1,2,1
+L11.246N,NSW-002/NEU,N13,W,Niche sécurité NSW-002 - PAU SR01S - Tunnel de Neuilly,NEUILLY,sécurité,1,2,1
+L11.247P,NSW-003/NEU,N13,W,Niche sécurité NSW-003 - PAU SR01T - Tunnel de Neuilly,NEUILLY,sécurité,1,2,1
+L11.248R,NSY-001/NEU,N13,Y,Niche sécurité NSY-001 - PAU SR01C - Tunnel de Neuilly,NEUILLY,sécurité,1,2,1
+L11.249S,NSY-002/NEU,N13,Y,Niche sécurité NSY-002 - PAU SR01B - Tunnel de Neuilly,NEUILLY,sécurité,1,2,1
+L11.251U,NSY-003/NEU,N13,Y,Niche sécurité NSY-003 - PAU SR01A - Tunnel de Neuilly,NEUILLY,sécurité,1,2,1
+L11.252V,NSE-001/NOG,A86EST,E,Niche sécurité NSE-001 - PAU RE32R - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.253W,NSE-002/NOG,A86EST,E,Niche sécurité NSE-002 - PAU RE32S - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.254X,NSE-003/NOG,A86EST,E,Niche sécurité NSE-003 - PAU RE32T - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.255Y,NSE-004/NOG,A86EST,E,Niche sécurité NSE-004 - PAU RE32U - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.256A,NSE-005/NOG,A86EST,E,Niche sécurité NSE-005 - PAU RE31R - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.257C,NSE-006/NOG,A86EST,E,Niche sécurité NSE-006 - PAU RE31S - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.258D,NSE-007/NOG,A86EST,E,Niche sécurité NSE-007 - PAU RE31T - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.259E,NSE-008/NOG,A86EST,E,Niche sécurité NSE-008 - PAU RE31U - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.261G,NSE-009/NOG,A86EST,E,Niche sécurité NSE-009 - PAU RE31V - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.262H,NSE-010/NOG,A86EST,E,Niche sécurité NSE-010 - PAU RE31W - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.263J,NSE-011/NOG,A86EST,E,Niche sécurité NSE-011 - PAU RE30R - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.264K,NSE-012/NOG,A86EST,E,Niche sécurité NSE-012 - PAU RE30S - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.265L,NSI-001/NOG,A86EST,I,Niche sécurité NSI-001 - PAU RE30A - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.266M,NSI-002/NOG,A86EST,I,Niche sécurité NSI-002 - PAU RE30B - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.267N,NSI-003/NOG,A86EST,I,Niche sécurité NSI-003 - PAU RE30C - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.268P,NSI-004/NOG,A86EST,I,Niche sécurité NSI-004 - PAU RE31A - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.269R,NSI-005/NOG,A86EST,I,Niche sécurité NSI-005 - PAU RE31B - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.271T,NSI-006/NOG,A86EST,I,Niche sécurité NSI-006 - PAU RE31C - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.272U,NSI-007/NOG,A86EST,I,Niche sécurité NSI-007 - PAU RE31D - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.273V,NSI-008/NOG,A86EST,I,Niche sécurité NSI-008 - PAU RE31E - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.274W,NSI-009/NOG,A86EST,I,Niche sécurité NSI-009 - PAU RE32A - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.275X,NSI-010/NOG,A86EST,I,Niche sécurité NSI-010 - PAU RE32B - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.276Y,NSI-011/NOG,A86EST,I,Niche sécurité NSI-011 - PAU RE32C - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.277A,NSI-012/NOG,A86EST,I,Niche sécurité NSI-012 - PAU RE32D - Tunnel de Nogent,NOGENT,sécurité,1,2,1
+L11.278C,NSW-001/CHE,N12,W,Niche sécurité NSW-001 - PAU VR37U - Tunnel de Chennevières,CHENNEVIERES,sécurité,1,2,1
+L11.279D,NSW-002/CHE,N12,W,Niche sécurité NSW-002 - PAU VR37S - Tunnel de Chennevières,CHENNEVIERES,sécurité,1,2,1
+L11.281F,NSW-003/CHE,N12,W,Niche sécurité NSW-003 - PAU VR37R - Tunnel de Chennevières,CHENNEVIERES,sécurité,1,2,1
+L11.282G,NSY-001/CHE,N12,Y,Niche sécurité NSY-001 - PAU VR37A - Tunnel de Chennevières,CHENNEVIERES,sécurité,1,2,1
+L11.283H,NSY-002/CHE,N12,Y,Niche sécurité NSY-002 - PAU VR37B - Tunnel de Chennevières,CHENNEVIERES,sécurité,1,2,1
+L11.284J,NSY-003/CHE,N12,Y,Niche sécurité NSY-003 - PAU VR37D - Tunnel de Chennevières,CHENNEVIERES,sécurité,1,2,1
+L11.285K,NSW-001/SEV,N315,W,Niche sécurité NSW-001 - PAU BU03S - Tunnel des Sévines,SEVINES,sécurité,1,2,1
+L11.286L,NSW-002/SEV,N315,W,Niche sécurité NSW-002 - PAU BU03T - Tunnel des Sévines,SEVINES,sécurité,1,2,1
+L11.287M,NSEW/SEV,N315,W,Niche sécurité NSEW - PAU BU03R - Entrée - Tunnel des Sévines,SEVINES,sécurité,1,2,0
+L11.288N,NSY-001/SEV,N315,Y,Niche sécurité NSY-001 - PAU BU03A - Tunnel des Sévines,SEVINES,sécurité,1,2,1
+L11.289P,NSY-002/SEV,N315,Y,Niche sécurité NSY-002 - PAU BU03B - Tunnel des Sévines,SEVINES,sécurité,1,2,1
+L11.291S,NSY-101/SEV,N315,Y,Niche sécurité NSY-101 - PAU BU03C - Sortie - Tunnel des Sévines,SEVINES,sécurité,1,2,0
+L11.292T,NSW-001/TAV,A115,W,Niche incendie NSW-001 Entrée Nord - Tunnel de Taverny,TAVERNY,incendie,0,2,1
+L11.293U,NSW-002/TAV,A115,W,Niche sécurité NSW-002 - PAU AT07S - Tunnel de Taverny,TAVERNY,sécurité,1,2,1
+L11.294V,NSW-003/TAV,A115,W,Niche sécurité NSW-003 - PAU AT07T - Tunnel de Taverny,TAVERNY,sécurité,1,2,1
+L11.295W,NSW-004/TAV,A115,W,Niche incendie NSW-004 Sortie Sud - Tunnel de Taverny,TAVERNY,incendie,0,2,1
+L11.296X,NSY-001/TAV,A115,Y,Niche incendie NSY-001 Entrée Sud - Tunnel de Taverny,TAVERNY,incendie,0,2,1
+L11.297Y,NSY-002/TAV,A115,Y,Niche sécurité NSY-002 - PAU AT07A - Tunnel de Taverny,TAVERNY,sécurité,1,2,1
+L11.298A,NSY-003/TAV,A115,Y,Niche sécurité NSY-003 - PAU AT07B - Tunnel de Taverny,TAVERNY,sécurité,1,2,1
+L11.299C,NSY-004/TAV,A115,Y,Niche incendie NSY-004 Sortie Nord - Tunnel de Taverny,TAVERNY,incendie,0,2,1
+L11.339Y,NSEW/LAN,A1,W,Niche sécurité NSEW - PAU AL01R - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.341C,NSW-002/LAN,A1,W,Niche sécurité NSW-002 - PAU AL01T - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.342D,NSW-004/LAN,A1,W,Niche sécurité NSW-004 - PAU AL01V - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.343E,NSW-006/LAN,A1,W,Niche sécurité NSW-006 - PAU AL01X - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.344F,NSW-008/LAN,A1,W,Niche sécurité NSW-008 - PAU AL00R - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.345G,NSY-101/LAN,A1,Y,Niche sécurité NSY-101 - PAU AL01H - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.346H,NSY-009/LAN,A1,Y,Niche sécurité NSY-009 - PAU AL01F - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.347J,NSY-007/LAN,A1,Y,Niche sécurité NSY-007 - PAU AL01D - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.348K,NSY-005/LAN,A1,Y,Niche sécurité NSY-005 - PAU AL01B - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.349L,NSY-003/LAN,A1,Y,Niche sécurité NSY-003 - PAU AL00E - Tunnel du Landy,LANDY,sécurité,1,2,1
+L11.352P,NS01/BIC,A6B,W,Niche sécurité NS01 - PAU SB00W - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.353R,NS02/BIC,A6B,Y,Niche sécurité NS02 - PAU SB00F - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.354S,NS03/BIC,A6B,W,Niche sécurité NS03 - PAU SB00V - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.355T,NS04/BIC,A6B,Y,Niche sécurité NS04 - PAU SB00G - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.356U,NS05/BIC,A6B,W,Niche sécurité NS05 - PAU SB00U - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.357V,NS06/BIC,A6B,Y,Niche sécurité NS06 - PAU SB00H - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.358W,NS07/BIC,A6B,W,Niche sécurité NS07 - PAU SB00T - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.359X,NS08/BIC,A6B,Y,Niche sécurité NS08 - PAU SB00I - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.361A,NS09/BIC,A6B,W,Niche sécurité NS09 - PAU SB00S - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.362C,NS10/BIC,A6B,Y,Niche sécurité NS10 - PAU SB00J - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.363D,NS11/BIC,A6B,W,Niche sécurité NS11 - PAU SB00R - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.364E,NS12/BIC,A6B,Y,Niche sécurité NS12 - PAU SB00K - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.365F,NS13/BIC,A6B,W,Niche sécurité NS13 - PAU SB01V - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.366G,NS14/BIC,A6B,Y,Niche sécurité NS14 - PAU SB01A - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.367H,NS15/BIC,A6B,W,Niche sécurité NS15 - PAU SB01U - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.368J,NS16/BIC,A6B,Y,Niche sécurité NS16 - PAU SB01B - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.369K,NS17/BIC,A6B,W,Niche sécurité NS17 - PAU SB01T - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.371M,NS18/BIC,A6B,Y,Niche sécurité NS18 - PAU SB01C - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.372N,NS19/BIC,A6B,W,Niche sécurité NS19 - PAU SB01S - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.373P,NS20/BIC,A6B,Y,Niche sécurité NS20 - PAU SB01D - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.374R,NS21/BIC,A6B,W,Niche sécurité NS21 - PAU SB01R - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.375S,NS22/BIC,A6B,Y,Niche sécurité NS22 - PAU SB01E - Tunnel Bicêtre,BICETRE,sécurité,0,2,1
+L11.383A,ECH-NS-01 B5/DEF,A14XA86,W>I,Niche sécurité NS-01 sur Bretelle B5 - PAU NW04R - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,0,2,1
+L11.384C,ECH-NI-01 B5/DEF,A14XA86,W>I,Niche incendie NI-01 sur Bretelle B5 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,0,0
+L11.385D,ECH-NI-02 B5/DEF,A14XA86,W>I,Niche incendie NI-02 sur Bretelle B5 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,0,0
+L11.386E,ECH-NS-02 B5/DEF,A14XA86,W>I,Niche sécurité NS-02 sur Bretelle B5 - PAU NW04S - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,0,2,1
+L11.387F,ECH-NS-03 B5/DEF,A14XA86,W>I,Niche sécurité NS-03 sur Bretelle B5 - PAU NW04T - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,0,2,1
+L11.388G,ECH-NI-03 B5/DEF,A14XA86,W>I,Niche incendie NI-03 sur Bretelle B5 - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,incendie,1,0,0
+L11.389H,ECH-NS-04 B5/DEF,A14XA86,W>I,Niche sécurité NS-04 sur Bretelle B5 - PAU NW04U - Tunnel de Nanterre-La Défense,ECHANGEUR_NANTERRE,sécurité,0,2,1
+L11.516J,NSY-008/CLO,A13,Y,Niche sécurité NSY-008 - PAU MR04D - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,0
+L11.517K,NSW-007/CLO,A13,W,Niche sécurité NSW-007 - PAU MR03T - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.518L,NSW-008/CLO,A13,W,Niche sécurité NSW-008 - PAU MR03U - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.519M,NSW-009/CLO,A13,W,Niche sécurité NSW-009 - PAU MR03V - Tunnel de Saint-Cloud,SAINT-CLOUD,sécurité,1,2,1
+L11.521P,NIY-001/CLO,A13,Y,Niche incendie NIY-001 - Tunnel de Saint-Cloud,SAINT-CLOUD,incendie,1,0,0
+L11.522R,NIY-002/CLO,A13,Y,Niche incendie NIY-002 - Tunnel de Saint-Cloud,SAINT-CLOUD,incendie,1,0,0
+L11.523S,NIY-003/CLO,A13,Y,Niche incendie NIY-003 - Tunnel de Saint-Cloud,SAINT-CLOUD,incendie,1,0,0
+L11.524T,NIY-004/CLO,A13,Y,Niche incendie NIY-004 - Tunnel de Saint-Cloud,SAINT-CLOUD,incendie,1,0,0
+L11.525U,NIY-005/CLO,A13,Y,Niche incendie NIY-005 - Tunnel de Saint-Cloud,SAINT-CLOUD,incendie,1,0,0
+L11.526V,NIY-006/CLO,A13,Y,Niche incendie NIY-006 - Tunnel de Saint-Cloud,SAINT-CLOUD,incendie,1,0,0
+L11.527W,NIW-001/PAR,A13,W,Niche incendie NIW-001 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.528X,NIW-002/PAR,A13,W,Niche incendie NIW-002 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,2,0,0
+L11.529Y,NIW-003/PAR,A13,W,Niche incendie NIW-003 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,0,0,0
+L11.531C,NIW-004/PAR,A13,W,Niche incendie NIW-004 dans IS440 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.532D,NIW-005/PAR,A13,W,Niche incendie NIW-005 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.533E,NIW-006/PAR,A13,W,Niche incendie NIW-006 dans IS442 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.534F,NIW-007/PAR,A13,W,Niche incendie NIW-007 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.535G,NIW-008/PAR,A13,W,Niche incendie NIW-008 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.536H,NIW-009/PAR,A13,W,Niche incendie NIW-009 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.537J,NIY-001/PAR,A13,Y,Niche incendie NIY-001 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.538K,NIY-002/PAR,A13,Y,Niche incendie NIY-002 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.539L,NIY-003/PAR,A13,Y,Niche incendie NIY-003 dans IS432 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.541N,NIY-004/PAR,A13,Y,Niche incendie NIY-004 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.542P,NIY-005/PAR,A13,Y,Niche incendie NIY-005 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.543R,NIY-006/PAR,A13,Y,Niche incendie NIY-006 dans IS435 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.544S,NIY-007/PAR,A13,Y,Niche incendie NIY-007 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.545T,NIY-008/PAR,A13,Y,Niche incendie NIY-008 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.546U,NIY-009/PAR,A13,Y,Niche incendie NIY-009 - Tunnel Ambroise Paré,AMBROISE_PARE,incendie,1,0,0
+L11.552C,NS1/ITA,A6B,Y,Niche sécurité NS1 - PAU SB00A - Tunnel d'Italie,ITALIE,sécurité,0,2,1
+L11.553D,NS2/ITA,A6B,Y,Niche sécurité NS2 - PAU SB00B - Tunnel d'Italie,ITALIE,sécurité,0,2,1
+L11.554E,NS3/ITA,A6B,Y,Niche sécurité NS3 - PAU SB00C - Tunnel d'Italie,ITALIE,sécurité,0,2,1
+L11.555F,NS4/ITA,A6B,Y,Niche sécurité NS4 - PAU SB00D - Tunnel d'Italie,ITALIE,sécurité,0,2,1
+L11.556G,NS5/ITA,A6B,Y,Niche sécurité NS5 - PAU SB00E - Tunnel d'Italie,ITALIE,sécurité,0,2,1
+L11.557H,NS6/ITA,A6B,W,Niche sécurité NS6 - PAU SB00X - Tunnel d'Italie,ITALIE,sécurité,0,2,1
+L11.594C,NS-Y1,N19,Y,Niche sécurité NSY-001 - PAU BS17A - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.595D,NS-Y2,N19,Y,Niche sécurité NSY-002 - PAU BS17B - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.596E,NS-Y3,N19,Y,Niche sécurité NSY-003 - PAU BS17C - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.597F,NS-Y4,N19,Y,Niche sécurité NSY-004 - PAU BS17D - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.598G,NS-Y5,N19,Y,Niche sécurité NSY-005 - PAU BS18A - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.599H,NS-Y6,N19,Y,Niche sécurité NSY-006 - PAU BS18B - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.601K,NS-W1,N19,W,Niche sécurité NSW-001 - PAU BS18R - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.602L,NS-W2,N19,W,Niche sécurité NSW-002 - PAU BS18S - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.603M,NS-W3,N19,W,Niche sécurité NSW-003 - PAU BS17R - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.604N,NS-W4,N19,W,Niche sécurité NSW-004 - PAU BS17S - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.605P,NS-W5,N19,W,Niche sécurité NSW-005 - PAU BS17T - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.606R,NS-W6,N19,W,Niche sécurité NSW-006 - PAU BS17U - Tunnel de Boissy,BOISSY,sécurité,0,2,1
+L11.607S,NI-Y1,N19,Y,Niche incendie NIY-001 - Tunnel de Boissy,BOISSY,incendie,1,0,0
+L11.608T,NI-Y2,N19,Y,Niche incendie NIY-002 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.609U,NI-Y3,N19,Y,Niche incendie NIY-003 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.611W,NI-Y4,N19,Y,Niche incendie NIY-004 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.612X,NI-Y5,N19,Y,Niche incendie NIY-005 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.613Y,NI-Y6,N19,Y,Niche incendie NIY-006 - Tunnel de Boissy,BOISSY,incendie,1,0,0
+L11.614A,NI-W1,N19,W,Niche incendie NIW-001 - Tunnel de Boissy,BOISSY,incendie,1,0,0
+L11.615C,NI-W2,N19,W,Niche incendie NIW-002 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.616D,NI-W3,N19,W,Niche incendie NIW-003 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.617E,NI-W4,N19,W,Niche incendie NIW-004 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.618F,NI-W5,N19,W,Niche incendie NIW-005 - Tunnel de Boissy,BOISSY,incendie,0,0,0
+L11.619G,NI-W6,N19,W,Niche incendie NIW-006 - Tunnel de Boissy,BOISSY,incendie,1,0,0
+L11.643K,NSY-001/ORLY,N7,Y,Niche sécurité NSY-001 - PAU TY02A - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.646N,NSY-002/ORLY,N7,Y,Niche sécurité NSY-002 - PAU TY02B - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.648R,NSY-003/ORLY,N7,Y,Niche sécurité NSY-003 - PAU TY02C - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.649S,NSY-004/ORLY,N7,Y,Niche sécurité NSY-004 - PAU TY03A - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.652V,NSY-005/ORLY,N7,Y,Niche sécurité NSY-005 - PAU TY03B - Tunnel d'Orly,ORLY,sécurité,0,0,1
+L11.654X,NSY-006/ORLY,N7,Y,Niche sécurité NSY-006 - PAU TY03C - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.655Y,NSW-006/ORLY,N7,W,Niche sécurité NSW-006 - PAU TY03R - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.658D,NSW-005/ORLY,N7,W,Niche sécurité NSW-005 - PAU TY03S - Tunnel d'Orly,ORLY,sécurité,0,0,1
+L11.661G,NSW-004/ORLY,N7,W,Niche sécurité NSW-004 - PAU TY03T - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.662H,NSW-003/ORLY,N7,W,Niche sécurité NSW-003 - PAU TY02R - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.664K,NSW-002/ORLY,N7,W,Niche sécurité NSW-002 - PAU TY02S - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.666M,NSW-001/ORLY,N7,W,Niche sécurité NSW-001 - PAU TY02T - Tunnel d'Orly,ORLY,sécurité,0,2,1
+L11.742D,NSY-001/CHA,A4,Y,Niche sécurité NSY-001 - PAU MZ08A - Tunnel Dreyer,CHAMPIGNY,sécurité,1,2,1
+L11.769K,NSE/SAUSSAIE,A86EST,E,Niche sécurité en entrée - PAU RE45U - Couverture de la Saussaie,MOULIN,sécurité,1,2,1
+L11.771M,NSS/SAUSSAIE,A86EST,E,Niche sécurité en sortie - PAU RE45V - Couverture de la Saussaie,MOULIN,sécurité,1,2,1
+L11.804C,NSI-007/BOB,A86NORD,I,Niche sécurité NSI-007 - PAU RN21F - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.805D,NSI-009/BOB,A86NORD,I,Niche sécurité NSI-009 - PAU RN21G - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.806E,NSI-012/BOB,A86NORD,I,Niche sécurité NSI-012 - PAU RN21H - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.807F,NSE-007/BOB,A86NORD,E,Niche sécurité NSE-007 - PAU RN21V - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.808G,NSE-011/BOB,A86NORD,E,Niche sécurité NSE-011 - PAU RN20W - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.809H,NSE-009/BOB,A86NORD,E,Niche sécurité NSE-009 - PAU RN21W - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.811K,NSI-005/BOB,A86NORD,I,Niche sécurité NSI-005 - PAU RN20F - Tunnel de Bobigny,BOBIGNY,sécurité,1,2,1
+L11.861U,NSW-001/TRI,N192,W,Niche sécurité NSW-001 - PAU NG01T - Tunnel Trinity,TRINITY,sécurité,1,2,1
+L11.862V,NSW-002/TRI,N192,W,Niche sécurité NSW-002 - PAU NG01S - Tunnel Trinity,TRINITY,sécurité,1,2,1
+L11.863W,NSY-001/TRI,N192,Y,Niche sécurité NSY-001 - PAU NG01A - Tunnel Trinity,TRINITY,sécurité,1,2,1
+L11.864X,NSY-002/TRI,N192,Y,Niche sécurité NSY-002 - PAU NG01B - Tunnel Trinity,TRINITY,sécurité,1,2,1
+L11.902T,PN6-W,N19,W,Niche Inspection PN6-W - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.903U,PN7-W,N19,W,Niche Inspection PN7-W - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.904V,PN8-W,N19,W,Niche Inspection PN8-W - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.905W,PN9-W,N19,W,Niche Inspection PN9-W - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.906X,PN6-Y,N19,Y,Niche Inspection PN6-Y - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.907Y,PN7-Y,N19,Y,Niche Inspection PN7-Y - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.908A,PN8-Y,N19,Y,Niche Inspection PN8-Y - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.909C,PN9-Y,N19,Y,Niche Inspection PN9-Y - Tunnel de Boissy,BOISSY,Inspection,0,0,0
+L11.938L,NSY-002/FON,A12,Y,Niche sécurité NSY-002 - PAU LR05C - Tunnel de Fontenay,FONTENAY,sécurité,0,2,1
+L11.939M,NS-421a/FON,A12,Y,Niche incendie de l'issue de secours n°421a,FONTENAY,incendie,0,0,0
+L11.941P,NSY-003/FON,A12,Y,Niche sécurité NSY-003 - PAU LR05D - Tunnel de Fontenay,FONTENAY,sécurité,0,2,1
+L11.942R,NS-421b/FON,A12,Y,Niche incendie de l'issue de secours n°421b,FONTENAY,incendie,0,0,0
+L11.943S,NSW-002/FON,A12,W,Niche sécurité NSW-002 - PAU LR05T - Tunnel de Fontenay,FONTENAY,sécurité,0,2,1
+L11.944T,NS-423a/FON,A12,W,Niche incendie de l'issue de secours n°423a,FONTENAY,incendie,0,0,0
+L11.945U,NSW-003/FON,A12,W,Niche sécurité NSW-003 - PAU LR05U - Tunnel de Fontenay,FONTENAY,sécurité,0,2,1
+L11.946V,NS-423b/FON,A12,W,Niche incendie de l'issue de secours n°423b,FONTENAY,incendie,0,0,0
+L11.947W,NSEY/FON,A12,Y,Niche sécurité - Entré Y - PAU LR05A - Tunnel de Fontenay,FONTENAY,sécurité,1,2,1
+L11.948X,NSSY/FON,A12,Y,Niche sécurité - Sortie Y - PAU LR05F - Tunnel de Fontenay,FONTENAY,sécurité,0,2,1
+L11.949Y,NSEW/FON,A12,W,Niche sécurité - Entré W - PAU LR05R - Tunnel de Fontenay,FONTENAY,sécurité,1,2,1
+L11.951C,NSSW/FON,A12,W,Niche sécurité - Sortie W - PAU LR05W - Tunnel de Fontenay,FONTENAY,sécurité,0,2,1
+L11.959L,NAN-NSEE/DEF,A86OUEST,E,Niche sécurité NSEE/NAN - PAU RW80R - Tunnel de Nanterre-La Défense,NANTERRE_CENTRE,sécurité,0,0,0
