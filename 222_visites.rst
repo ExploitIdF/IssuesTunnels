@@ -3,22 +3,23 @@ Visites bimestrielles des issues et des niches
 
 Regroupement des issues pour les visites bimestrielles
 *********************************************************
-Les visites des issues et des niches doivent se faire la nuit, lorsque le tunnel est fermé à la circulation.
+Les visites bimestrielles (tous les 2 mois) des issues et des niches doivent se faire la nuit, lorsque le tunnel est fermé à la circulation.
 Il y a peut-être cependant des exceptions, telles que celle du tunnel d'Orly où les issues ne débouchent pas sur la chaussée.
 
-   les PCTT pourraient faire remonter les cas pour lesquels ils pensent que la visite pourrait se faire de jour.
+      les PCTT pourraient faire remonter les cas pour lesquels ils pensent que la visite pourrait se faire de jour.
 
 Pour économiser les moyens et en particulier le nombre de nuits d'interventions, il y a lieu de regrouper les visites, autant que possible.
+
+Dès lors le BPU du marché comprendra un prix pour chacun de ces regroupements que l'on désigne par le terme **Fermeture**.
+
 Certains tunnels (Chennevières, Sévines, Taverny ???) sont frequemment fermés dans les deux sens en même temps. Les deux sens pourraient à ce titre être regroupés.
 
-   Avis des PCTT sur ces regroupements ?
-
-
+      Avis des PCTT sur ces regroupements ? Permettront-ils de faire les 6 visites par an ?
 
 Dans les cas simples, par exemple pour le Landy, Nogent, Fontenay, le regroupement des issues et niches correspond à un sens du tunnel.
 
-Cependant, les fermetures de certains tunnels se font de manière concomittante et il faut, dans ce cas, les regrouper 
-les issues des sections fermées simultanément. 
+Cependant, les fermetures de certains tunnels se font de manière concomittante et il faut, dans ce cas, regrouper 
+les visites des issues des sections fermées simultanément. 
 
 Cette situation concerne les groupes de tunnels suivants :
 
@@ -36,7 +37,7 @@ Le cas des bretelles du complexe A14&A86 présente une situation singulière.
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
 mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E>W, A4E>Y, A5 - W>I, A8 - I>W) il faut faire un choix entre l'une ou l'autre des fermetures.
 
-On propose des regroupements d'issues que l'on désigne par le terme **Fermeture**.  Les 28 fermetures sont présentées dans le tableau suivant. 
+On propose  28 fermetures sont présentées dans le tableau suivant. 
 
    Ce tableau pourra être mis à jours sur la base des retours des PCTT.
 
