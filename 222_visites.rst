@@ -36,16 +36,17 @@ Le cas des bretelles du complexe A14&A86 présente une situation singulière.
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
 mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E>W, A4E>Y, A5 - W>I, A8 - I>W) il faut faire un choix entre l'une ou l'autre des fermetures.
 
-On propose des regroupements d'issues que l'on désigne par le terme **Fermeture**, ils sont présentés dans le tableau suivant. 
+On propose des regroupements d'issues que l'on désigne par le terme **Fermeture**.  Les 28 fermetures sont présentées dans le tableau suivant. 
 
    Ce tableau pourra être mis à jours sur la base des retours des PCTT.
 
-Chaque ligne représente une **fermeture**. La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. 
+Chaque ligne du tableau représente une **fermeture**. 
+La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. 
 La deuxième colonne donne le nombre total d'issues concernées.
 La troisième colonne contient la liste des tunnels et sens avec le nombre d'issues associées qui est précisé entre parenthèses.
 
 .. csv-table::
-   :header: Fermeture,Nombre d'issues, Tunnel-Sens_(Nombre d'issues)
+   :header: Nom de la fermeture, Nombre d'issues, Tunnel-Sens_(Nombre d'issues)
    :width: 80%
 
       A14&NEU-W,34,A14-W_(24); ECH-E>W_(4); ECH-I>W_(2); ECH-W_(1); NEU-W_(3)
