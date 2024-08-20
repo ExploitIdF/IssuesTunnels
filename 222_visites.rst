@@ -3,11 +3,21 @@ Visites bimestrielles des issues et des niches
 
 Regroupement des issues pour les visites bimestrielles
 *********************************************************
-Les visites des issues et des niches doivent se faire la nuit lorsque le tunnel est fermé à la circulation.
+Les visites des issues et des niches doivent se faire la nuit, lorsque le tunnel est fermé à la circulation.
+Il y a peut-être cependant des exceptions, telles que celle du tunnel d'Orly où les issues ne débouchent pas sur la chaussée.
 
-Dans les cas simples, par exemple pour le Landy, Nogent, Orly, Fontenay, le regroupement des issues et niches correspond à un sens du tunnel.
+   les PCTT pourraient faire remonter les cas pour lesquels ils pensent que la visite pourrait se faire de jour.
 
-Cependant, les fermetures de certains tunnels se font de manière concomittante et il faut, dans ce cas, regrouper 
+Pour économiser les moyens et en particulier le nombre de nuits d'interventions, il y a lieu de regrouper les visites, autant que possible.
+Certains tunnels (Chennevières, Sévines, Taverny ???) sont frequemment fermés dans les deux sens en même temps. Les deux sens pourraient à ce titre être regroupés.
+
+   Avis des PCTT sur ces regroupements ?
+
+
+
+Dans les cas simples, par exemple pour le Landy, Nogent, Fontenay, le regroupement des issues et niches correspond à un sens du tunnel.
+
+Cependant, les fermetures de certains tunnels se font de manière concomittante et il faut, dans ce cas, les regrouper 
 les issues des sections fermées simultanément. 
 
 Cette situation concerne les groupes de tunnels suivants :
@@ -20,7 +30,7 @@ Cette situation concerne les groupes de tunnels suivants :
 * Boulogne-Ambroise-Paré & Saint-Cloud
 * A14 & Neuilly(1)
 
-\(1) L'association n'est pas systématique mais assez fréquente pour que l'on puisse se limiter à cette situation
+\(1) L'association des fermetures n'est pas systématique, mais assez fréquente chaque année pour que l'on puisse se limiter à ces fermetures.
 
 Le cas des bretelles du complexe A14&A86 présente une situation singulière. 
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
@@ -28,7 +38,11 @@ mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E
 
 On propose des regroupements d'issues que l'on désigne par le terme **Fermeture**, ils sont présentés dans le tableau suivant. 
 
-Chaque ligne représente une **fermeture**. La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. La seconde colonne contient la liste des tunnels et sens avec le nombre d'issues  associées qui est précisé entre parenthèses.
+   Ce tableau pourra être mis à jours sur la base des retours des PCTT.
+
+Chaque ligne représente une **fermeture**. La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. 
+La deuxième colonne donne le nombre total d'issues concernées.
+La troisième colonne contient la liste des tunnels et sens avec le nombre d'issues associées qui est précisé entre parenthèses.
 
 .. csv-table::
    :header: Fermeture,Nombre d'issues, Tunnel-Sens_(Nombre d'issues)
@@ -46,8 +60,7 @@ Chaque ligne représente une **fermeture**. La première colonne est la désigna
       BOI-Y,4,BOI-Y_(4)
       CHA-W,6,CHA-W_(6)
       CHA-Y,7,CHA-Y_(7)
-      CHE-W,1,CHE-W_(1)
-      CHE-Y,1,CHE-Y_(1)
+      CHE,2,CHE-W_(1); CHE-Y_(1)
       FLF-W,4,FLF-W_(4)
       FLF-Y,4,FLF-Y_(4)
       FRE&ANT-E,6,ANT-E_(5); FRE-E_(1)
@@ -60,9 +73,7 @@ Chaque ligne représente une **fermeture**. La première colonne est la désigna
       NAN&RUE-I,16,ECH-W>I_(2); ECH-Y>I_(1); NAN-I_(6); RUE-I_(7)
       NOG-E,9,NOG-E_(9)
       NOG-I,10,NOG-I_(10)
-      ORL-W,1,ORL-W_(1)
-      ORL-Y,1,ORL-Y_(1)
-      SEV-W,3,SEV-W_(3)
-      SEV-Y,3,SEV-Y_(3)
-      TAV-W,3,TAV-W_(3)
-      TAV-Y,3,TAV-Y_(3)
+      ORL,2,ORL-W_(1); ORL-Y_(1)
+      SEV,6,SEV-W_(3); SEV-Y_(3)
+      TAV,6,TAV-W_(3); TAV-Y_(3)
+
