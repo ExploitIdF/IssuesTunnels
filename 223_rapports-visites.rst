@@ -51,6 +51,8 @@ Le commentaire décrit le défaut constaté, il indique les actions réalisées 
 
 Format du fichier transmis
 ===========================
+la syntaxe exacte est décrite ci-dessous. 
+La conformité à cette spécification sera vérifiée et conditionnera le constat de la prestation.
 
 .. code-block:: 
 
