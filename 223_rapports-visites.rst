@@ -60,7 +60,12 @@ La conformité à cette spécification sera vérifiée et conditionnera le const
     "horodate":"<yy/mm/dd HH:MM>",
     "code_issue":"ISNNNX",
     "nom_intervenant":"<nom_intervenant>"
-    "PorteTunnelNote":"N" , "PorteExterieureNote":"N", "PorteInterieureNote":"N", "PropreteNote":"N", "VacuiteNote":"N" , "EclairageNote":"N"
+    "PorteTunnelNote":"N" , 
+    "PorteExterieureNote":"N", 
+    "PorteInterieureNote":"N", 
+    "PropreteNote":"N", 
+    "VacuiteNote":"N" , 
+    "EclairageNote":"N"
     "PorteTunnelCom":"<Commentaire (<1000 caractères)>",
     "PorteExterieureCom":"<Commentaire (<1000 caractères)>",
     "PorteInterieureCom":"<Commentaire (<1000 caractères)>",
@@ -69,6 +74,13 @@ La conformité à cette spécification sera vérifiée et conditionnera le const
     "EclairageCom":"<Commentaire (<1000 caractères)>"
   }
 
+Rédaction dans le RdC de ce que les candidats doivent indiquer dans leur offre
+================================================================================
+Pour démontrer leur capacité à répondre à l'attente de la DIRIF les candidats devront développer les points suivants dans leur offre:
+
+* Description de la mise en oeuvre d'applications mobiles dans le cadre de prestations, matériels et outils logiciels utilisés, 
+* Formation des agents envisagée,
+* Risque anticipés et mesures de réduction des risques
 
 
 
