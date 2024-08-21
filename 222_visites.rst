@@ -3,20 +3,24 @@ Visites bimestrielles des issues et des niches
 
 Regroupement des issues pour les visites bimestrielles
 *********************************************************
-Les visites bimestrielles (tous les 2 mois) des issues et des niches doivent se faire la nuit, lorsque le tunnel est fermé à la circulation.
-Il y a peut-être cependant des exceptions, telles que celle du tunnel d'Orly où les issues ne débouchent pas sur la chaussée.
+Pour la sécurité des intervenants, les visites bimestrielles (tous les 2 mois) des issues de secours et des niches 
+doivent être faites la nuit, lorsque le tunnel est fermé à la circulation.
 
-      les PCTT pourraient faire remonter les cas pour lesquels ils pensent que la visite pourrait se faire de jour.
+      Il y a peut-être des exceptions, telles que celle du tunnel d'Orly où les issues ne débouchent pas sur la chaussée.
+      les PCTT pourraient faire remonter les cas pour lesquels ils pensent que la visite bimestrielle pourrait se faire de jour.
+      Dans la mesure où nous envisageons que les intervenants effectuent des gestes de propreté dansle tunnel, le besoin de faire la visite hors circulation pourrait ne pas seulement dépendre de la porte de l'issue vers le tunnel.
 
-Pour économiser les moyens et en particulier le nombre de nuits d'interventions, il y a lieu de regrouper les visites, autant que possible.
+Pour économiser les moyens et en particulier le nombre de nuits d'interventions, il y a lieu d'organiser le regroupement les visites, autant que possible.
+On désignera par le terme **Fermeture** un groupe d'issues dont les visites doivent être faites pendant une nuit. Le nombre d'issues dans une fermeture peut être faible comme dans le tunnel d'Orly. Il peut être élevé pour un sens de l'A14, cette fermeture comprendra des issues de l'échangeur de Nanterre et du tunnel de Neuilly.
 
-Dès lors le BPU du marché comprendra un prix pour chacun de ces regroupements que l'on désigne par le terme **Fermeture**.
-
-Certains tunnels (Chennevières, Sévines, Taverny ???) sont frequemment fermés dans les deux sens en même temps. Les deux sens pourraient à ce titre être regroupés.
-
-      Avis des PCTT sur ces regroupements ? Permettront-ils de faire les 6 visites par an ?
+Dès lors le BPU du marché comprendra un prix pour chacune de ces **fermetures**.
 
 Dans les cas simples, par exemple pour le Landy, Nogent, Fontenay, le regroupement des issues et niches correspond à un sens du tunnel.
+
+Certains tunnels (Chennevières, Sévines, Taverny ???) sont frequemment fermés dans les deux sens en même temps. 
+Les deux sens pourraient à ce titre être regroupés dans une même fermeture.
+
+      Avis des PCTT sur ces regroupements ? Permettront-ils de faire les 6 visites par an dans ces tunnels ?
 
 Cependant, les fermetures de certains tunnels se font de manière concomittante et il faut, dans ce cas, regrouper 
 les visites des issues des sections fermées simultanément. 
@@ -37,7 +41,7 @@ Le cas des bretelles du complexe A14&A86 présente une situation singulière.
 Pour les bretelles simples, d'entrée ou de sortie, leur rattachement à la section courante est évidente, 
 mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E>W, A4E>Y, A5 - W>I, A8 - I>W) il faut faire un choix entre l'une ou l'autre des fermetures.
 
-On propose  28 fermetures sont présentées dans le tableau suivant. 
+On propose de répartir les issues entre les 28 fermetures qui sont présentées dans le tableau suivant. 
 
    Ce tableau pourra être mis à jours sur la base des retours des PCTT.
 
