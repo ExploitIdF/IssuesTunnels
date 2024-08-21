@@ -8,12 +8,21 @@ doivent être faites la nuit, lorsque le tunnel est fermé à la circulation.
 
       Il y a peut-être des exceptions, telles que celle du tunnel d'Orly où les issues ne débouchent pas sur la chaussée.
       les PCTT pourraient faire remonter les cas pour lesquels ils pensent que la visite bimestrielle pourrait se faire de jour.
-      Dans la mesure où nous envisageons que les intervenants effectuent des gestes de propreté dansle tunnel, le besoin de faire la visite hors circulation pourrait ne pas seulement dépendre de la porte de l'issue vers le tunnel.
+      Dans la mesure où nous envisageons que les intervenants effectuent des gestes de propreté dans le tunnel, le besoin de faire la visite hors circulation pourrait ne pas seulement dépendre de la porte de l'issue vers le tunnel.
+
+      Pour les cas où il y a moins de 10 issues à visiter, le travail pourrait être réalisé dans la nuit par un seul intervenant. 
+      Est-ce que cela est possible ? 
+      Existe-t-il des contraintes pratiques ou règlementaires qui empèchent cette option ?
+      Un éclairage des PCTT sur ce point serait utile. 
+      Pour quelles interventions de maintenance est il possible d'avoir un *agent seul* ?
 
 Pour économiser les moyens et en particulier le nombre de nuits d'interventions, il y a lieu d'organiser le regroupement les visites, autant que possible.
-On désignera par le terme **Fermeture** un groupe d'issues dont les visites doivent être faites pendant une nuit. Le nombre d'issues dans une fermeture peut être faible comme dans le tunnel d'Orly. Il peut être élevé pour un sens de l'A14, cette fermeture comprendra des issues de l'échangeur de Nanterre et du tunnel de Neuilly.
+On désignera par le terme **Fermeture** un groupe d'issues dont les visites doivent être faites pendant une nuit. 
 
-Dès lors le BPU du marché comprendra un prix pour chacune de ces **fermetures**.
+Le nombre d'issues dans une fermeture peut être faible, comme dans le tunnel d'Orly. 
+Il peut être élevé pour un sens de l'A14, cette fermeture comprendra des issues de l'échangeur de Nanterre et du tunnel de Neuilly.
+
+Le BPU du marché comprendra un prix pour chacune de ces **fermetures**.
 
 Dans les cas simples, par exemple pour le Landy, Nogent, Fontenay, le regroupement des issues et niches correspond à un sens du tunnel.
 
