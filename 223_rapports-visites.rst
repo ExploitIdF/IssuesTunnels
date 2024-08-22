@@ -5,12 +5,12 @@ Objectifs
 Pour les visites bimestrielles des issues de secours qui est une nouvelle prestation introduite dans le marché Bâtiment, le DETT a choisi de demander au prestataire 
 de produire *en temps réel* un rapport dématérialisé pour chaque issue visitée.
 
-Pour le succés de cet objectif, il faut examiner les implications pour les parties concernées et prévoir plusieurs actions :
+Pour le succès de cet objectif, il faut examiner les implications pour les parties concernées et prévoir plusieurs actions :
 
 * Rédaction (dans le CCTP) des spécifications des rapports demandés, de leur mode de production et de transmission
 * Rédaction dans le RdC de ce que les candidats doivent indiquer dans leur offre à ce sujet
 * Elaboration des outils pour la formation des TDM
-* Developpement par le DETT du SI pour l'aquisition des rapports, le traitement des données et leur restitution pour les PCTT.
+* Développement par le DETT du SI pour l’acquisition des rapports, le traitement des données et leur restitution pour les PCTT.
 * Developpement par le titulaire de l'application de saisie des informations nécessaires et de transmission. L'application fonctionnera sur un terminal mobile (Smartphone ou tablette) dont seront équipés les intervenants.
 
 Spécification du reporting
@@ -32,8 +32,8 @@ Un rapport est produit pour chaque issue visitée.
 Le rapport porte sur les 6 éléments suivants :
 
 * Porte Tunnel (Première porte depuis le tunnel vers l'issue) 
-* Porte Exterieure (Porte de l'issue vers l'extérieur c'est à dire à l'air libre)
-* PorteInterieure (La ou les portes intermédiaires)
+* Porte Extérieure (Porte de l'issue vers l'extérieur c'est à dire à l'air libre)
+* Porte Intérieure (La ou les portes intermédiaires)
 * Proprete (Il s'agit de signaler la présence initiale de détritus ou de salissures notables et de mentionner, si le défaut a pu être corrigé pendant la visite, les actions réalisées par l'intervenant et les actions éventuellement nécessaire pour corriger le défaut)
 * Vacuite (Il s'agit de signaler si des objets gênent le passage, si le défaut a pu être corrigé pendant la visite, les actions réalisées par l'intervenant et les actions éventuellement nécessaire pour corriger le défaut)
 * Eclairage (Etat de fonctionnement des dispositifs d'éclairage à l'intérieur de l'issue)
@@ -53,7 +53,7 @@ Le commentaire décrit le défaut constaté, il indique les actions réalisées 
 
 Format du fichier transmis
 ===========================
-la syntaxe exacte est décrite ci-dessous. 
+La syntaxe exacte est décrite ci-dessous. 
 La conformité à cette spécification sera vérifiée et conditionnera le constat de la prestation.
 
 .. code-block:: 
@@ -83,6 +83,26 @@ Pour démontrer leur capacité à répondre à l'attente de la DIRIF les candida
 * Description de la mise en oeuvre d'applications mobiles dans le cadre de prestations, matériels et outils logiciels utilisés, 
 * Formation des agents envisagée,
 * Risques anticipés et mesures de réduction des risques
+
+Elaboration des outils pour la formation des TDM
+================================================
+Les TDM sont en première ligne, au contact des intervenants qui doivent produire les rapports. 
+Ils doivent être en mesure d'expliquer et de justifier la nouvelle pratique.
+
+Un guide de la mise en oeuvre des visites bimestrielles doit être rédigé à l'intention des TDM et des intervenants de l'entreprise.
+Une esquisse de ce guide sera annexée au CCTP et devra être finalisé par le titulaire dans la phase d'initialisation.
+Le guide développera les étapes suivantes :
+
+* Commande des prestations par le PCTT
+* Proposition par le titulaire des dates d'intervention, sur la base du calendrier des fermetures annuelles
+* Validation du calendrier par le PCTT
+* Information du titulaire sur les évolutions du calendrier
+* Confirmation de l'intervention 15(??) jours avant
+* Réalisation des visites
+* Contrôle par le TDM des rapports et information du titulaire sur les anomalies éventuelles
+* Transmission par le titulaire des rapports corrigés
+* Validation du service fait avec éventuelles réfactions en cas d'anomalies majeures
+
 
 
 
