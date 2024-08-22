@@ -2,7 +2,7 @@ Rapport des visites bimestrielles des issues de secours
 #############################################################
 Objectifs
 *************************
-Pour les visites bimestrielles des issues de secours qui est une nouvelle prestation introduite dans le marché Bâtiment, le DETT a choisi de demander au prestataire 
+Pour les visites bimestrielles des issues de secours qui sont une nouvelle prestation introduite dans le marché Bâtiment, le DETT a choisi de demander au prestataire 
 de produire *en temps réel* un rapport dématérialisé pour chaque issue visitée.
 
 Pour le succès de cet objectif, il faut examiner les implications pour les parties concernées et prévoir plusieurs actions :
@@ -17,7 +17,8 @@ Spécification du reporting
 ****************************
 Saisie et transmission
 =======================
-Pour la saisie des données alimentant le reporting, l'intervenant qui effectue la visite d'une issue sera muni d'un terminal informatique. Si plusieurs agents visitent parallèlement des issues de la même fermeture, chacun de ces agents devra être équipé d'un terminal pour que les saisies soient réalisées in-situ.
+Pour la saisie des données alimentant le reporting, l'intervenant qui effectue la visite d'une issue sera muni d'un terminal informatique (smartphone ou tablette). 
+Si plusieurs agents visitent parallèlement des issues de la même fermeture, chacun de ces agents devra être équipé d'un terminal pour que les saisies soient réalisées in-situ.
 
 Pour chaque issue, un rapport sera enregistré par l'agent et transmis par l'application, dès la fin de la visite de l'issue. 
 
@@ -25,9 +26,9 @@ Le serveur DiRIF fera un enregistrement du rapport et enverra un accusé de réc
 
 Si l'accusé de réception signale une anomalie que l'agent peut corriger, celui-ci pourra envoyer un nouveau rapport corrigé.
 
-Information à enregistrer
-===========================
-Un rapport est produit pour chaque issue visitée.
+Information à enregistrer lors de la visite
+=============================================
+Un fichier est produit pour chaque issue visitée.
 
 Le rapport porte sur les 6 éléments suivants :
 
@@ -38,12 +39,12 @@ Le rapport porte sur les 6 éléments suivants :
 * Vacuite (Il s'agit de signaler si des objets gênent le passage, si le défaut a pu être corrigé pendant la visite, les actions réalisées par l'intervenant et les actions éventuellement nécessaire pour corriger le défaut)
 * Eclairage (Etat de fonctionnement des dispositifs d'éclairage à l'intérieur de l'issue)
 
-Pour chaque élément, une note est attribuée : 0(HS) ,1 (Défaut) ,2(OK)
+Pour chaque élément, une note est attribuée : 0(HS) ,1 (Défaut mineur) ,2(OK)
 
-La note 0 doit être donnée si le défaut supprime une fonction essentielle de l'élément et si l'agent n'a pas pu rétablir la fonction pendant la visite.
+La note 0 doit être donnée si un défaut constaté supprime une fonction essentielle de l'élément et si l'agent n'a pas pu rétablir la fonction pendant la visite.
 Cette note signifie qu'une action corrective devra être programmée à court terme.
 
-La note 1 doit être donnée si un défaut notable a été constaté et l'agent a pu rétablir pendant la visite les fonctions essentielles éventuellement altérées.
+La note 1 doit être donnée si un défaut notable a été constaté et si l'agent a pu rétablir pendant la visite les fonctions essentielles éventuellement altérées.
 
 La note 2 doit être donnée si aucun défaut notable n'a été constaté.
 
@@ -60,7 +61,8 @@ La conformité à cette spécification sera vérifiée et conditionnera le const
 
   {
     "horodate":"<yy/mm/dd HH:MM>",
-    "code_issue":"ISNNNX",
+    "OT":"NNNNN",
+    "Tatouage":"ISNNNX",
     "nom_intervenant":"<nom_intervenant>"
     "PorteTunnelNote":"N" , 
     "PorteExterieureNote":"N", 
@@ -75,6 +77,12 @@ La conformité à cette spécification sera vérifiée et conditionnera le const
     "VacuiteCom":"<Commentaire (<1000 caractères)>",
     "EclairageCom":"<Commentaire (<1000 caractères)>"
   }
+
+Confirmation du serveur
+========================
+Suite à la réception du fichier, le serveur envoie un message  a une adresse fournie par le prestataire pour confirmer la réception d'un fichier conforme ou pour signaler une anomalie dans le format du fichier.
+
+
 
 Rédaction dans le RdC de ce que les candidats doivent indiquer dans leur offre
 ================================================================================
