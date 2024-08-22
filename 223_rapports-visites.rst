@@ -2,12 +2,14 @@ Rapport des visites bimestrielles des issues de secours
 #############################################################
 Objectifs
 *************************
-Pour cette nouvelle prestation, le DETT a choisi de demander au prestataire un rapport dématérialisé.
+Pour les visites bimestrielles des issues de secours qui est une nouvelle prestation introduite dans le marché Bâtiment, le DETT a choisi de demander au prestataire 
+de produire *en temps réel* un rapport dématérialisé pour chaque issue visitée.
 
-Pour le succés de cet objectif, il faut prévoir plusieurs actions :
+Pour le succés de cet objectif, il faut examiner les implications pour les parties concernées et prévoir plusieurs actions :
 
 * Rédaction (dans le CCTP) des spécifications des rapports demandés, de leur mode de production et de transmission
 * Rédaction dans le RdC de ce que les candidats doivent indiquer dans leur offre à ce sujet
+* Elaboration des outils pour la formation des TDM
 * Developpement par le DETT du SI pour l'aquisition des rapports, le traitement des données et leur restitution pour les PCTT.
 * Developpement par le titulaire de l'application de saisie des informations nécessaires et de transmission. L'application fonctionnera sur un terminal mobile (Smartphone ou tablette) dont seront équipés les intervenants.
 
@@ -80,7 +82,7 @@ Pour démontrer leur capacité à répondre à l'attente de la DIRIF les candida
 
 * Description de la mise en oeuvre d'applications mobiles dans le cadre de prestations, matériels et outils logiciels utilisés, 
 * Formation des agents envisagée,
-* Risque anticipés et mesures de réduction des risques
+* Risques anticipés et mesures de réduction des risques
 
 
 
