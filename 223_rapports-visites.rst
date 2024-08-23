@@ -3,7 +3,7 @@ Rapport des visites bimestrielles des issues de secours
 Objectifs
 *************************
 Pour les visites bimestrielles des issues de secours qui sont une nouvelle prestation introduite dans le marché Bâtiment, le DETT a choisi de demander au prestataire 
-de produire *en temps réel* un rapport dématérialisé pour chaque issue visitée.
+de produire *en temps réel* un rapport dématérialisé pour chaque issue visitée (à confirmer ...).
 
 Pour le succès de cet objectif, il faut examiner les implications pour les parties concernées et prévoir plusieurs actions :
 
@@ -35,8 +35,8 @@ Le rapport porte sur les 6 éléments suivants :
 * Porte Tunnel (Première porte depuis le tunnel vers l'issue) 
 * Porte Extérieure (Porte de l'issue vers l'extérieur c'est à dire à l'air libre)
 * Porte Intérieure (La ou les portes intermédiaires)
-* Proprete (Il s'agit de signaler la présence initiale de détritus ou de salissures notables et de mentionner, si le défaut a pu être corrigé pendant la visite, les actions réalisées par l'intervenant et les actions éventuellement nécessaire pour corriger le défaut)
-* Vacuite (Il s'agit de signaler si des objets gênent le passage, si le défaut a pu être corrigé pendant la visite, les actions réalisées par l'intervenant et les actions éventuellement nécessaire pour corriger le défaut)
+* Propreté (Il s'agit de signaler la présence initiale de détritus ou de salissures notables et de mentionner, si le défaut a pu être corrigé pendant la visite, les actions réalisées par l'intervenant et les actions éventuellement nécessaire pour corriger le défaut)
+* Vacuité (Il s'agit de signaler si des objets gênent le passage, si le défaut a pu être corrigé pendant la visite, les actions réalisées par l'intervenant et les actions éventuellement nécessaire pour corriger le défaut)
 * Eclairage (Etat de fonctionnement des dispositifs d'éclairage à l'intérieur de l'issue)
 
 Pour chaque élément, une note est attribuée : 0(HS) ,1 (Défaut mineur) ,2(OK)
@@ -85,7 +85,7 @@ Suite à la réception du fichier, le serveur envoie un message  a une adresse f
 
 
 Rédaction dans le RdC de ce que les candidats doivent indiquer dans leur offre
-================================================================================
+****************************************************************************************************************
 Pour démontrer leur capacité à répondre à l'attente de la DIRIF les candidats devront développer les points suivants dans leur offre:
 
 * Description de la mise en oeuvre d'applications mobiles dans le cadre de prestations, matériels et outils logiciels utilisés, 
@@ -93,12 +93,13 @@ Pour démontrer leur capacité à répondre à l'attente de la DIRIF les candida
 * Risques anticipés et mesures de réduction des risques
 
 Elaboration des outils pour la formation des TDM
-================================================
+********************************************************
 Les TDM sont en première ligne, au contact des intervenants qui doivent produire les rapports. 
 Ils doivent être en mesure d'expliquer et de justifier la nouvelle pratique.
 
 Un guide de la mise en oeuvre des visites bimestrielles doit être rédigé à l'intention des TDM et des intervenants de l'entreprise.
 Une esquisse de ce guide sera annexée au CCTP et devra être finalisé par le titulaire dans la phase d'initialisation.
+
 Le guide développera les étapes suivantes :
 
 * Commande des prestations par le PCTT
