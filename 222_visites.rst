@@ -1,20 +1,18 @@
 Visites bimestrielles des issues et des niches
 ####################################################
+Décision prise
+*****************
+En 2023, à l'occasion de l'instruction des DS A13 (BAP & SCL), la DiRIF s'est engagée à effectuer des visites bimestrielles dans tous les tunnels, pour vérifier les CME des issues.
+Il s'agit d'un contrôle fonctionnel limité à la porte du tunnel, au fonctionnement de l'éclairage et à la vérification de la vacuité.
+Cette tâche doit être réalisée par un prestataire dans le cadre du marché Batiment, mais les PCTT peuvent aussi réaliser en  régie tout ou partie des visites s'ils en ont les moyens.
+
+Dans le travail de préparation de la mise en oeuvre de cette décision. On a complété la description de la prestation en ajoutant des tâches utiles et qui peuvent facilement être réalisées conjointement. Il s'agit de l'inspection des niches, de gestes de propreté, d'observation des autres portes que la porte tunnel et de constat de fonctionnement de la surpression. Aucune de ces tâches ne fait appel à la GTC.
+
 
 Regroupement des issues pour les visites bimestrielles
 *********************************************************
 Pour la sécurité des intervenants, les visites bimestrielles (tous les 2 mois) des issues de secours et des niches 
 doivent être faites la nuit, lorsque le tunnel est fermé à la circulation.
-
-      Il y a peut-être des exceptions, telles que celle du tunnel d'Orly où les issues ne débouchent pas sur la chaussée.
-      les PCTT pourraient faire remonter les cas pour lesquels ils pensent que la visite bimestrielle pourrait se faire de jour.
-      Dans la mesure où nous envisageons que les intervenants effectuent des gestes de propreté dans le tunnel, le besoin de faire la visite hors circulation pourrait ne pas seulement dépendre de la porte de l'issue vers le tunnel.
-
-      Pour les cas où il y a moins de 10 issues à visiter, le travail pourrait être réalisé dans la nuit par un seul intervenant. 
-      Est-ce que cela est possible ? 
-      Existe-t-il des contraintes pratiques ou règlementaires qui empèchent cette option ?
-      Un éclairage des PCTT sur ce point serait utile. 
-      Pour quelles interventions de maintenance est il possible d'avoir un *agent seul* ?
 
 Pour économiser les moyens et en particulier le nombre de nuits d'interventions, il y a lieu d'organiser le regroupement les visites, autant que possible.
 On désignera par le terme **Fermeture** un groupe d'issues dont les visites doivent être faites pendant une nuit. 
@@ -28,8 +26,6 @@ Dans les cas simples, par exemple pour le Landy, Nogent, Fontenay, le regroupeme
 
 Certains tunnels (Chennevières, Sévines, Taverny ???) sont frequemment fermés dans les deux sens en même temps. 
 Les deux sens pourraient à ce titre être regroupés dans une même fermeture.
-
-      Avis des PCTT sur ces regroupements ? Permettront-ils de faire les 6 visites par an dans ces tunnels ?
 
 Cependant, les fermetures de certains tunnels se font de manière concomittante et il faut, dans ce cas, regrouper 
 les visites des issues des sections fermées simultanément. 
@@ -52,7 +48,7 @@ mais pour les brettelles de liaison entre A14 et A86 (A1 - Y>E, A2 - Y>I, A3 - E
 
 On propose de répartir les issues entre les 28 fermetures qui sont présentées dans le tableau suivant. 
 
-   Ce tableau pourra être mis à jours sur la base des retours des PCTT.
+   Ce tableau doit encore être mis à jours sur la base des retours des PCTT.
 
 Chaque ligne du tableau représente une **fermeture**. 
 La première colonne est la désignation de la fermeture construite sur la base des codes des tunnels qui la composent et du sens. 
