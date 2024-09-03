@@ -62,7 +62,7 @@ La conformité à cette spécification sera vérifiée et conditionnera le const
   {
     "horodate":"<yy/mm/dd HH:MM>",
     "OT":"NNNNN",
-    "Tatouage":"ISNNNX",
+    "Tatouage":"XNNXNNNX",
     "nom_intervenant":"<nom_intervenant>"
     "PorteTunnelNote":"N" , 
     "PorteExterieureNote":"N", 
