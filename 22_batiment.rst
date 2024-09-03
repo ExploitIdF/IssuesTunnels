@@ -5,6 +5,7 @@ Marché Bâtiment
    :hidden:
 
    222_visites
+   223_rapports-visites
 
 Conception du marché pour la maintenance des issues
 =====================================================
