@@ -5,7 +5,8 @@ Issues de secours
    :hidden:
    :maxdepth: 3
 
-   1_consistance
+   10_issues
+   14_niches
    2_maintenance
    5_ameliorations
 
