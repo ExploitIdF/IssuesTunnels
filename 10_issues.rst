@@ -11,8 +11,6 @@ Les issues de secours, c'est quoi ?
    16_portes
    18_surpression
    183_camera
-   191_niche
-
 
 On vise au travers de la notion d'issue de secours un ensemble de composantes qu'il est nécessaire d'identifier et de décrire. 
 Certaines composantes, comme la porte de séparation avec le tunnel, sont particulièrement importantes pour la sécurité. 
