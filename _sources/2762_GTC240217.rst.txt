@@ -1,0 +1,132 @@
+GTC AEV Tunnel Italie 17 février 2024 
+****************************************
+
+La table ci-dessous est le contenu du journal des consignations pendant l'événement.
+
+.. csv-table::
+   :header:     dt,description,equipement,evenement
+   :widths: 30, 30,30,30
+   :width: 100%
+    
+    2024-02-17 09:52:00,IS401    Déf dj plots jalonnemt circuit1,SENS Y SB00A / SB00B,Présente non acquittée
+    2024-02-17 09:52:00,IS401    Ferm dj plot jalonnemt circuit1,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 09:55:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 09:55:00,IS401    Accà¨s depuis tunnel,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 09:55:00,IS401    Marche éclairage renforcé,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 09:55:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 09:56:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 09:56:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 09:57:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 09:57:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 09:58:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 09:58:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 09:59:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 09:59:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:00:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:00:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:01:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:01:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:02:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:02:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:04:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:04:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:05:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:05:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:09:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:09:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:12:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:12:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:13:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:13:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:14:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:14:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:15:00,IS402    Détection de présence,SENS Y SB00C,Transition à  0
+    2024-02-17 10:15:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:15:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:15:00,IS402    Détection de présence,SENS Y SB00C,Transition à  1
+    2024-02-17 10:15:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  1
+    2024-02-17 10:15:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  0
+    2024-02-17 10:15:00,IS402    Retour marche surpression,SENS Y SB00C,Transition à  1
+    2024-02-17 10:15:00,IS402    Marche surpression,SENS Y SB00C,Transition à  1
+    2024-02-17 10:15:00,IS402    Alarme Intrusion en issue,SENS Y SB00C,Disparue non acquittée
+    2024-02-17 10:16:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  0
+    2024-02-17 10:16:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  1
+    2024-02-17 10:17:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:17:00,IS403    Détection de présence,SENS Y SB00D,Transition à  1
+    2024-02-17 10:17:00,IS403    Détection de présence,SENS Y SB00D,Transition à  0
+    2024-02-17 10:17:00,IS403    Accà¨s depuis tunnel,SENS Y SB00D,Transition à  1
+    2024-02-17 10:17:00,IS403    Marche éclairage renforcé,SENS Y SB00D,Transition à  1
+    2024-02-17 10:17:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:17:00,IS403    Accà¨s depuis tunnel,SENS Y SB00D,Transition à  0
+    2024-02-17 10:18:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:18:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:18:00,IS402    Alarme Intrusion en issue,SENS Y SB00C,Présente non acquittée
+    2024-02-17 10:20:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:20:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:30:00,IS402    Marche surpression,SENS Y SB00C,Transition à  0
+    2024-02-17 10:31:00,IS402    Retour marche surpression,SENS Y SB00C,Transition à  0
+    2024-02-17 10:32:00,IS403    Marche éclairage renforcé,SENS Y SB00D,Transition à  0
+    2024-02-17 10:33:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:33:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:34:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:34:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:35:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:35:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:36:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:36:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:37:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:37:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:39:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:39:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:42:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:42:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:45:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:45:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:46:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:46:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:47:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:47:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:48:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:48:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:55:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:55:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 10:56:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 10:56:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:01:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:01:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:06:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:06:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:07:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:08:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:10:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:10:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:12:00,IS401    Déf dj plots jalonnemt circuit1,SENS Y SB00A / SB00B,Disparue non acquittée
+    2024-02-17 11:13:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:13:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:14:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  0
+    2024-02-17 11:14:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  1
+    2024-02-17 11:14:00,IS402    Retour marche surpression,SENS Y SB00C,Transition à  1
+    2024-02-17 11:14:00,IS402    Alarme Intrusion en issue,SENS Y SB00C,Disparue non acquittée
+    2024-02-17 11:14:00,IS402    Marche surpression,SENS Y SB00C,Transition à  1
+    2024-02-17 11:15:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  1
+    2024-02-17 11:15:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  0
+    2024-02-17 11:16:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  0
+    2024-02-17 11:16:00,IS402    Accà¨s depuis tunnel,SENS Y SB00C,Transition à  1
+    2024-02-17 11:17:00,IS403    Déf dj écl nominal capot/ flash,SENS Y SB00D,Au repos
+    2024-02-17 11:17:00,IS402    Alarme Intrusion en issue,SENS Y SB00C,Présente non acquittée
+    2024-02-17 11:17:00,IS403    Marche éclairage renforcé,SENS Y SB00D,Transition à  1
+    2024-02-17 11:17:00,IS403    Accà¨s depuis tunnel,SENS Y SB00D,Transition à  0
+    2024-02-17 11:17:00,IS403    Ferm dj écl nominal capot flash,SENS Y SB00D,Transition à  1
+    2024-02-17 11:17:00,IS403    Accà¨s depuis tunnel,SENS Y SB00D,Transition à  1
+    2024-02-17 11:18:00,IS403    Accà¨s depuis tunnel,SENS Y SB00D,Transition à  0
+    2024-02-17 11:18:00,IS403    Accà¨s depuis tunnel,SENS Y SB00D,Transition à  1
+    2024-02-17 11:29:00,IS402    Marche surpression,SENS Y SB00C,Transition à  0
+    2024-02-17 11:29:00,IS402    Retour marche surpression,SENS Y SB00C,Transition à  0
+    2024-02-17 11:32:00,IS403    Marche éclairage renforcé,SENS Y SB00D,Transition à  0
+    2024-02-17 11:40:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:40:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:45:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:45:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:46:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  1
+    2024-02-17 11:46:00,IS401    Détection de présence,SENS Y SB00A / SB00B,Transition à  0
+    2024-02-17 11:46:00,IS401    Accà¨s depuis tunnel,SENS Y SB00A / SB00B,Transition à  0
