@@ -1,18 +1,20 @@
 Reporting et traçabilité
 ***************************
+7/2024
+
 Rapports prévus dans les marchés
 ==================================
-Les marchés Bâtiment et Propreté stipulent que les entreprises doivent transmettre des rapports minutes puis placer les rapports validés sur CosWin.
+Les marchés Bâtiment (2020) et Propreté (2021) stipulent que les entreprises doivent transmettre des *rapports minutes* puis placer les rapports validés sur CosWin.
 Chacun des marchés comporte des annexes qui sont des modèles de rapport.
 
-Pour la prestation de maintenance préventive du marché Bâtiment et la prestation d'inspection du marché propreté, il s'agit exactement du même format.
+Pour la prestation de la maintenance préventive du marché Bâtiment et la prestation d'inspection du marché propreté, il s'agit exactement du même format.
 L'entreprise doit renseigner dans un classeur OpenOffice, pour chaque issue, 32 champs, 23 *de jour* et 9 *de nuit*.
 
 .. image:: _static/rapPrevIssues.jpg
    :scale: 110%
    :align: right
 
-Dans le cas du marché Bâtiment, le DCE contient un modèle de rapport par tunnel avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
+Dans le cas du marché Bâtiment, le DCE contient un modèle de rapport pour chaque tunnel, avec une fiche par issue et des macros pour calculer des indicateurs de synthèse.
 
 En pratique, les rapports ne sont pas déposés sur CosWin car l'entreprise dit ne pas avoir les moyens d'accéder à CosWin. Ils sont seulement envoyés aux PCTTs qui les archivent.
 
@@ -21,14 +23,9 @@ Les formats ont été modifiés avec des différences selon les PCTT.
 
 Une moitié des rapports prévus par le CCTP est absente de tous les rapports remontés par les PCTT.
 
-(à compléter sur la base des échanges avec les PCTT).
-
-
-
 Les rapports sont saisis à la main sans contrôle automatique de format et ils sont enregistrés au format PDF ou XLSX. 
 
 Dans ces conditions les rapports ne peuvent pas être lus par un programme pour faire des statistiques.  
-
 
 Nouveau support de saisie des rapports d'interventions
 =====================================================
