@@ -50,9 +50,9 @@ Le fichier atteint par le lien ci-desssous ci-dessous indique, pour les 437 nich
 
 Evolution souhaitable de CosWin
 **********************************
-les niches n'ont pas les mêmes besoins de maintenance, selon leur type et notamment les équipements qu'elles contiennent. 
+Les niches ont des besoins de maintenance différents selon leurs types et notamment les équipements qu'elles contiennent. 
 
-Il serait utile d'introduire plus de détail dans le champs **Type Famille** pour faciliter la selection des niches selon leur type.
+Il serait utile d'introduire plus de détail dans le champs **Type Famille**, pour faciliter la selection des niches selon leur type.
 
 
 
