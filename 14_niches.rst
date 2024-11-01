@@ -42,9 +42,11 @@ Les niches *Inspection* (Boissy) ne concernent pas la sécurité des tunnels et 
 
 CosWin associe au moins un pictogramme à 377 niches.
 
-Le fichier ci-dessous indique, pour les 437 niches identifiées dans CosWin, les nombres de bornes incendie, de pictogrammes et d'extincteurs associés dans CosWin.
+Le fichier atteint par le lien ci-desssous ci-dessous indique, pour les 437 niches identifiées dans CosWin, les nombres de bornes incendie, de pictogrammes et d'extincteurs associés dans CosWin.
 
 `Table des niches <https://raw.githubusercontent.com/ExploitIdF/IssuesTunnels/main/_static/nichesBrExPc.csv>`_ 
+
+> ajouter le lien avec les fermetures
 
 Evolution souhaitable de CosWin
 **********************************
