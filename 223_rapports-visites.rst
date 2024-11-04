@@ -1,8 +1,9 @@
 Rapport des visites bimestrielles des issues de secours 
 #############################################################
 10/2024
+
 Objectifs
-*************************
+*********** 
 Pour les visites bimestrielles des issues de secours qui sont une nouvelle prestation introduite dans le marché Bâtiment, le DETT a choisi de demander au prestataire 
 de produire *en temps réel* un rapport dématérialisé pour chaque issue et chaque niche visitée.
 
