@@ -1,0 +1,945 @@
+<!doctype html>
+<html class="no-js" lang="en" data-content_root="./">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" /><link rel="next" title="Visites bimestrielles des issues et des niches" href="222_visites.html" /><link rel="prev" title="Politique de maintenance" href="2_maintenance.html" />
+
+    <link rel="shortcut icon" href="https://storage.googleapis.com/ref-dett/faviconIssSec.jpg"/><!-- Generated with Sphinx 8.1.3 and Furo 2024.08.06 -->
+        <title>Marché Bâtiment - Issues de secours documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?v=354aac6f" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?v=302659d7" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css?v=075fb922" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-with-moon" viewBox="0 0 24 24">
+    <title>Auto light/dark, in light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path style="opacity: 50%" d="M 5.411 14.504 C 5.471 14.504 5.532 14.504 5.591 14.504 C 3.639 16.319 4.383 19.569 6.931 20.352 C 7.693 20.586 8.512 20.551 9.25 20.252 C 8.023 23.207 4.056 23.725 2.11 21.184 C 0.166 18.642 1.702 14.949 4.874 14.536 C 5.051 14.512 5.231 14.5 5.411 14.5 L 5.411 14.504 Z"/>
+      <line x1="14.5" y1="3.25" x2="14.5" y2="1.25"/>
+      <line x1="14.5" y1="15.85" x2="14.5" y2="17.85"/>
+      <line x1="10.044" y1="5.094" x2="8.63" y2="3.68"/>
+      <line x1="19" y1="14.05" x2="20.414" y2="15.464"/>
+      <line x1="8.2" y1="9.55" x2="6.2" y2="9.55"/>
+      <line x1="20.8" y1="9.55" x2="22.8" y2="9.55"/>
+      <line x1="10.044" y1="14.006" x2="8.63" y2="15.42"/>
+      <line x1="19" y1="5.05" x2="20.414" y2="3.636"/>
+      <circle cx="14.5" cy="9.55" r="3.6"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon-with-sun" viewBox="0 0 24 24">
+    <title>Auto light/dark, in dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path d="M 8.282 7.007 C 8.385 7.007 8.494 7.007 8.595 7.007 C 5.18 10.184 6.481 15.869 10.942 17.24 C 12.275 17.648 13.706 17.589 15 17.066 C 12.851 22.236 5.91 23.143 2.505 18.696 C -0.897 14.249 1.791 7.786 7.342 7.063 C 7.652 7.021 7.965 7 8.282 7 L 8.282 7.007 Z"/>
+      <line style="opacity: 50%" x1="18" y1="3.705" x2="18" y2="2.5"/>
+      <line style="opacity: 50%" x1="18" y1="11.295" x2="18" y2="12.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="4.816" x2="14.464" y2="3.964"/>
+      <line style="opacity: 50%" x1="20.711" y1="10.212" x2="21.563" y2="11.063"/>
+      <line style="opacity: 50%" x1="14.205" y1="7.5" x2="13.001" y2="7.5"/>
+      <line style="opacity: 50%" x1="21.795" y1="7.5" x2="23" y2="7.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="10.184" x2="14.464" y2="11.036"/>
+      <line style="opacity: 50%" x1="20.711" y1="4.789" x2="21.563" y2="3.937"/>
+      <circle style="opacity: 50%" cx="18" cy="7.5" r="2.169"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-pencil" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-pencil-code">
+      <path d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4" />
+      <path d="M13.5 6.5l4 4" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+  <symbol id="svg-eye" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-eye-code">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+      <path
+        d="M11.11 17.958c-3.209 -.307 -5.91 -2.293 -8.11 -5.958c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6c-.21 .352 -.427 .688 -.647 1.008" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+<a class="skip-to-content muted-link" href="#furo-main-content">Skip to content</a>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="index.html"><div class="brand">Issues de secours  documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+          <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="_static/logoIssuesSec.jpg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="_static/logoIssuesSec.jpg" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="10_issues.html">Les issues de secours, c’est quoi ?</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of Les issues de secours, c’est quoi ?</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="12_cme.html">Conditions minimales d’exploitation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="11_reference.html">Les composantes des issues, selon la documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="13_besoins.html">Quels sont les besoins ?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="15_liste.html">Liste des issues par tunnel</a></li>
+<li class="toctree-l2"><a class="reference internal" href="16_portes.html">Portes “tunnel”</a></li>
+<li class="toctree-l2"><a class="reference internal" href="18_surpression.html">Présence d’une surpression de l’issue ?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="183_camera.html">Camera dans les issues et les galeries</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="14_niches.html">Niches de sécurité</a></li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="2_maintenance.html">Politique de maintenance</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle navigation of Politique de maintenance</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2 current has-children current-page"><a class="current reference internal" href="#">Marché Bâtiment</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle navigation of Marché Bâtiment</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="222_visites.html">Visites bimestrielles des issues et des niches</a></li>
+<li class="toctree-l3"><a class="reference internal" href="223_rapports-visites.html">Rapport des visites bimestrielles des issues de secours</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="23_propret%C3%A9.html">Marché Propreté</a></li>
+<li class="toctree-l2"><a class="reference internal" href="25_rapports.html">Reporting et traçabilité</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="27_GTC.html">Données de la GTC</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle navigation of Données de la GTC</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="271_porteT.html">Données GTC des portes en tunnel</a></li>
+<li class="toctree-l3"><a class="reference internal" href="272_tempsOuverture.html">Temps de fermeture des portes “tunnel”</a></li>
+<li class="toctree-l3"><a class="reference internal" href="276_GTC_A6b.html">Analyse des données GTC AEV A6b (Bicêtre &amp; Italie)</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="28_fermetures.html">Fermetures nocturnes pour la maintenance des tunnels</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="5_ameliorations.html">Actions d’amélioration</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle navigation of Actions d’amélioration</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="51_objectifs.html">Principaux besoins à satisfaire</a></li>
+<li class="toctree-l2"><a class="reference internal" href="53_actions.html">Actions proposées</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          <div class="view-this-page">
+  <a class="muted-link" href="_sources/22_batiment.rst.txt" title="View this page">
+    <svg><use href="#svg-eye"></use></svg>
+    <span class="visually-hidden">View this page</span>
+  </a>
+</div>
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+              <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main" id="furo-main-content">
+          <section id="marche-batiment">
+<h1>Marché Bâtiment<a class="headerlink" href="#marche-batiment" title="Link to this heading">¶</a></h1>
+<div class="toctree-wrapper compound">
+</div>
+<section id="conception-du-marche-pour-la-maintenance-des-issues">
+<h2>Conception du marché pour la maintenance des issues<a class="headerlink" href="#conception-du-marche-pour-la-maintenance-des-issues" title="Link to this heading">¶</a></h2>
+<p>Le bordereau de prix du marché Batiment comporte un numéro de prix pour la maintenance préventive des issues de secours.</p>
+<section id="b2p001-prestation-de-maintenance-preventive-d-une-issue-de-secours">
+<h3>B2P001  Prestation de maintenance préventive d’une issue de secours<a class="headerlink" href="#b2p001-prestation-de-maintenance-preventive-d-une-issue-de-secours" title="Link to this heading">¶</a></h3>
+<blockquote>
+<div><p>Ce prix rémunère au forfait toutes les opérations d’entretien préventif décrites au CCTP d’une issue de secours et de toutes ses portes, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.</p>
+<p>volume estimé  : une prestation par issue et par an (296 par an)</p>
+<p>valeur : 130€ HT (2020)</p>
+</div></blockquote>
+<p>Deux autres prix concernent la maintenance préventive :</p>
+</section>
+<section id="b2p002-plus-value-a-lentretien-dune-issue-de-secours-pour-entretien-preventif-dune-trappe-dissue-de-secours">
+<h3>B2P002  Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours<a class="headerlink" href="#b2p002-plus-value-a-lentretien-dune-issue-de-secours-pour-entretien-preventif-dune-trappe-dissue-de-secours" title="Link to this heading">¶</a></h3>
+<blockquote>
+<div><p>Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours</p>
+<p>Ce prix rémunère la plus-value pour une intervention préventive effectuée sur une issue de secours dont les ouvertures vers l’extérieur se fait par une trappe. Ce prix rémunère l’entretien spécifique de ces matériels tel que défini dans les procédures en annexe du CCTP.</p>
+<p>volume estimé  : 0 !</p>
+<p>valeur : 1200€ HT (2020)</p>
+</div></blockquote>
+</section>
+<section id="b2p003-prestation-de-maintenance-preventive-dune-niche-de-secours">
+<h3>B2P003  Prestation de maintenance préventive d’une niche de secours<a class="headerlink" href="#b2p003-prestation-de-maintenance-preventive-dune-niche-de-secours" title="Link to this heading">¶</a></h3>
+<blockquote>
+<div><p>Plus-value à l’entretien d’une issue de secours pour la maintenance préventive d’une niche de secours</p>
+<p>Ce prix rémunère au forfait toutes les opérations d’entretien préventif décrites au CCTP d’une niche de secours et de tous ses équipements, déplacement, main d’œuvre, fournitures, remise de rapport, matériels et sujétions compris.</p>
+<p>volume estimé  : 0 !</p>
+<p>valeur : 130€ HT (2020)</p>
+</div></blockquote>
+<p>Il semble que les prix dont les volumes sont estimés à zéro sont plus élevés qu’ils ne l’auraient été avec une estimation positive.</p>
+<p>En fait, ces prix n’ont pas vocation à être utilisés isolément pour une issue particulière,
+mais dans le cadre d’une prestation portant sur l’ensemble des issues d’un tunnel.
+Les commandes concernent aussi les niches de sécurité dont la maintenance présente des synergies
+évidentes avec celle des issues.
+Lors du renouvellement du marché, il conviendra de créer des prix pour les préventifs globaux de chaque tunnel, comme cela est fait dans les marchés propreté ou éclairage.
+Il faudra fournir dans le DCE une description des locaux et équipements concernés dans chaque tunnel.</p>
+<p>Il y aurait une une logique à définir un prix par tunnel, pour l’ensemble des issues et des niches,</p>
+</section>
+<section id="rapports-sur-les-interventions">
+<h3>Rapports sur les interventions<a class="headerlink" href="#rapports-sur-les-interventions" title="Link to this heading">¶</a></h3>
+<p>Des modèles de rapports figurent en annexe du CCTP pour chacun des tunnels, avec l’identification de chacune des issues et niches du tunnel.
+Très peu de rapports sont déposés sur CosWin.</p>
+<p>Les modèles de rapports ne sont pas cohérents avec la liste des actions qui décrivent la gamme de maintenance dans CosWin :</p>
+<div class="table-wrapper docutils container">
+<table class="docutils align-default" style="width: 90%">
+<thead>
+<tr class="row-odd"><th class="head"><p>Description de l’action (CosWin)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>API: Sauvegarde du programme automate puis dépose de celle-ci sur la GMAO ou un support dédié</p></td>
+</tr>
+<tr class="row-odd"><td><p>Vérifier Documentation fournisseur - Spécifications et réglages</p></td>
+</tr>
+<tr class="row-even"><td><p>Vérifier Documentation client - Niveau de sécurisation</p></td>
+</tr>
+<tr class="row-odd"><td><p>Vérifier Documentation client - G.M.A.O.</p></td>
+</tr>
+<tr class="row-even"><td><p>Analyser Compte rendu d’activité du correctif</p></td>
+</tr>
+<tr class="row-odd"><td><p>Analyser Compte rendu du précédent préventif de la gamme</p></td>
+</tr>
+<tr class="row-even"><td><p>Mettre à jour Les spécifications - gammes et bibliothèques</p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrôle de l’éclairage normal et sécurité</p></td>
+</tr>
+<tr class="row-even"><td><p>Contrôle fonctionnement porte et/ou trappe - serrurerie et capteur position</p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrôle fonctionnement de la surpression</p></td>
+</tr>
+<tr class="row-even"><td><p>Contrôle du fonctionnement du capteur de présence</p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrôle du fonctionnent de la caméra</p></td>
+</tr>
+<tr class="row-even"><td><p>Contrôle de l’état extérieur des armoires électriques</p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrôle et essai du téléphone de sécurité</p></td>
+</tr>
+<tr class="row-even"><td><p>Vérification de la vacuité de l’issue</p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrôle main courante</p></td>
+</tr>
+<tr class="row-even"><td><p>Vérification des remontées d’information vers PCTT</p></td>
+</tr>
+<tr class="row-odd"><td><p>Mettre à jour La G.M.A.O.</p></td>
+</tr>
+<tr class="row-even"><td><p>Déclencher Les opérations correctives si nécessaire et si possible</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+<section id="utilisation-du-marche">
+<h2>Utilisation du marché<a class="headerlink" href="#utilisation-du-marche" title="Link to this heading">¶</a></h2>
+<p>Selon le détail estimatif (DE), la dépense annuelle serait de 38 k€ HT (2020) correspondant à 296 fois le prix B2P001.
+Le DE comporte des volumes nuls pour les prix B2P002 et B2P003.</p>
+<p>On constate une dépense d’environ 50 k€/an sur le prix B2P001 et d’environ 25 k€/an sur le prix B2P003.</p>
+<p>Les prestations commandées sont parfois formulées comme si étaient programmées 2 ou 4 actions par an
+alors que le détail estimatif prévoit seulement une prestation par an.
+On lit par exemple dans Sucombe les libellés de prestations suivants :</p>
+<ul class="simple">
+<li><p>Préventif 1/2 des issues de secours du tunnel Guy Mocquet</p></li>
+<li><p>Préventif 2/4 des issues de secours du tunnel de Nogent</p></li>
+<li><p>preventif issue de secours  bobigny 2eme visite</p></li>
+</ul>
+<p>Les constats montrent qu’il y a rarement plus de 2 interventions commandées par an et par tunnel.
+Certains tunnels ne sont pas traités tous les ans, selon les enregistrements présents dans Sucombe.</p>
+<p>Selon le PCTT Est, le principal facteur limitant les interventions est le manque de disponibilité de l’entreprise
+TERIDEAL, alors que l’on est contraint par les nuits de fermeture.</p>
+<p>On observe que le prix B2P001 est aussi utilisé pour des maintenances préventives des portes des locaux techniques des tunnels ou de SIRIUS.
+Le marché Bâtiment ne comporte pas de prix pour des actions préventives sur les portes de ces locaux
+ce qui peut expliquer le détournement du prix prévu pour les issues.</p>
+<p><strong>Montants (k€ HT) engagés par PCTT et par an sur la maintenance préventive des issues avec le marché Batiment.</strong></p>
+<div class="table-wrapper colwidths-given docutils container">
+<table class="docutils align-default" style="width: 100%">
+<colgroup>
+<col style="width: 51.7%" />
+<col style="width: 12.1%" />
+<col style="width: 12.1%" />
+<col style="width: 12.1%" />
+<col style="width: 12.1%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Service</p></th>
+<th class="head"><p>21</p></th>
+<th class="head"><p>22</p></th>
+<th class="head"><p>23</p></th>
+<th class="head"><p>Total</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
+<td><p>21</p></td>
+<td><p>33</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>23</p></td>
+<td><p>0</p></td>
+<td><p>7</p></td>
+<td><p>30</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>21</p></td>
+<td><p>17</p></td>
+<td><p>24</p></td>
+<td><p>62</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Sud</p></td>
+<td><p>13</p></td>
+<td><p>10</p></td>
+<td><p>17</p></td>
+<td><p>40</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Détail des prestations prises en compte</strong></p>
+<div class="table-wrapper colwidths-given docutils container">
+<table class="docutils align-default" style="width: 100%">
+<colgroup>
+<col style="width: 15.0%" />
+<col style="width: 20.0%" />
+<col style="width: 20.0%" />
+<col style="width: 35.0%" />
+<col style="width: 10.0%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Service</p></th>
+<th class="head"><p>Lieu</p></th>
+<th class="head"><p>DateC</p></th>
+<th class="head"><p>Libel</p></th>
+<th class="head"><p>MontantHT</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Boissy-Saint-Léger</p></td>
+<td><p>2023-01-25</p></td>
+<td><p>Préventif des Issues de Secours - Tunnel de BOISSY</p></td>
+<td><p>1040</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Champigny</p></td>
+<td><p>2021-02-12</p></td>
+<td><p>Préventif des issues de secours du tunnel de Champigny</p></td>
+<td><p>1690</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Champigny</p></td>
+<td><p>2021-07-02</p></td>
+<td><p>Préventif des issues de secours du tunnel de Champigny 2/4</p></td>
+<td><p>1690</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Champigny</p></td>
+<td><p>2022-06-10</p></td>
+<td><p>Préventif 2/4 des issues de secours du tunnel de Champigny</p></td>
+<td><p>1690</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Champigny</p></td>
+<td><p>2023-01-25</p></td>
+<td><p>Régularisation du préventif 1/4 des issues de secours du tunnel de Champigny</p></td>
+<td><p>1690</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Champigny</p></td>
+<td><p>2023-07-13</p></td>
+<td><p>Préventif 2/4 des Issues de Secours - Tunnel de Champigny</p></td>
+<td><p>1755</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Nogent</p></td>
+<td><p>2021-02-12</p></td>
+<td><p>Préventif des issues de secours du tunnel de Nogent</p></td>
+<td><p>2470</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Nogent</p></td>
+<td><p>2021-06-10</p></td>
+<td><p>Préventif 2/4 des issues de secours du tunnel de Nogent</p></td>
+<td><p>2470</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Nogent</p></td>
+<td><p>2022-05-31</p></td>
+<td><p>Préventif 2/4 des issues du tunnel de Nogent</p></td>
+<td><p>2470</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Nogent</p></td>
+<td><p>2023-01-27</p></td>
+<td><p>Régularisation du préventif 1/4 des Issues de Secours du tunnel de Nogent</p></td>
+<td><p>2470</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Nogent</p></td>
+<td><p>2023-06-20</p></td>
+<td><p>Régularisation pour le préventif 2/4 des Issues de Secours - Tunnel de NOGENT</p></td>
+<td><p>2566</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Nogent</p></td>
+<td><p>2023-07-11</p></td>
+<td><p>Préventif 3/4 des Issues de Secours du Tunnel de Nogent</p></td>
+<td><p>2566</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Nogent</p></td>
+<td><p>2023-09-01</p></td>
+<td><p>Préventif 4/4 des issues de secours - Tunnel de Nogent</p></td>
+<td><p>2566</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Thiais</p></td>
+<td><p>2023-01-02</p></td>
+<td><p>Préventif 1/1  des portes annexes dans les tunnels de Thiais</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Thiais</p></td>
+<td><p>2023-02-09</p></td>
+<td><p>Préventif 1/2 des issues de secours du tunnel du moulin</p></td>
+<td><p>1950</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Est</p></td>
+<td><p>Thiais</p></td>
+<td><p>2023-02-09</p></td>
+<td><p>Préventif 1/2 des issues de secours du tunnel Guy Mocquet</p></td>
+<td><p>1300</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Est</p></td>
+<td><p>Thiais</p></td>
+<td><p>2023-09-04</p></td>
+<td><p>Préventif 2/2 des issues de secours des tunnels de Thiais</p></td>
+<td><p>3376</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Bobigny-Lumen-Norton</p></td>
+<td><p>2021-01-22</p></td>
+<td><p>preventif issues de secours bobigny</p></td>
+<td><p>3770</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>Bobigny-Lumen-Norton</p></td>
+<td><p>2021-06-15</p></td>
+<td><p>preventif issues secours A86</p></td>
+<td><p>3770</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Bobigny-Lumen-Norton</p></td>
+<td><p>2021-12-20</p></td>
+<td><p>preventif issues de secours bobigny</p></td>
+<td><p>3250</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>Bobigny-Lumen-Norton</p></td>
+<td><p>2021-12-20</p></td>
+<td><p>preventif issues de secours norton lumen</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Bobigny-Lumen-Norton</p></td>
+<td><p>2023-02-02</p></td>
+<td><p>Préventif des Issues de Secours - Tunnel de BOBIGNY</p></td>
+<td><p>3250</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>Bobigny-Lumen-Norton</p></td>
+<td><p>2023-02-02</p></td>
+<td><p>Préventif des Issues de Secours - Tunnels LUMEN-NORTON</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>La Courneuve</p></td>
+<td><p>2021-01-22</p></td>
+<td><p>preventif issues de secours courneuve</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>La Courneuve</p></td>
+<td><p>2021-06-15</p></td>
+<td><p>PREVENTIF ISSUES LA COURNEUVE</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>La Courneuve</p></td>
+<td><p>2021-12-20</p></td>
+<td><p>preventif issues de secours courneuve</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>La Courneuve</p></td>
+<td><p>2023-02-02</p></td>
+<td><p>Préventif des Issues de Secours - Tunnel de LA COURNEUVE</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Landy</p></td>
+<td><p>2021-01-22</p></td>
+<td><p>preventif issues de secours landy</p></td>
+<td><p>2600</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>Landy</p></td>
+<td><p>2021-06-15</p></td>
+<td><p>preventif issues secours A1</p></td>
+<td><p>2600</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Landy</p></td>
+<td><p>2021-12-20</p></td>
+<td><p>preventif issues de secours landy</p></td>
+<td><p>2600</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>Landy</p></td>
+<td><p>2023-02-02</p></td>
+<td><p>Préventif des Issues de Secours - Tunnel du LANDY</p></td>
+<td><p>2600</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Taverny</p></td>
+<td><p>2021-01-22</p></td>
+<td><p>preventif issues de secours taverny</p></td>
+<td><p>780</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>Taverny</p></td>
+<td><p>2021-06-15</p></td>
+<td><p>preventif issues secours taverny</p></td>
+<td><p>1170</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Taverny</p></td>
+<td><p>2021-06-15</p></td>
+<td><p>preventif issues secours taverny</p></td>
+<td><p>780</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Nord</p></td>
+<td><p>Taverny</p></td>
+<td><p>2022-01-06</p></td>
+<td><p>preventif issue de secours taverny</p></td>
+<td><p>780</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Nord</p></td>
+<td><p>Taverny</p></td>
+<td><p>2023-02-02</p></td>
+<td><p>Préventif des Issues de Secours - Tunnel de TAVERNY</p></td>
+<td><p>780</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Ambroise PARE</p></td>
+<td><p>2021-02-23</p></td>
+<td><p>Maintenance préventive Issues A13 A.Paré</p></td>
+<td><p>6750</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Ambroise PARE</p></td>
+<td><p>2023-01-05</p></td>
+<td><p>A13 A.Paré PREVENTIF PORTES ISSUES + TRAPPES + locaux techniques</p></td>
+<td><p>7530</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Bellerive</p></td>
+<td><p>2021-02-23</p></td>
+<td><p>Maintenance préventive Issues A86 Bellerives</p></td>
+<td><p>1950</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Bellerive</p></td>
+<td><p>2022-01-18</p></td>
+<td><p>A86 BELLERIVE Préventif portes issues + locaux techniques</p></td>
+<td><p>2990</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Bellerive</p></td>
+<td><p>2023-01-05</p></td>
+<td><p>A86 BELLERIVE Préventif portes issues + locaux techniques</p></td>
+<td><p>2990</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Chennevières</p></td>
+<td><p>2021-02-23</p></td>
+<td><p>Maintenance préventive Issues N12 Chennevières</p></td>
+<td><p>260</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Chennevières</p></td>
+<td><p>2022-01-18</p></td>
+<td><p>N12 Préventif portes issues + locaux techniques</p></td>
+<td><p>780</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Chennevières</p></td>
+<td><p>2023-01-05</p></td>
+<td><p>N12 Préventif portes issues + locaux techniques</p></td>
+<td><p>780</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Nanterre / La Défense</p></td>
+<td><p>2021-02-10</p></td>
+<td><p>Maintenance Préventif issue de secours et des huisseries LA-DEFENSE (121 portes tunnel dans 45 issues)</p></td>
+<td><p>5850</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Nanterre / La Défense</p></td>
+<td><p>2021-02-10</p></td>
+<td><p>Maintenance Préventif issue de secours et des huisseries ECHANGEUR-NANTERRE (36 portes tunnel dans 13 issues)</p></td>
+<td><p>1690</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Nanterre / La Défense</p></td>
+<td><p>2021-02-10</p></td>
+<td><p>Maintenance Préventif issue de secours et des huisseries A86-NANTERRE (37 portes tunnel dans 14 issues)</p></td>
+<td><p>1820</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Nanterre / La Défense</p></td>
+<td><p>2022-06-01</p></td>
+<td><p>Préventif des issues de secours</p></td>
+<td><p>10660</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Nanterre / La Défense</p></td>
+<td><p>2023-01-06</p></td>
+<td><p>preventive 1er semestre2023 issue de secours</p></td>
+<td><p>10660</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Neuilly</p></td>
+<td><p>2021-02-10</p></td>
+<td><p>Maintenance Préventif issue de secours et des huisseries Neuilly(12 portes tunnel dans 4 issues)</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Saint Cloud</p></td>
+<td><p>2021-02-23</p></td>
+<td><p>Maintenance préventive Issues A13 Saint CLOUD</p></td>
+<td><p>1690</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Saint Cloud</p></td>
+<td><p>2022-01-18</p></td>
+<td><p>A13 St Cloud préventif portes issues + locaux techniques</p></td>
+<td><p>2730</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Ouest</p></td>
+<td><p>Saint Cloud</p></td>
+<td><p>2023-01-05</p></td>
+<td><p>A13 St Cloud préventif portes issues + locaux techniques</p></td>
+<td><p>2730</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Ouest</p></td>
+<td><p>Sévines</p></td>
+<td><p>2021-02-10</p></td>
+<td><p>Maintenance Préventif issue de secours et des huisseries  SEVINES (10 portes tunnel dans 6 issues)</p></td>
+<td><p>780</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Sud</p></td>
+<td><p>Bicêtre</p></td>
+<td><p>2021-04-19</p></td>
+<td><p>Entretien préventif des portes des tunnels de l’A6b (2ème de l’année)</p></td>
+<td><p>6430</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Sud</p></td>
+<td><p>Bicêtre</p></td>
+<td><p>2021-07-27</p></td>
+<td><p>Entretien préventif des portes des tunnels de l’A6b (3ème de l’année)</p></td>
+<td><p>3900</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Sud</p></td>
+<td><p>Bicêtre</p></td>
+<td><p>2022-01-17</p></td>
+<td><p>Entretien préventif des portes des locaux techniques des tunnels de l’A6b</p></td>
+<td><p>2730</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Sud</p></td>
+<td><p>Bicêtre</p></td>
+<td><p>2022-01-17</p></td>
+<td><p>Entretien préventif des portes des tunnels de l’A6b (1er de l’année)</p></td>
+<td><p>6430</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Sud</p></td>
+<td><p>Bicêtre</p></td>
+<td><p>2023-01-04</p></td>
+<td><p>Entretien préventif des portes des locaux techniques des tunnels de l’A6b</p></td>
+<td><p>2730</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Sud</p></td>
+<td><p>Bicêtre</p></td>
+<td><p>2023-01-04</p></td>
+<td><p>Entretien préventif des portes des tunnels de l’A6b (1er de l’année)</p></td>
+<td><p>6430</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Sud</p></td>
+<td><p>Bicêtre</p></td>
+<td><p>2023-07-27</p></td>
+<td><p>Entretien préventif des portes des tunnels de l’A6b (2ème de l’année)</p></td>
+<td><p>4187</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Sud</p></td>
+<td><p>Orly</p></td>
+<td><p>2021-04-19</p></td>
+<td><p>Entretien préventif des portes du tunnel d’Orly (2ème de l’année)</p></td>
+<td><p>1560</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Sud</p></td>
+<td><p>Orly</p></td>
+<td><p>2021-07-27</p></td>
+<td><p>Entretien préventif des portes du tunnel d’Orly (3ème de l’année)</p></td>
+<td><p>1560</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Sud</p></td>
+<td><p>Orly</p></td>
+<td><p>2022-01-17</p></td>
+<td><p>Entretien préventif des portes du tunnel d’Orly (1er de l’année)</p></td>
+<td><p>1560</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Sud</p></td>
+<td><p>Orly</p></td>
+<td><p>2023-01-04</p></td>
+<td><p>Entretien préventif des portes des locaux techniques du tunnel d’Orly</p></td>
+<td><p>1300</p></td>
+</tr>
+<tr class="row-odd"><td><p>PCTT Sud</p></td>
+<td><p>Orly</p></td>
+<td><p>2023-01-04</p></td>
+<td><p>Entretien préventif des portes du tunnel d’Orly (1er de l’année)</p></td>
+<td><p>1560</p></td>
+</tr>
+<tr class="row-even"><td><p>PCTT Sud</p></td>
+<td><p>Orly</p></td>
+<td><p>2023-07-27</p></td>
+<td><p>Entretien préventif des portes du tunnel d’Orly (2ème de l’année)</p></td>
+<td><p>1620</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="222_visites.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Visites bimestrielles des issues et des niches</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="2_maintenance.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Politique de maintenance</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            Made with 
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Marché Bâtiment</a><ul>
+<li><a class="reference internal" href="#conception-du-marche-pour-la-maintenance-des-issues">Conception du marché pour la maintenance des issues</a><ul>
+<li><a class="reference internal" href="#b2p001-prestation-de-maintenance-preventive-d-une-issue-de-secours">B2P001  Prestation de maintenance préventive d’une issue de secours</a></li>
+<li><a class="reference internal" href="#b2p002-plus-value-a-lentretien-dune-issue-de-secours-pour-entretien-preventif-dune-trappe-dissue-de-secours">B2P002  Plus-value à l’entretien d’une issue de secours pour entretien préventif d’une trappe d’issue de secours</a></li>
+<li><a class="reference internal" href="#b2p003-prestation-de-maintenance-preventive-dune-niche-de-secours">B2P003  Prestation de maintenance préventive d’une niche de secours</a></li>
+<li><a class="reference internal" href="#rapports-sur-les-interventions">Rapports sur les interventions</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#utilisation-du-marche">Utilisation du marché</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/furo.js?v=5fa4622c"></script>
+    </body>
+</html>

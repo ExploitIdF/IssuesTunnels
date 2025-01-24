@@ -1,0 +1,848 @@
+<!doctype html>
+<html class="no-js" lang="en" data-content_root="./">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" />
+
+    <link rel="shortcut icon" href="https://storage.googleapis.com/ref-dett/faviconIssSec.jpg"/><!-- Generated with Sphinx 8.1.3 and Furo 2024.08.06 -->
+        <title>Un format csv des rapports pour les visites et la maintenance annuelle des issues. - Issues de secours documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?v=354aac6f" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?v=302659d7" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css?v=075fb922" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-with-moon" viewBox="0 0 24 24">
+    <title>Auto light/dark, in light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path style="opacity: 50%" d="M 5.411 14.504 C 5.471 14.504 5.532 14.504 5.591 14.504 C 3.639 16.319 4.383 19.569 6.931 20.352 C 7.693 20.586 8.512 20.551 9.25 20.252 C 8.023 23.207 4.056 23.725 2.11 21.184 C 0.166 18.642 1.702 14.949 4.874 14.536 C 5.051 14.512 5.231 14.5 5.411 14.5 L 5.411 14.504 Z"/>
+      <line x1="14.5" y1="3.25" x2="14.5" y2="1.25"/>
+      <line x1="14.5" y1="15.85" x2="14.5" y2="17.85"/>
+      <line x1="10.044" y1="5.094" x2="8.63" y2="3.68"/>
+      <line x1="19" y1="14.05" x2="20.414" y2="15.464"/>
+      <line x1="8.2" y1="9.55" x2="6.2" y2="9.55"/>
+      <line x1="20.8" y1="9.55" x2="22.8" y2="9.55"/>
+      <line x1="10.044" y1="14.006" x2="8.63" y2="15.42"/>
+      <line x1="19" y1="5.05" x2="20.414" y2="3.636"/>
+      <circle cx="14.5" cy="9.55" r="3.6"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon-with-sun" viewBox="0 0 24 24">
+    <title>Auto light/dark, in dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path d="M 8.282 7.007 C 8.385 7.007 8.494 7.007 8.595 7.007 C 5.18 10.184 6.481 15.869 10.942 17.24 C 12.275 17.648 13.706 17.589 15 17.066 C 12.851 22.236 5.91 23.143 2.505 18.696 C -0.897 14.249 1.791 7.786 7.342 7.063 C 7.652 7.021 7.965 7 8.282 7 L 8.282 7.007 Z"/>
+      <line style="opacity: 50%" x1="18" y1="3.705" x2="18" y2="2.5"/>
+      <line style="opacity: 50%" x1="18" y1="11.295" x2="18" y2="12.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="4.816" x2="14.464" y2="3.964"/>
+      <line style="opacity: 50%" x1="20.711" y1="10.212" x2="21.563" y2="11.063"/>
+      <line style="opacity: 50%" x1="14.205" y1="7.5" x2="13.001" y2="7.5"/>
+      <line style="opacity: 50%" x1="21.795" y1="7.5" x2="23" y2="7.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="10.184" x2="14.464" y2="11.036"/>
+      <line style="opacity: 50%" x1="20.711" y1="4.789" x2="21.563" y2="3.937"/>
+      <circle style="opacity: 50%" cx="18" cy="7.5" r="2.169"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-pencil" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-pencil-code">
+      <path d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4" />
+      <path d="M13.5 6.5l4 4" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+  <symbol id="svg-eye" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-eye-code">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+      <path
+        d="M11.11 17.958c-3.209 -.307 -5.91 -2.293 -8.11 -5.958c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6c-.21 .352 -.427 .688 -.647 1.008" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+<a class="skip-to-content muted-link" href="#furo-main-content">Skip to content</a>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="index.html"><div class="brand">Issues de secours  documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+          <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="_static/logoIssuesSec.jpg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="_static/logoIssuesSec.jpg" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="10_issues.html">Les issues de secours, c’est quoi ?</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of Les issues de secours, c’est quoi ?</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="12_cme.html">Conditions minimales d’exploitation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="11_reference.html">Les composantes des issues, selon la documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="13_besoins.html">Quels sont les besoins ?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="15_liste.html">Liste des issues par tunnel</a></li>
+<li class="toctree-l2"><a class="reference internal" href="16_portes.html">Portes “tunnel”</a></li>
+<li class="toctree-l2"><a class="reference internal" href="18_surpression.html">Présence d’une surpression de l’issue ?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="183_camera.html">Camera dans les issues et les galeries</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="14_niches.html">Niches de sécurité</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="2_maintenance.html">Politique de maintenance</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle navigation of Politique de maintenance</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2 has-children"><a class="reference internal" href="22_batiment.html">Marché Bâtiment</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle navigation of Marché Bâtiment</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="222_visites.html">Visites bimestrielles des issues et des niches</a></li>
+<li class="toctree-l3"><a class="reference internal" href="223_rapports-visites.html">Rapport des visites bimestrielles des issues de secours</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="23_propret%C3%A9.html">Marché Propreté</a></li>
+<li class="toctree-l2"><a class="reference internal" href="25_rapports.html">Reporting et traçabilité</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="27_GTC.html">Données de la GTC</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle navigation of Données de la GTC</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="271_porteT.html">Données GTC des portes en tunnel</a></li>
+<li class="toctree-l3"><a class="reference internal" href="272_tempsOuverture.html">Temps de fermeture des portes “tunnel”</a></li>
+<li class="toctree-l3"><a class="reference internal" href="276_GTC_A6b.html">Analyse des données GTC AEV A6b (Bicêtre &amp; Italie)</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="28_fermetures.html">Fermetures nocturnes pour la maintenance des tunnels</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="5_ameliorations.html">Actions d’amélioration</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle navigation of Actions d’amélioration</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="51_objectifs.html">Principaux besoins à satisfaire</a></li>
+<li class="toctree-l2"><a class="reference internal" href="53_actions.html">Actions proposées</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          <div class="view-this-page">
+  <a class="muted-link" href="_sources/252_rapportCSV.rst.txt" title="View this page">
+    <svg><use href="#svg-eye"></use></svg>
+    <span class="visually-hidden">View this page</span>
+  </a>
+</div>
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+              <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main" id="furo-main-content">
+          <section id="un-format-csv-des-rapports-pour-les-visites-et-la-maintenance-annuelle-des-issues">
+<h1>Un format csv des rapports pour les visites et la maintenance annuelle des issues.<a class="headerlink" href="#un-format-csv-des-rapports-pour-les-visites-et-la-maintenance-annuelle-des-issues" title="Link to this heading">¶</a></h1>
+<p>La spécification des actions à mener et du contenu des rapports doit être réalisée par ailleurs.
+Dans cette page, on utilisera une hypothèse sur la nature des informations demandées;
+cette hypothèse a été construite sur la base du modèle de rapport annexé au CCTP de 2020.
+Les points qui auront été décidés viendront plus tard remplacer l’hypothèse utilisée ici.</p>
+<p>Le modèle de rapport prévoit que le prestataire renseigne 80 champs pour chaque issue, sans compter les
+champs de commentaires que le prestataire devrait remplir quand l’évaluation est mauvaise. La liste de ces champs est fournie ci-dessous avec un code à 5 caractère.</p>
+<p>Le modèle comporte 3 types de champs :</p>
+<ul class="simple">
+<li><p>Evaluation réalisée de jour (23)</p></li>
+<li><p>Evaluation réalisée de nuit (9)</p></li>
+<li><p>Constat de la réalisation d’actions de maintenance (47: contrôle, réglage, nettoyage, graissage …)</p></li>
+</ul>
+<p>Les évaluations prennent les 5 valeurs :</p>
+<div class="table-wrapper colwidths-given docutils container">
+<table class="docutils align-default" style="width: 40%">
+<colgroup>
+<col style="width: 75.0%" />
+<col style="width: 25.0%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Valeur</p></th>
+<th class="head"><p>Code</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>OK</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="row-odd"><td><p>Défaut mineur</p></td>
+<td><p>0.5</p></td>
+</tr>
+<tr class="row-even"><td><p>Défaut majeur</p></td>
+<td><p>0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Non équipé</p></td>
+<td><p>NE</p></td>
+</tr>
+<tr class="row-even"><td><p>Non verifié</p></td>
+<td><p>NV</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Les constats prennent les 3 valeurs :</p>
+<div class="table-wrapper colwidths-given docutils container">
+<table class="docutils align-default" style="width: 40%">
+<colgroup>
+<col style="width: 75.0%" />
+<col style="width: 25.0%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Valeur</p></th>
+<th class="head"><p>Code</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>L’intervenant n’a pas encore effectué l’action d’entretien</p></td>
+<td><p><strong>A faire</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>L’intervenant n’a pas pu effectuer l’action d’entretien</p></td>
+<td><p><strong>Pas fait</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>L’intervenant a effectué l’action d’entretien</p></td>
+<td><p><strong>Fait</strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Le fichier CSV de reporting comporte les champs suivants :</p>
+<div class="table-wrapper colwidths-given docutils container">
+<table class="docutils align-default" style="width: 90%">
+<colgroup>
+<col style="width: 57.1%" />
+<col style="width: 14.3%" />
+<col style="width: 28.6%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Valeur</p></th>
+<th class="head"><p>Code</p></th>
+<th class="head"><p>Contrôle</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Code de l’issue (ISNNN | ISNNNA)</p></td>
+<td><p>CodeIssue</p></td>
+<td><p>Prend d’une des 290 valeurs possibles</p></td>
+</tr>
+<tr class="row-odd"><td><p>Horodate de la saisie de l’information sur le terrain</p></td>
+<td><p>Horodate</p></td>
+<td><p>Respect du format “%Y/%M/%D %H:%M:%S”</p></td>
+</tr>
+<tr class="row-even"><td><p>Code du champ considéré</p></td>
+<td><p>CodeChamp</p></td>
+<td><p>Prend l’une des 79 valeurs possibles</p></td>
+</tr>
+<tr class="row-odd"><td><p>Valeur du champ  considéré</p></td>
+<td><p>Valeur</p></td>
+<td><p>Prend l’une des 3 ou 5 valeurs possibles selon le champs</p></td>
+</tr>
+<tr class="row-even"><td><p>Commentaire en texte libre en cas d’anomlie</p></td>
+<td><p>Commentaire</p></td>
+<td><p>Texte libre compatible avec le format CSV</p></td>
+</tr>
+<tr class="row-odd"><td><p>Nom et prénom de la personne qui réalise l’observation ou l’acton</p></td>
+<td><p>NomTech</p></td>
+<td><p>Respect du format texte avec au moins 2 mots</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Pour montrer la faisabilité de l’exercice, on a produit par simulation un fichier dans lequel les rapports de visites des 290 issues sont établis pour les 79 champs. Les valeurs sont aléatoires  :</p>
+<ul class="simple">
+<li><p>Modalité prise par la valeur du champ,</p></li>
+<li><p>Nuit des visites des issues d’un tunnel &amp;</p></li>
+<li><p>Horaire de la visite de l’issue particulière.</p></li>
+<li><p>Le commentaire et le nom de la personne sont constants !</p></li>
+</ul>
+<p><a class="reference external" href="https://storage.googleapis.com/ref-dett/rapportCSV.csv">Le fichier comporte 22 000 lignes et pèse un peu plus de 1Mo</a></p>
+<p><strong>Liste des champs figurant dans le modèle de rapport du marché Batiment 2020, avec les codes qui ont été associés pour identifier les champs dans le fichier CSV.</strong></p>
+<div class="table-wrapper colwidths-given docutils container">
+<table class="docutils align-default" style="width: 90%">
+<colgroup>
+<col style="width: 10.0%" />
+<col style="width: 20.0%" />
+<col style="width: 20.0%" />
+<col style="width: 50.0%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Code</p></th>
+<th class="head"><p>Type</p></th>
+<th class="head"><p>Famille</p></th>
+<th class="head"><p>Item</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>EVJ01</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Huisseries</p></td>
+<td><p>Porte Tunnel</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ02</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Huisseries</p></td>
+<td><p>Porte SAS</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ03</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Huisseries</p></td>
+<td><p>Porte Haute</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ04</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Huisseries</p></td>
+<td><p>Portail ou portillon Extérieure</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ05</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Eclairage et Alimentation</p></td>
+<td><p>Eclairage permanent (LED)</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ06</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Eclairage et Alimentation</p></td>
+<td><p>Eclairage renforcé (fluo)</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ07</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Eclairage et Alimentation</p></td>
+<td><p>Eclairage extérieur</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ08</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Eclairage et Alimentation</p></td>
+<td><p>Pictogramme CE30</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ09</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Accessibilité extérieure</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ10</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Signalisation extérieure de l’issue</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ11</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Vacuité dans l’issue</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ12</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Propreté de l’issue</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ13</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Visibilité de la statique (main courante et panneaux)</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ14</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Surpression (si issue équipée)</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ15</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Dégradation et accessibilité des PST</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ16</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Capteurs – Communication</p></td>
+<td><p>Téléphone de SEcurité</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ17</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Capteurs – Communication</p></td>
+<td><p>Caméra dans l’issue</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ18</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>Capteurs – Communication</p></td>
+<td><p>Détecteurs de présence</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ19</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>GTC</p></td>
+<td><p>Remontée GTC Ouverture porte (Tunnel)</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ20</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>GTC</p></td>
+<td><p>Remontée GTC Intrusion en issue (Haute)</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ21</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>GTC</p></td>
+<td><p>Remontée GTC Détection de présence en IS</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVJ22</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>GTC</p></td>
+<td><p>Remontée GTC Visualisation de la caméra en IS</p></td>
+</tr>
+<tr class="row-even"><td><p>EVJ23</p></td>
+<td><p>Evaluation Jour</p></td>
+<td><p>GTC</p></td>
+<td><p>Défaut(s) présent(s) à la GTC</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT01</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Fonctionnement des portes coupe-feu, avec réglage de fermeture</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT02</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Vérification de l’état des différents éléments constitutifs (panneaux et calfeutrements)</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT03</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>nettoyage des parements inox des vantaux effectué avec un chiffon doux imbibé d’un produit non corrosif</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT04</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>graissage des gonds, serrures et toutes les parties métalliques en mouvement</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT05</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Essais des organes de commande sensibles aux manifestations d’incendie</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT06</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Établissement d’un rapport relatif aux anomalies qui auraient pu être décelées</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT07</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Vérification de l’état mécanique (corrosion, chocs éventuels, serrage…) des pièces suivantes : pivot, roulement, ferme-porte et bras, serrures, sélecteurs de vantaux…</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT08</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Vérification du système de détection et de déclenchement</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT09</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Vérification la présence et l’état des liaisons électriques et détecteurs et des déclencheurs</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT10</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Test de fonctionnement par détection et déclenchement automatique</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT11</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Contrôle de l’alignement du capteur avec la porte et le cadre</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT12</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Tunnel</p></td>
+<td><p>Vérification temps de fermetures de la porte en moins de 30 secondes</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT13</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Fonctionnement des portes coupe-feu, avec réglage de fermeture</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT14</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Vérification de l’état des différents éléments constitutifs (panneaux et calfeutrements)</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT15</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>nettoyage des parements inox des vantaux effectué avec un chiffon doux imbibé d’un produit non corrosif</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT16</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>graissage des gonds, serrures et toutes les parties métalliques en mouvement</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT17</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Essais des organes de commande sensibles aux manifestations d’incendie</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT18</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Établissement d’un rapport relatif aux anomalies qui auraient pu être décelées</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT19</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Vérification de l’état mécanique (corrosion, chocs éventuels, serrage…) des pièces suivantes : pivot, roulement, ferme-porte et bras, serrures, sélecteurs de vantaux…</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT20</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Vérification du système de détection et de déclenchement</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT21</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Vérification la présence et l’état des liaisons électriques et détecteurs et des déclencheurs</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT22</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Test de fonctionnement par détection et déclenchement automatique</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT23</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Contrôle de l’alignement du capteur avec la porte et le cadre</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT24</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Extérieur</p></td>
+<td><p>Vérification temps de fermetures de la porte en moins de 30 secondes</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT25</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Fonctionnement des portes coupe-feu, avec réglage de fermeture</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT26</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Vérification de l’état des différents éléments constitutifs (panneaux et calfeutrements)</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT27</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>nettoyage des parements inox des vantaux effectué avec un chiffon doux imbibé d’un produit non corrosif</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT28</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>graissage des gonds, serrures et toutes les parties métalliques en mouvement</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT29</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Essais des organes de commande sensibles aux manifestations d’incendie</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT30</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Établissement d’un rapport relatif aux anomalies qui auraient pu être décelées</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT31</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Vérification de l’état mécanique (corrosion, chocs éventuels, serrage…) des pièces suivantes : pivot, roulement, ferme-porte et bras, serrures, sélecteurs de vantaux…</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT32</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Vérification du système de détection et de déclenchement</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT33</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Vérification la présence et l’état des liaisons électriques et détecteurs et des déclencheurs</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT34</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Test de fonctionnement par détection et déclenchement automatique</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT35</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Contrôle de l’alignement du capteur avec la porte et le cadre</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT36</p></td>
+<td><p>Action</p></td>
+<td><p>Huisseries Porte Sas</p></td>
+<td><p>Vérification temps de fermetures de la porte en moins de 30 secondes</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT37</p></td>
+<td><p>Action</p></td>
+<td><p>Eclairage et Alimentation</p></td>
+<td><p>contrôle de l’éclairage normal et de sécurité</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT38</p></td>
+<td><p>Action</p></td>
+<td><p>Eclairage et Alimentation</p></td>
+<td><p>contrôle et essai de l’éclairage de sécurité</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT39</p></td>
+<td><p>Action</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>vérification de la vacuité de l’issue</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT40</p></td>
+<td><p>Action</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>Vérification de la présence des panneaux d’évacuation</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT41</p></td>
+<td><p>Action</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>contrôle main courante</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT42</p></td>
+<td><p>Action</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>contrôle de l’état extérieur des armoires électriques</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT43</p></td>
+<td><p>Action</p></td>
+<td><p>Accessibilité et Sécurité</p></td>
+<td><p>contrôle de fonctionnement de la surpression</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT44</p></td>
+<td><p>Action</p></td>
+<td><p>Capteurs – Communication</p></td>
+<td><p>contrôle et essai du téléphone de sécurité</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT45</p></td>
+<td><p>Action</p></td>
+<td><p>Capteurs – Communication</p></td>
+<td><p>contrôle du fonctionnement du capteur de présence</p></td>
+</tr>
+<tr class="row-even"><td><p>ACT46</p></td>
+<td><p>Action</p></td>
+<td><p>Capteurs – Communication</p></td>
+<td><p>contrôle de fonctionnement de la caméra</p></td>
+</tr>
+<tr class="row-odd"><td><p>ACT47</p></td>
+<td><p>Action</p></td>
+<td><p>GTC</p></td>
+<td><p>Vérification des remontées d’information vers le PCTT (capteurs de portes, fonctionnement surpression, présence, caméra, téléphone de sécurité)</p></td>
+</tr>
+<tr class="row-even"><td><p>EVN01</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Signalisation</p></td>
+<td><p>Plots de jalonnement</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVN02</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Signalisation</p></td>
+<td><p>Chevrons</p></td>
+</tr>
+<tr class="row-even"><td><p>EVN03</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Signalisation</p></td>
+<td><p>Capotage + tri-flash</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVN04</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Signalisation</p></td>
+<td><p>CE30</p></td>
+</tr>
+<tr class="row-even"><td><p>EVN05</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Signalisation</p></td>
+<td><p>Présence et visibilité de la statique (DP2a/b, issue en face)</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVN06</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Signalisation</p></td>
+<td><p>Défaut(s) présent(s) à la GTC</p></td>
+</tr>
+<tr class="row-even"><td><p>EVN07</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Sonorisation</p></td>
+<td><p>Sirene</p></td>
+</tr>
+<tr class="row-odd"><td><p>EVN08</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>Sonorisation</p></td>
+<td><p>Balises sonores</p></td>
+</tr>
+<tr class="row-even"><td><p>EVN09</p></td>
+<td><p>Evaluation Nuit</p></td>
+<td><p>PST en Tunnel</p></td>
+<td><p>Dégradation et accessibilité des PST</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          
+          
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            Made with 
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer no-toc">
+      
+      
+      
+    </aside>
+  </div>
+</div><script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/furo.js?v=5fa4622c"></script>
+    </body>
+</html>
